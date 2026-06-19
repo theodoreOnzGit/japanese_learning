@@ -1,0 +1,60 @@
+\documentclass[11pt]{article}
+
+% --- Encoding & fonts ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+% --- Japanese support (compile with lualatex/xelatex, or use CJK with pdflatex) ---
+% If you compile with pdflatex, CJKutf8 lets you typeset Japanese inline.
+\usepackage{CJKutf8}
+
+% --- Layout & math ---
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{amsmath, amssymb}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    urlcolor=blue,
+}
+
+% --- Bibliography ---
+\usepackage[backend=biber, style=numeric]{biblatex}
+\addbibresource{references.bib}
+
+\title{Japanese Notes --- JLPT N5}
+\author{}
+\date{\today}
+
+\begin{document}
+\begin{CJK}{UTF8}{min}
+
+\maketitle
+\tableofcontents
+
+\section{Introduction}
+JLPT N5 is the lowest level of the Japanese-Language Proficiency Test. These
+notes cover the core hiragana, katakana, basic vocabulary, and grammar needed
+to reach this level.
+
+\section{Hiragana}
+% Example of typesetting Japanese: あ い う え お
+
+\section{Katakana}
+
+\section{Vocabulary}
+
+\section{Grammar}
+
+\section{Diary}
+
+
+
+% --- Bibliography ---
+\printbibliography
+
+\end{CJK}
+\end{document}
