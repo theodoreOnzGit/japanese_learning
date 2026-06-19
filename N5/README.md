@@ -34,6 +34,9 @@ Or just run the provided script, which does both:
 
 (Make it executable once with `chmod +x compile.sh`.)
 
+Both scripts run `latexmk -C` first to clear any stale generated files (a
+common cause of misleading compile errors) before starting the preview loop.
+
 ## Compiling (Windows)
 
 A PowerShell equivalent is provided:

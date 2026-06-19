@@ -7,6 +7,9 @@ param(
 
 $PdfFile = [System.IO.Path]::ChangeExtension($TexFile, ".pdf")
 
+# Clean all generated files first to avoid stale .aux/latexmk-state errors.
+latexmk -C $TexFile
+
 # Start latexmk in continuous preview mode (background job).
 Start-Process -NoNewWindow latexmk -ArgumentList "-pvc", "-pdf", "--interaction=nonstopmode", $TexFile
 

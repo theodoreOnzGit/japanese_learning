@@ -73,6 +73,20 @@ Japanese & Romaji & English \\
 \end{tabular}
 \end{center}
 
+\subsection{Adjectives}
+\begin{center}
+\begin{tabular}{@{}llll@{}}
+\toprule
+Japanese & Romaji & Type (mozc) & English \\
+\midrule
+いい     & ii      & i i        & good \\
+かっこいい & kakkoii & ka k ko i i & cool / stylish \\
+\bottomrule
+\end{tabular}
+\end{center}
+Note the small っ in か\textbf{っ}こいい --- type the doubled consonant
+(\texttt{kakkoii}).
+
 \section{Grammar}
 
 \subsection{Existence: \texorpdfstring{あります}{arimasu} / \texorpdfstring{います}{imasu}}
@@ -93,6 +107,61 @@ Example:
 ありがとうに「う」があります。
 \end{quote}
 \emph{Arigatou ni ``u'' ga arimasu.} --- ``There is an `う' in ありがとう.''
+
+\subsection{Question word: \texorpdfstring{どうやって}{dou yatte}}
+\textbf{どうやって} (\emph{dou yatte}) means ``how'' in the sense of
+\emph{by what means / method}. It breaks down as:
+\begin{itemize}
+  \item どう (\emph{dou}) --- how / in what way
+  \item やって (\emph{yatte}) --- て-form of やる (\emph{yaru}, ``to do'')
+\end{itemize}
+Literally ``doing in what way'' $\rightarrow$ ``how / by what means.''
+
+Use it when the answer is a \emph{method} (walking, by train, mixing
+ingredients, etc.):
+\begin{quote}
+駅までどうやって行きますか。 --- ``How do I get to the station?''
+\end{quote}
+
+Contrast with plain \textbf{どう}, which asks about a state or impression:
+\begin{quote}
+どうですか。 --- ``How is it? / How are you?''
+\end{quote}
+
+\subsection{Forms of \texorpdfstring{やる}{yaru} (``to do'')}
+A single verb branches into several forms. For やる (\emph{yaru}):
+\begin{center}
+\begin{tabular}{@{}lll@{}}
+\toprule
+Form & Japanese & Use \\
+\midrule
+Dictionary  & やる   & ``to do'' \\
+て-form      & やって & connector --- ``doing / and do'' (as in どうやって) \\
+Casual past & やった & ``did'' --- also the cheer 「やった！」 = ``I did it! / Yay!'' \\
+\bottomrule
+\end{tabular}
+\end{center}
+Note that やって and やった differ only in the last kana (て vs た) and both
+use the small っ (typed \texttt{yatte} / \texttt{yatta}).
+
+\subsection{Sentence-final particles: \texorpdfstring{よ}{yo} / \texorpdfstring{ね}{ne}}
+These attach to the end of a sentence to add nuance:
+\begin{itemize}
+  \item \textbf{よ} (\emph{yo}) --- emphasis; \emph{informing/asserting} something
+        to the listener (``\ldots you know!'').
+  \item \textbf{ね} (\emph{ne}) --- seeks \emph{agreement} (``\ldots right?'').
+\end{itemize}
+\begin{center}
+\begin{tabular}{@{}ll@{}}
+\toprule
+Sentence & Feel \\
+\midrule
+かっこいいです。   & ``It's cool.'' (neutral) \\
+かっこいいです\textbf{よ}。 & ``It's cool, you know!'' (asserting) \\
+かっこいいです\textbf{ね}。 & ``It's cool, isn't it?'' (seeking agreement) \\
+\bottomrule
+\end{tabular}
+\end{center}
 
 \section{Phrases}
 
@@ -139,6 +208,13 @@ Conjugations of 歩く (\emph{aruku}): ます-form \textbf{歩きます}
 (\emph{arukimasu}); て-form \textbf{歩いて} (\emph{aruite}). Note how
 \textbf{歩いて行きます} uses the て-form to connect 歩く to 行く --- the て-form
 links verbs, while \textbf{ます} ends the sentence.
+
+
+\section{Prompts for Claude}
+
+In どうやって, どうはhowでか？
+
+やては何でか？
 
 \section{Diary}
 
