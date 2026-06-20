@@ -17,7 +17,10 @@ The user is learning Japanese. The default way we work together:
      written `は` but pronounced "wa").
    - Where it aids practice, leave a blank for the user to attempt and then
      check their answer (collaborative "Learning" style).
-3. Keep explanations at roughly **N5 level** unless the user signals otherwise.
+3. Keep explanations at roughly **N5 level** for the user by default, **but be
+   ready for N4/N3-level questions**: the user studies with their girlfriend,
+   who is more advanced (around N4–N3) and may ask higher-level questions. Pitch
+   the answer to whoever is asking — don't artificially cap everything at N5.
 4. When the user wants something recorded, add it to the appropriate section of
    the relevant level's `.tex` file (e.g. Vocabulary, Grammar, Diary in
    `N5/N5.tex`).
