@@ -3,6 +3,26 @@
 This repo holds LaTeX study notes for learning Japanese, organized by JLPT level
 (starting with `N5/`, the lowest proficiency level).
 
+## Hard rule: cache web sources
+
+Any time Claude pulls something from the web (WebFetch/WebSearch) that gets
+incorporated into this repo's content, cache it in `resources/` as a
+markdown file:
+
+- One representative markdown file per source, named for the source.
+- Include an APA citation in plain text.
+- Include a BibTeX citation in a ```` ```bibtex ``` ```` code block.
+- Add a one-line entry to `resources/MAP.md` pointing at the new file.
+
+**When consulting the cache, read `resources/MAP.md` first — do not read
+the individual resource files unless specifically needed.** The map is the
+index; the files are the detail.
+
+Scope: sources that inform content actually added to this repo (vocab,
+grammar notes, quiz-mode resources, tooling decisions recorded in
+`CLAUDE.md`, etc.). Unrelated research (e.g. debugging the user's personal
+editor config outside this repo) doesn't need caching here.
+
 ## Tutoring workflow (primary mode of work)
 
 The user is learning Japanese. The default way we work together:
@@ -22,18 +42,62 @@ The user is learning Japanese. The default way we work together:
    who is more advanced (around N4–N3) and may ask higher-level questions. Pitch
    the answer to whoever is asking — don't artificially cap everything at N5.
 4. When the user wants something recorded, add it to the appropriate section of
-   the relevant level's `.tex` file (e.g. Vocabulary, Grammar, Diary in
-   `N5/N5.tex`).
+   the relevant level's `.tex` file (e.g. Vocabulary, Grammar, Diary,
+   Class Notes in `N5/N5.tex`).
 
 Be encouraging and concise. Correct mistakes directly but kindly.
+
+### Quiz mode
+
+When the user asks to be quizzed/tested ("quiz me", "quiz mode", "test me on
+X"), follow the scaffold in `N5/quiz_mode.md` rather than improvising a
+different quiz format each time.
+
+### Chat-as-scratchpad during class
+
+The user sometimes uses the chat live during class to jot down points as they
+come up. In that mode: don't wait to be asked each time — when the session
+winds down (the user says something like "done" or otherwise signals it's
+over), write the class notes (or a summary of the discussion) into the
+**Class Notes** section of `N5/N5.tex`, dated with the current date.
+
+### Known weak areas (quiz periodically)
+
+The user tracks recurring weak spots in `N5/mistakes_and_learning_pts/` —
+both screenshots of graded quiz mistakes and a running
+`weak_areas.md` list. Proactively work these into practice — don't wait to
+be asked, and check `weak_areas.md` at the start of a tutoring session if
+it's been a while. Current items:
+
+- **に vs を with 乗る (noru, "board") / 降りる (oriru, "get off")** — 乗る
+  takes に (電車に乗る, moving *onto/into* the vehicle — に marks the goal),
+  but 降りる takes を, not に (電車を降りる, moving *out of* the vehicle — を
+  marks separation, same pattern as 家を出る). The user's instinct is to use
+  に for both. Source: `N5/mistakes_and_learning_pts/particles_ni_and_so_on.png`.
+- **Pitch accent / intonation** — no audio feedback available in-chat; needs
+  an external reference to practice against.
+- **Reading dates (日, days of the month)** — days 1–10 (plus 14, 20, 24)
+  have irregular readings that don't follow number+にち.
+- **Reading months (月)** — 4月/7月/9月 use irregular readings (しがつ /
+  しちがつ / くがつ) instead of the expected number+がつ pattern.
+- **Counting with counters (助数詞)** — sokuon/rendaku sound shifts on
+  counters like 本, 匹, 個 depending on the preceding number (e.g. いっぽん,
+  さんぼん, ろっぴき) are inconsistent and need per-counter drilling.
+- **Positional nouns (位置名詞)** — 上/下/中/前/後ろ/横/隣/近く/間 etc.
+  (pattern: [もの]の[position]に). 間 (あいだ, "between") is the odd one
+  out, needing two nouns joined by と before の.
+
+Full detail on each: `N5/mistakes_and_learning_pts/weak_areas.md`.
 
 ## Project structure
 
 - `N5/N5.tex` — main N5 notes. Sections: Hiragana, Katakana, Vocabulary,
-  Grammar, Diary.
+  Grammar, Diary, Class Notes.
 - `N5/references.bib` — BibTeX bibliography (biblatex + biber backend).
 - `N5/compile.sh` / `N5/compile.ps1` — build + view scripts (Linux / Windows).
 - `N5/README.md` — compilation instructions.
+- `N5/mistakes_and_learning_pts/` — screenshots of graded quiz mistakes,
+  used to build the "known weak areas" list above.
 
 ## Build / compile
 

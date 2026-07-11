@@ -56,3 +56,17 @@ default PDF viewer.
 - Japanese text is handled via the `CJKutf8` package so it works with
   `pdflatex`. If you prefer, you can compile with `lualatex`/`xelatex` and a
   Japanese font package instead.
+
+## Working with Claude Code
+
+Sonnet is sufficient for the tutoring workflow in this repo (corrections,
+grammar explanations, class-notes transcription) — no need to step up to
+Opus. Haiku is too light for the tutoring/correction side (catching mistakes,
+judging N5 vs N4/N3 pitch), though it would be enough for pure note
+transcription alone.
+
+Considered offloading note transcription to a separate Gemini subscription
+(to save Claude tokens) and pasting the result in here, but decided to stick
+with Sonnet for everything for now — pasted text would still cost tokens to
+reconcile against this repo's formatting conventions, and for the current
+volume of class notes it's not worth the extra pipeline.
