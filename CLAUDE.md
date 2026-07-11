@@ -42,6 +42,10 @@ Be encouraging and concise. Correct mistakes directly but kindly.
 - Japanese is typeset via the `CJKutf8` package, so plain `pdflatex` works.
   All Japanese content must sit inside the `\begin{CJK}{UTF8}{min} ... \end{CJK}`
   environment.
+- The user already runs `latexmk -pvc` in the background (auto-recompiles on
+  save). Claude should **not** run `pdflatex`/`latexmk` itself after editing
+  `N5.tex` — it's redundant and risks fighting over the same aux/lock files
+  with the running watcher.
 
 ### Gotcha: stale aux files
 
