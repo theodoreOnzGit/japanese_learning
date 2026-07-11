@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "japanese_learning",
+  "project_id": "2e9263f4-53a9-4eb0-97f7-23c0575be57f"
+}
