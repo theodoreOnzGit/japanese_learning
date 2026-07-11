@@ -5,6 +5,13 @@ areas") for the instruction to work these into practice without being asked.
 Add to this file as new weak spots come up (quiz mistakes, self-identified,
 or flagged by the girlfriend/teacher).
 
+## Vocab: 椅子 (いす, isu, "chair")
+
+Flagged from class (2026-07-11). Mnemonic: same kanji as Mandarin 椅子
+(yǐzi, "chair") — that's also why the pronunciation is reminiscent
+("isu" ≈ "yi zi"). Watch for confusing it with **いつ (itsu, "when")** —
+different word, つ vs す is the easy typo/misreading here.
+
 ## Intonation / pitch accent
 
 Japanese is a pitch-accent language: each mora is either high or low, and

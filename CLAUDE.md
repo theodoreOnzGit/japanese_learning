@@ -67,7 +67,14 @@ The user tracks recurring weak spots in `N5/mistakes_and_learning_pts/` —
 both screenshots of graded quiz mistakes and a running
 `weak_areas.md` list. Proactively work these into practice — don't wait to
 be asked, and check `weak_areas.md` at the start of a tutoring session if
-it's been a while. Current items:
+it's been a while.
+
+**Auto-log trigger:** whenever the user asks "what is X in Japanese" (a
+translation/vocab lookup), add X to `weak_areas.md` automatically — the act
+of asking is itself evidence of a gap, no need to wait for a mistake or to
+be asked separately to log it.
+
+Current items:
 
 - **に vs を with 乗る (noru, "board") / 降りる (oriru, "get off")** — 乗る
   takes に (電車に乗る, moving *onto/into* the vehicle — に marks the goal),
@@ -86,6 +93,8 @@ it's been a while. Current items:
 - **Positional nouns (位置名詞)** — 上/下/中/前/後ろ/横/隣/近く/間 etc.
   (pattern: [もの]の[position]に). 間 (あいだ, "between") is the odd one
   out, needing two nouns joined by と before の.
+- **椅子 (いす, "chair") vs いつ ("when")** — easy to typo/misread つ↔す;
+  mnemonic is that いす shares its kanji (椅子) with Mandarin yǐzi.
 
 Full detail on each: `N5/mistakes_and_learning_pts/weak_areas.md`.
 
