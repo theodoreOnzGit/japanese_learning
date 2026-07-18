@@ -408,8 +408,17 @@ Key points:
 - **僕 vs 俺** — same meaning, opposite positioning: 僕 softens/lowers, 俺
   asserts. 俺 to a boss/senior = a misstep (same category of error as あげる to
   a senior).
-- **僕 is male-coded** — the user's girlfriend would use わたし (or casual
-  あたし), not 僕. Relevant since they study together.
+- **僕 is male-coded** — the user's girlfriend would use わたし, not 僕.
+  Relevant since they study together.
+- **あたし (feminine casual "I") — sensei's warning (2026-07-18):** あたし =
+  わたし with the わ softened; very casual and feminine. Sensei said it sounds
+  **"act cute" (ぶりっこ / burikko)** and advised ladies *not* to use it. Fuller
+  picture: it's not rude and many women use it naturally, but it's
+  **register-restricted (casual only) + carries a girlish/cutesy connotation**,
+  and is wrong in formal settings. Safe rule = default to **わたし** (genderless,
+  never wrong); treat あたし as a marked, casual-cutesy choice. Same logic as
+  俺 for men (natural-but-rough, casual-only). わたし and 僕 are the "safe,
+  unmarked" pronouns.
 
 ## Interjections: へえ / え〜 / えっ / ええ (surprise sounds)
 
