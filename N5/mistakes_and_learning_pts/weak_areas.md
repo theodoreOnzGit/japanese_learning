@@ -119,6 +119,29 @@ to **くれます**. The giving/receiving trio:
 Today's focus is あげます; just remember くれます exists for gifts coming *your*
 way, and もらいます for receiving.
 
+## Interjections: へえ / え〜 / えっ / ええ (surprise sounds)
+
+Flagged from class chat (2026-07-18). These あいづち/interjections sound similar
+but do different jobs — easy to blur.
+
+- **へえ（〜）** — *impressed / "didn't know that, interesting!"* — positive-ish
+  surprise. Reaction to a fun fact. NOT English "hey" (false friend — "hey"
+  gets attention; へえ is a *response*). Closest English: "ohh / huh / TIL."
+  へえ〜 stretched = more impressed.
+- **えっ！** (short, sharp) — *"Huh?! What?!"* startled/shocked.
+  えっ！本当ですか？
+- **え〜** (stretched, the whiny "ehhhh") — *surprise + doubt / reluctance /
+  dismay*: disbelief (え〜、うそでしょ！ "you're kidding!"), reluctance
+  (え〜、行きたくない〜 "ehh, I don't wanna~"), disappointment
+  (え〜、もう終わり？ "ehh, over already?").
+- **ええ** (two-mora, flat — NOT drawn out) — soft polite **"yes"** (warmer than
+  うん): ええ、そうです。
+
+Key contrast: **へえ** = "oh cool, TIL" (positive); **え〜** = "ehh, really…? /
+awww / ugh" (doubt/reluctance). Fun fact → へえ〜; bad news / hard to believe →
+え〜. And watch ええ ("yes") vs え〜 ("ehh, doubt") — same kana neighbors, opposite
+meanings, told apart by length + pitch.
+
 ## Positional nouns (位置名詞)
 
 Flagged from class (2026-07-11) — うえ and the rest of this family are

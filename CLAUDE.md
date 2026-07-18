@@ -69,6 +69,14 @@ both screenshots of graded quiz mistakes and a running
 be asked, and check `weak_areas.md` at the start of a tutoring session if
 it's been a while.
 
+**Mastery bar (standing rule):** an item is *not* considered learned just
+because it was explained or logged. The user's bar is that they can (1) be
+quizzed on it and (2) write correct sentences using it, unaided. Until an item
+clears both, keep it in the active quiz rotation — logging to `weak_areas.md`
+is the *start* of learning it, not the end. Don't retire an item from rotation
+on the strength of a single correct answer; look for repeated correct use
+across quizzing and sentence production before treating it as solid.
+
 **Auto-log trigger:** whenever the user asks "what is X in Japanese" (a
 translation/vocab lookup), add X to `weak_areas.md` automatically — the act
 of asking is itself evidence of a gap, no need to wait for a mistake or to
