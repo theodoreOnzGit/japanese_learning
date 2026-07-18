@@ -77,6 +77,15 @@ is the *start* of learning it, not the end. Don't retire an item from rotation
 on the strength of a single correct answer; look for repeated correct use
 across quizzing and sentence production before treating it as solid.
 
+**Split language vs cultural (standing rule):** `weak_areas.md` is organized
+into two top-level sections — **Language weak areas** (kana, vocab, grammar,
+readings, particles — how the *language* works) and **Cultural weak areas**
+(customs, etiquette, social context — how *Japan* works). File each new item
+under the correct heading. When an item has both angles (e.g. the
+バレンタインデー あげます sentence — a grammar pattern *and* a gendered gift
+custom), log the language part under Language and the cultural part under
+Culture, and cross-reference the two.
+
 **Auto-log trigger:** whenever the user asks "what is X in Japanese" (a
 translation/vocab lookup), add X to `weak_areas.md` automatically — the act
 of asking is itself evidence of a gap, no need to wait for a mistake or to

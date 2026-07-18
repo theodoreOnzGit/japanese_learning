@@ -5,6 +5,15 @@ areas") for the instruction to work these into practice without being asked.
 Add to this file as new weak spots come up (quiz mistakes, self-identified,
 or flagged by the girlfriend/teacher).
 
+**Two categories (standing rule):** weak areas are split into **Language** (kana,
+vocab, grammar, readings, particles — things about *how Japanese works*) and
+**Culture** (customs, etiquette, social context — things about *how Japan works*).
+File each new item under the right heading; if an item has both a language and a
+cultural angle, log the language part under Language and the cultural part under
+Culture, cross-referencing between them.
+
+# Language weak areas
+
 ## Vocab: 椅子 (いす, isu, "chair")
 
 Flagged from class (2026-07-11). Mnemonic: same kanji as Mandarin 椅子
@@ -119,6 +128,18 @@ to **くれます**. The giving/receiving trio:
 Today's focus is あげます; just remember くれます exists for gifts coming *your*
 way, and もらいます for receiving.
 
+**Worked example (class, 2026-07-18) — watch the double に:**
+
+> わたしは バレンタインデーに かれに チョコレートを あげます。
+> *watashi wa barentaindē ni kare ni chokorēto wo agemasu.*
+> "I give chocolate to my boyfriend on Valentine's Day."
+
+The key point: に appears **twice with different jobs** — バレンタインデー**に** =
+*time* ("on Valentine's Day," same に as 7時に), かれ**に** = *recipient* ("to
+him"). Same particle, two functions (に marks the point/target something lands on,
+whether a time or a person). Direction is correct: あげます (you → outward), not
+くれます. Cultural angle logged under Culture → [バレンタインデー / ホワイトデー].
+
 ## Interjections: へえ / え〜 / えっ / ええ (surprise sounds)
 
 Flagged from class chat (2026-07-18). These あいづち/interjections sound similar
@@ -187,3 +208,27 @@ Breakdown:
 - パンや**と**ラーメンや — "the bakery **and** the ramen shop"
 - （パンやとラーメンや）**の**あいだ — "the between **of** (the bakery and
   the ramen shop)" → "between the bakery and the ramen shop"
+
+# Cultural weak areas
+
+## バレンタインデー / ホワイトデー (Valentine's Day / White Day)
+
+Flagged from class (2026-07-18), via the sentence わたしは バレンタインデーに
+かれに チョコレートを あげます (language angle logged under Language →
+"Grammar: あげます"). In Japan the gift direction is **gendered and split
+across two days**:
+
+- **バレンタインデー (Feb 14):** *women* give *men* chocolate — the reverse of
+  the Western default. Two kinds worth knowing:
+  - **本命チョコ (ほんめいチョコ)** — "true-feeling" chocolate for a romantic
+    interest / partner.
+  - **義理チョコ (ぎりチョコ)** — "obligation" chocolate given to male
+    colleagues, bosses, friends out of social duty (義理 = obligation/duty),
+    no romantic meaning.
+- **ホワイトデー (Mar 14):** one month later, *men* reciprocate to women who
+  gave them chocolate, traditionally with white sweets/gifts (cookies, white
+  chocolate, marshmallows). "返し" (return gift) is the expectation.
+
+Why it's a weak area: the direction (women→men first) and the 本命 vs 義理
+distinction are non-obvious to Western learners and shape what a sentence like
+the あげます example actually *implies* socially.
