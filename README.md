@@ -34,7 +34,7 @@ and limits:
   reasoning from memory alone doesn't.
   *Agentic* AI (tool-using, not just chat) adds another edge on top of
   that: it can synthesize and keep several files consistent with each other
-  in one pass — e.g. adding a weak spot to `weak_areas.md` and updating its
+  in one pass — e.g. adding a weak spot to `language_weak_areas.md` and updating its
   one-line summary in `CLAUDE.md` in the same turn, or adding a cached
   source to `resources/` and linking it from both `MAP.md` and whatever
   file cited it. A human can do the same cross-file update by hand —
@@ -56,7 +56,7 @@ and limits:
   biber regenerates a consistent bibliography every compile, no manual
   duplication involved. The difference from agentic AI is upfront cost:
   LaTeX's cross-referencing needed someone to design that mechanism once;
-  the `weak_areas.md`/`CLAUDE.md`/`resources/` sync has no such mechanism
+  the weak-areas/`CLAUDE.md`/`resources/` sync has no such mechanism
   and instead relies on the AI doing it correctly, ad hoc, every time.
   Determinism isn't free of its own failure mode, either: a program
   enforces whatever rules it was given, even after those rules go stale.
@@ -66,7 +66,8 @@ and limits:
   agent's stray action.
 
 The structure in this repo leans on that division of labor: `CLAUDE.md`,
-`N5/mistakes_and_learning_pts/weak_areas.md`, `N5/quiz_mode.md`, and
+`N5/mistakes_and_learning_pts/language_weak_areas.md` and
+`cultural_weak_areas.md`, `N5/quiz_mode.md`, and
 `resources/` (with `resources/MAP.md` as an index, read before the full
 cache) are the "unlimited memory" layer — neither a human's memory nor an
 AI's context window has to keep re-deriving this state every session. The
@@ -85,7 +86,7 @@ That gap is exactly what a real program closes. The `\cite`/`references.bib`
 mechanism in `N5.tex` is a small existing example: someone wrote the sync
 logic once (in this case, biblatex/biber), and it now enforces consistency
 deterministically, no ad hoc judgment required per edit. The same could be
-done for `CLAUDE.md`/`weak_areas.md`/`resources/` — a small tool (Rust,
+done for `CLAUDE.md`/the weak-areas files/`resources/` — a small tool (Rust,
 given that's the author's language of choice elsewhere) that parses the
 cross-references and fails loudly if `MAP.md` drifts from the files it
 indexes, instead of trusting an agentic AI to keep them in sync correctly

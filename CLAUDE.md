@@ -64,32 +64,42 @@ over), write the class notes (or a summary of the discussion) into the
 ### Known weak areas (quiz periodically)
 
 The user tracks recurring weak spots in `N5/mistakes_and_learning_pts/` —
-both screenshots of graded quiz mistakes and a running
-`weak_areas.md` list. Proactively work these into practice — don't wait to
-be asked, and check `weak_areas.md` at the start of a tutoring session if
-it's been a while.
+both screenshots of graded quiz mistakes and two running lists,
+`language_weak_areas.md` and `cultural_weak_areas.md`. Proactively work these
+into practice — don't wait to be asked, and check both files at the start of a
+tutoring session if it's been a while.
 
 **Mastery bar (standing rule):** an item is *not* considered learned just
 because it was explained or logged. The user's bar is that they can (1) be
 quizzed on it and (2) write correct sentences using it, unaided. Until an item
-clears both, keep it in the active quiz rotation — logging to `weak_areas.md`
-is the *start* of learning it, not the end. Don't retire an item from rotation
+clears both, keep it in the active quiz rotation — logging to the weak-areas
+files is the *start* of learning it, not the end. Don't retire an item from rotation
 on the strength of a single correct answer; look for repeated correct use
 across quizzing and sentence production before treating it as solid.
 
-**Split language vs cultural (standing rule):** `weak_areas.md` is organized
-into two top-level sections — **Language weak areas** (kana, vocab, grammar,
-readings, particles — how the *language* works) and **Cultural weak areas**
-(customs, etiquette, social context — how *Japan* works). File each new item
-under the correct heading. When an item has both angles (e.g. the
-バレンタインデー あげます sentence — a grammar pattern *and* a gendered gift
-custom), log the language part under Language and the cultural part under
-Culture, and cross-reference the two.
+**Split language vs cultural (standing rule):** weak areas live in **two
+separate files** — `language_weak_areas.md` (kana, vocab, grammar, readings,
+particles — how the *language* works) and `cultural_weak_areas.md` (customs,
+etiquette, social context — how *Japan* works). File each new item in the
+correct file. When an item has both angles (e.g. the バレンタインデー あげます
+sentence — a grammar pattern *and* a gendered gift custom), log the language
+part in `language_weak_areas.md` and the cultural part in
+`cultural_weak_areas.md`, and cross-reference the two.
 
-**Auto-log trigger:** whenever the user asks "what is X in Japanese" (a
-translation/vocab lookup), add X to `weak_areas.md` automatically — the act
-of asking is itself evidence of a gap, no need to wait for a mistake or to
-be asked separately to log it.
+**Auto-log trigger (standing rule):** log *everything new the user brings up*
+to the appropriate weak-areas file automatically — **do not ask first, just
+log.** This covers both directions:
+- **Questions** — "what is X in Japanese," "what does X mean," "is it like Y,"
+  any lookup or clarification. The act of asking is itself evidence of a gap.
+- **New items the user shares** — a sentence from class, a word the teacher
+  used, a grammar point, a cultural note. Anything they drop into the chat as
+  "here's something new" gets recorded.
+
+Applies to **both categories** (language *and* cultural — file under the right
+heading per the split rule above; dual-angle items go under both). The user has
+explicitly said not to ask permission each time — logging is the default,
+silent behavior. Still confirm *what* was logged in the reply, just don't gate
+it behind a question.
 
 Current items:
 
@@ -113,7 +123,8 @@ Current items:
 - **椅子 (いす, "chair") vs いつ ("when")** — easy to typo/misread つ↔す;
   mnemonic is that いす shares its kanji (椅子) with Mandarin yǐzi.
 
-Full detail on each: `N5/mistakes_and_learning_pts/weak_areas.md`.
+Full detail on each: `N5/mistakes_and_learning_pts/language_weak_areas.md`
+and `N5/mistakes_and_learning_pts/cultural_weak_areas.md`.
 
 ## Project structure
 

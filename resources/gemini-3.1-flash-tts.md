@@ -2,7 +2,7 @@
 
 **URL:** https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/
 **Accessed:** 2026-07-11
-**Used in:** `N5/mistakes_and_learning_pts/weak_areas.md` (pitch accent / intonation practice)
+**Used in:** `N5/mistakes_and_learning_pts/language_weak_areas.md` (pitch accent / intonation practice)
 
 ## Summary
 
