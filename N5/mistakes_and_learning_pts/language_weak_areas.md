@@ -147,6 +147,101 @@ Second worked example, same double-に shape (class, 2026-07-18):
 旧正月**に** = *time*, こども**に** = *recipient*. Vocab logged below (Vocab:
 旧正月 / お年玉); cultural angle: `cultural_weak_areas.md` → "お年玉 / 正月 vs 旧正月".
 
+**もらいます / もらいました (receive) — the inward verb** (class, 2026-07-18).
+Pattern: **[receiver は] [giver に／から] [thing を] もらいます**. に (or から,
+clearer "from") marks the giver/source; を marks the thing received.
+
+> 友達に プレゼントを もらいました。
+> *tomodachi ni purezento wo moraimashita.*
+> "I received a present from my friend."
+
+So に now has a *third* job across these verbs: **time** (バレンタインデーに),
+**recipient/goal** (かれに あげます, "to"), **source** (友達に もらいます, "from").
+Direction comes from the verb: あげます = outward ("to"), もらいます = inward
+("from"). Trap: もらう allows に→から, but あげる's recipient に **cannot** become
+から — から only works with もらう. Past-tense parallel with です: noun/copula
+です→でした, verb もらいます→もらいました (both "polite past," different word types).
+
+**Direction rule — 私にあげました is ALWAYS wrong** (class, 2026-07-18). Since
+あげる flows *outward, away from the speaker*, 私 (the speaker) can never be its
+recipient. "My friend gave me chocolate" has two correct forms, never あげる:
+
+| | Sentence | Logic |
+|---|---|---|
+| ✅ A | 友達が 私に チョコを **くれました** | くれる = someone gives *toward me* (giver = subject) |
+| ✅ B | 私は 友達に チョコを **もらいました** | もらう = *I received* (receiver = subject) |
+| ❌ | ~~友達が 私に チョコを あげました~~ | あげる can't point at 私 |
+
+Same event, different viewpoint: くれました tells it from the giver's side
+(友達が…), もらいました from the receiver's side (私は…). Memory hook: gift **away
+from me** → あげる; gift **toward me** → くれる (giver's view) / もらう (my view);
+**私に + あげる = always wrong.**
+
+**Extends to family / in-group (内 uchi)** (class, 2026-07-18): the "toward me"
+boundary is not just literally 私 — it covers your whole **in-group** (family,
+people on your side). Someone giving to your mother/brother counts as giving
+*toward you*, so it also takes くれる / もらう, never あげる:
+
+- ✅ 田中さんが 母に 花を **くれました** (giver's view)
+- ✅ 母は 田中さんに 花を **もらいました** (receiver's view)
+- ❌ ~~田中さんが 母に 花を あげました~~ — 母 is 内 (in-group), あげる can't
+  point at her.
+
+This is the **内 (uchi, in-group) / 外 (soto, out-group)** axis: family counts as
+"me" for direction. あげる only works when the gift leaves your whole in-group to
+an outsider, or passes between two outsiders. (Cultural angle:
+`cultural_weak_areas.md` → "Hierarchy dictates verb choice (keigo)" — uchi/soto
+is the same relational logic that governs keigo.)
+
+**Keigo ladder — hierarchy changes the verb, not just the ending** (class,
+2026-07-18). You **cannot** say あげます to a senior/superior — あげる implies
+"doing them a favor" and sounds presumptuous aimed upward. The verb itself
+shifts by social level. Cultural angle: `cultural_weak_areas.md` → "Hierarchy
+dictates verb choice (keigo)".
+
+- **Giving (me → other), by recipient's status:** やる (juniors/animals/plants,
+  plain) → **あげる** (equals, neutral) → **さしあげる (差し上げる)** (seniors/
+  superiors/customers, humble 謙譲語). "I give to a teacher" = 先生に … を
+  **さしあげます**, not あげます.
+- **Receiving (I receive):** **もらう** (from equals) → **いただく (頂く)** (from
+  a superior, humble). 先生に 本を **いただきました**. (Same いただく as
+  いただきます before eating — "I humbly receive.")
+- **Other gives to me:** **くれる** (equal/junior → me) → **くださる (下さる)**
+  (superior → me, honorific 尊敬語). 先生が … を **くださいました**. (Same
+  くださる as ください, "please give me.")
+
+One-liner: to a senior → **さしあげる** (not あげる); from a senior → **いただく**
+(not もらう); a senior gives you → **くださる** (not くれる). 謙譲語 lowers *your*
+action; 尊敬語 raises *their* action.
+
+## です past tense: でした (+ the い-adjective trap)
+
+Learnt in class (2026-07-18) as the past of です. です (polite copula, "is") has
+a tidy four-form grid:
+
+| | Affirmative | Negative |
+|---|---|---|
+| Non-past ("is") | です | じゃないです / ではありません |
+| Past ("was") | **でした** | じゃなかったです / ではありませんでした |
+
+- 学生でした。"I was a student." / 昨日は雨でした。"It was rainy yesterday."
+- **Trap:** でした attaches to **nouns and な-adjectives**, NOT い-adjectives.
+  い-adjectives carry their own past: おいしい → **おいしかったです** ("was
+  delicious"), NOT ~~おいしいでした~~. So 静かでした ✓ (な-adj), 先生でした ✓
+  (noun), but よかったです ✓ / ~~いいでした~~ ✗ (い-adj).
+
+## Vocab: だめ (駄目, "no good / not allowed / no")
+
+Learnt in class (2026-07-18). だめ (usually written だめ or ダメ; kanji 駄目) =
+"no good, not allowed, must not, hopeless." Uses:
+- **"No / not allowed":** だめです ("that's not OK / you can't"). Refusing or
+  forbidding — stronger/blunter than a soft いいえ.
+- **"No good / broken / hopeless":** このペンはだめです ("this pen is no good").
+- Pairs with てはいけない grammar later (〜てはだめ = "must not …").
+
+Note it's a な-adjective/noun, so past = だめでした ("was no good"), negative =
+だめじゃない.
+
 ## Interjections: へえ / え〜 / えっ / ええ (surprise sounds)
 
 Flagged from class chat (2026-07-18). These あいづち/interjections sound similar
