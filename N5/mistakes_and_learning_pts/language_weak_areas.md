@@ -528,8 +528,7 @@ Nounが　ほしいです。
 
 
 
-###
-Wearing stuff:
+### Wearing stuff:
 
 on top: きます
 from bottom: はきます
@@ -542,3 +541,47 @@ for too many and i don't know:
 きますとはきます
 everything else: します (but it's pretty broken)
 
+### This and that 
+
+While i kinda know the sore, kore and a-re logicic,
+
+there were some vocab that eluded me 
+
+Box: はこ
+
+Church: きょうかい（教会）
+
+こちら、そちら、あちら、どちら
+
+Stamps: きって
+
+magazine: ざし
+
+Blue: あお (blue)
+
+みどり can mean either green colour or even greenery 
+
+### Numbers 
+
+special pronunciation 
+300 びゃく
+600 ぴゃく
+800 ぴゃく
+
+3000 さんぜん
+8000 はっせん
+
+
+にじゅうごてんご (ten means point...)
+25.5　にじゅうご　てん　ご
+二十ごてんご (25.5)
+
+### When asking if something is cheaper or better...
+
+もっといいの（が）　ありますか。
+(ga) is in written jap, but may be omitted in conversation
+
+When shopping: 着替え室 (changing room)
+
+
+Homework, talk about Fukushima trip
