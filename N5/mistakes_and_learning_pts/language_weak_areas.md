@@ -564,6 +564,27 @@ already makes them function as adverbs on their own.
 ここのか, the irregular reading for "9th" already logged under "Reading
 dates: days of the month."
 
+## Grammar: に興味がある ("interested in") + から reason clause
+
+Flagged while building Fukushima slide 3 motivation line (2026-07-25) —
+wanted to say "I'm interested in radiation and nuclear energy, that's why I
+travelled there." New vocab: **放射線** (ほうしゃせん, "radiation"),
+**興味** (きょうみ, "interest"). Pattern: **[thing]に興味があります** — 興味
+is a noun that "exists" (あります) for the person, so it takes が (subject),
+and the thing you're interested in takes に (target) — same が-stative shape
+as が欲しい, just に marking the target instead of nothing/を.
+
+> 放射線と核エネルギーに興味がありますから、福島に行きました。
+> *Houshasen to kaku enerugii ni kyoumi ga arimasu kara, Fukushima ni
+> ikimashita.*
+> "Because I'm interested in radiation and nuclear energy, I went to
+> Fukushima."
+
+から attaches directly after the reason clause (興味がありますから), reason
+first then result — same shape as their own 面白いですから attempt that
+started this. Logged in full to `N5.tex` → Grammar → "Expressing interest:
+に興味がある".
+
 ## Grammar: で as a linking form of です
 
 Flagged while building Fukushima slides (2026-07-25): です has a connector
