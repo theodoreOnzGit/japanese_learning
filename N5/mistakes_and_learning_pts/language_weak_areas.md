@@ -564,6 +564,16 @@ already makes them function as adverbs on their own.
 ここのか, the irregular reading for "9th" already logged under "Reading
 dates: days of the month."
 
+## Quiz miss (2026-07-25): 放射線 vs 核エネルギー recall under prompt
+
+Asked to translate "I'm interested in radiation" (に興味がある quiz round);
+answered 核エネルギーに興味があります instead of 放射線に興味があります ---
+grammar pattern fully correct, but substituted a different (also-known)
+noun rather than the one asked for. Possibly favoring 核エネルギー since it
+was the more recently drilled/emphasized word (chosen over 原子力 earlier).
+Keep both 放射線 and 核エネルギー in rotation as distinct vocab, not
+interchangeable answers.
+
 ## Grammar: に興味がある ("interested in") + から reason clause
 
 Flagged while building Fukushima slide 3 motivation line (2026-07-25) —
