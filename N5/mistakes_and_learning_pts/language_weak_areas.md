@@ -533,6 +533,18 @@ Also flagged: **セオドウ vs セオドア** for "Theodore" — セオドア i
 conventional katakana rendering (ドア matches English "-dore," like ドア
 "door"); セオドウ isn't wrong, just non-standard.
 
+## Vocab: 核 (かく, "nucleus/core") vs 原子 (げんし, "atom") vs 原子力 (げんしりょく, "atomic power")
+
+Flagged from lookup (2026-07-25) — asked about a word for "nucleus" distinct
+from "atom," while refining 原子力科学者. 原子 (げんし) = the whole atom;
+**核 (かく)** = nucleus/core specifically, and also the common "nuclear-"
+root in compounds: 核兵器 (かくへいき, "nuclear weapon"), 核実験 (かくじっけん,
+"nuclear test"), 核戦争 (かくせんそう, "nuclear war"). 原子核 (げんしかく) =
+"atomic nucleus" (原子 + 核 combined). 原子力 (げんしりょく) = "atomic
+power/energy," specifically the power-plant/energy-industry sense (vs 核科学者
+which leans nuclear-physics/weapons). Chose 原子力科学者 for the Fukushima
+slides since the trip theme is a power plant, not weapons/physics research.
+
 ## Grammar: で as a linking form of です
 
 Flagged while building Fukushima slides (2026-07-25): です has a connector
