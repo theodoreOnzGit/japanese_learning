@@ -502,6 +502,27 @@ Breakdown:
 - （パンやとラーメンや）**の**あいだ — "the between **of** (the bakery and
   the ramen shop)" → "between the bakery and the ramen shop"
 
+## Grammar: Potential form (可能形, かのうけい) — 買えます (dekiru/kaeru pattern)
+
+Flagged from self-produced sentence (2026-07-25): 「Orchard Roadで買えます」("You
+can buy it at Orchard Road") — got it right on first attempt, logging to
+confirm with repetition before retiring per the mastery bar.
+
+**Formation (う-verb / godan):** swap final -u → -eru, then polite -masu.
+買**う** (kau, "buy") → 買**える** (kaeru, "can buy") → 買**えます** (polite).
+Same pattern for other godan verbs: 飲む→飲める ("can drink"), 話す→話せる
+("can speak").
+
+**で vs に with potential/action verbs:** で marks the *location of an
+action* (買う is an action → Orchard Road**で**買えます). Don't confuse with
+に, which marks location of *existence* (あります/います) or a
+goal/destination.
+
+**Object particle shift を→が:** like 〜たい (水**が**飲みたい), potential
+verbs often prefer が over を for the object: 紅茶**が**買えます (both are
+heard, but が is more natural/emphatic). Same underlying pattern as the
+欲しい/たい が-shift already logged above.
+
 # Human Registered Weak areas in class 
 
 ## 25 Jul 2026 
