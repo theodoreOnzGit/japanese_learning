@@ -604,6 +604,18 @@ Mistake caught in the same message: **福島で放射線がりますか** →
 existence (あります) needs **に** per the already-known X に Y が あります
 pattern; also がります was missing あ (typo for があります).
 
+## Vocab: そのうち + います (not あります) for a person's stay
+
+Flagged while refining Fukushima slide 3 itinerary (2026-07-25) — trip was 9
+days in Japan total, but only 3-4 of those in Fukushima specifically.
+**そのうち** ("of that / among those") narrows a total down to a subset.
+Also reinforced: **福島にいました** (not あります) --- います is for
+people/animate beings being somewhere (行きました "went" vs いました "was
+staying"), あります is for inanimate existence --- already-known
+あります/います distinction, just applied to describing one's own stay.
+Reading: 三、四日間 (さん、よっかかん, "3-4 days") reuses the irregular date
+readings みっか/よっか the same way 九日間 did.
+
 ## Grammar: で as a linking form of です
 
 Flagged while building Fukushima slides (2026-07-25): です has a connector
