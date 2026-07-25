@@ -7,6 +7,10 @@
 % --- Japanese support (compile with pdflatex via CJKutf8, same as N5.tex) ---
 \usepackage{CJKutf8}
 
+% --- Images (drop trip photos into fukushima_images/, reference by filename) ---
+\usepackage{graphicx}
+\graphicspath{{fukushima_images/}}
+
 \usetheme{Madrid}
 \usecolortheme{default}
 
@@ -82,7 +86,24 @@
 \end{frame}
 
 % --- Slide 6: radiation readings table (airplane / Changi / Narita / Futaba) ---
-% TODO
+\begin{frame}
+  \frametitle{\rb{測定}{そくてい}\rb{結果}{けっか} / Radiation Readings}
+  \begin{center}
+  \begin{tabular}{@{}ll@{}}
+    \toprule
+    \rb{場所}{ばしょ} (Location) & \rb{線量}{せんりょう} ($\mu$Sv/h) \\
+    \midrule
+    % TODO: fill in once readings are ready --- e.g.:
+    % 飛行機 (airplane) & 0.00 \\
+    % チャンギ空港 (Changi) & 0.00 \\
+    % 成田空港 (Narita) & 0.00 \\
+    % 双葉 (Futaba) & 0.00 \\
+    \bottomrule
+  \end{tabular}
+  \end{center}
+  % TODO: \includegraphics[width=0.6\textwidth]{photo-filename} once photos
+  % are uploaded to fukushima_images/
+\end{frame}
 
 % --- Slide 7: reflection / what I learned ---
 % TODO
