@@ -538,3 +538,7 @@ spectacles: かくます
 hats: かぶります　（被ります）
 hairclip: つけます (attach) / します
 
+for too many and i don't know:
+きますとはきます
+everything else: します (but it's pretty broken)
+
