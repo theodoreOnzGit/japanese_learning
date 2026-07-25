@@ -445,6 +445,11 @@ awww / ugh" (doubt/reluctance). Fun fact → へえ〜; bad news / hard to belie
 え〜. And watch ええ ("yes") vs え〜 ("ehh, doubt") — same kana neighbors, opposite
 meanings, told apart by length + pitch.
 
+**Quiz miss (2026-07-25):** asked for the interjection meaning "oh cool,
+TIL" (positive surprise at a fact); answered すごい！知らなかった instead of
+**へえ**. Not wrong as real speech, but missed the specific interjection
+being drilled — recall wasn't there under quiz pressure. Still active.
+
 ## Vocab: 旧正月 / お年玉
 
 Flagged from class (2026-07-18), via 旧正月に こどもに お年玉を あげます.
