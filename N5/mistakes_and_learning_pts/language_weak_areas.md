@@ -501,3 +501,16 @@ Breakdown:
 - パンや**と**ラーメンや — "the bakery **and** the ramen shop"
 - （パンやとラーメンや）**の**あいだ — "the between **of** (the bakery and
   the ramen shop)" → "between the bakery and the ramen shop"
+
+# Human Registered Weak areas in class 
+
+## 25 Jul 2026 
+Ryo ri (the than comparator)
+
+Eg. 
+Shopeeは　みせより　やすいです。
+
+
+しゃしんをとりましたか？
+すみません
+

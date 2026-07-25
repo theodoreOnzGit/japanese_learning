@@ -4,6 +4,90 @@ LaTeX study notes for learning Japanese, organized by JLPT level (starting
 with `N5/`). See `N5/README.md` for compilation instructions and
 `CLAUDE.md` for how this repo is worked on with Claude Code.
 
+## Committing changes with git
+
+The everyday loop, run from the repo root
+(`~/Documents/learning/japanese_learning`):
+
+```bash
+git status                       # what changed / what's staged
+git add N5/N5.tex                # stage specific files...
+git add -A                       # ...or stage everything that changed
+git commit -m "Log にvs を with 乗る/降りる"   # commit with a message
+git push                         # send it to GitHub (origin/main)
+```
+
+**Always pass `-m "message"`.** A bare `git commit` opens a text editor to
+type the message in, and with no `core.editor` or `$EDITOR` configured on
+this machine git falls back to `vi` — which is the usual way to get stuck.
+
+### If you're stuck in vi/vim
+
+The editor is waiting for you; git is not frozen. Either:
+
+- **Finish the commit** — type the message, then press `Esc`, then type
+  `:wq` and press `Enter` (write + quit).
+- **Abandon the commit** — press `Esc`, then type `:q!` and press `Enter`.
+  Git sees an empty message and aborts; nothing is committed and nothing is
+  lost. Your changes stay staged, so you can just rerun `git commit -m "..."`.
+
+To avoid vi entirely, set a friendlier editor once:
+
+```bash
+git config --global core.editor nano   # or: vim, code --wait, nvim
+```
+
+### Other ways to get stuck
+
+| Symptom | Fix |
+|---|---|
+| `Please tell me who you are` | `git config --global user.name "Your Name"` and `git config --global user.email "you@example.com"` |
+| `nothing to commit` but files did change | Nothing was staged — run `git add -A` first |
+| `Aborting commit due to empty commit message` | You quit the editor without typing a message; rerun with `-m "..."` |
+| `Updates were rejected... fetch first` on push | Remote has commits you don't — `git pull --rebase` then `git push` |
+| A pager (`git log`, `git diff`) won't exit | Press `q` |
+| `index.lock` exists | A previous git process died; `rm .git/index.lock` |
+| `error: unrecognized subcommand 'hooks'` | A beads hook incompatibility — see below |
+
+### The beads `unrecognized subcommand 'hooks'` error
+
+This repo sets `core.hooksPath` to `.beads/hooks`, so git runs beads' hooks
+instead of `.git/hooks`. Those hooks (integration v1.1.0) call
+`bd hooks run <event>`, but the Rust beads build in use here
+(`beads-rs`, installed via cargo at `~/.cargo/bin/bd`) has no `hooks`
+subcommand. Clap exits **2**, the hook only tolerates exit codes 3 and
+124/142, so it propagates the failure and **git aborts the commit** — and
+the `pre-push` hook blocks pushing the same way.
+
+Fixed here by adding a capability guard to each file in `.beads/hooks/`:
+
+```sh
+if command -v bd >/dev/null 2>&1 && bd hooks --help >/dev/null 2>&1; then
+```
+
+If `bd` lacks `hooks`, the whole block is skipped and the hook exits 0. It's
+self-healing — if `bd` later gains the subcommand, the check passes and the
+hooks resume working, no further edit needed.
+
+Caveat: the hook files are marked *"managed by beads"*, so running
+`bd setup` again may overwrite them and reintroduce the problem. If commits
+suddenly start failing this way again, re-apply the guard. A backup of the
+original (unpatched) hooks is not kept in the repo.
+
+Nuclear option if you'd rather not use the hooks at all —
+`git config --unset core.hooksPath`. Beads still works fine from the CLI;
+you only lose its automatic export/sync around git operations.
+
+### Undoing things (before pushing)
+
+```bash
+git restore --staged <file>    # unstage a file, keep the edits
+git restore <file>             # discard edits to a file — destructive
+git commit --amend -m "New message"   # reword the last commit
+```
+
+Don't `--amend` or otherwise rewrite a commit that's already been pushed.
+
 ## Knowledge management philosophy
 
 Three things involved in building this repo, each with different strengths

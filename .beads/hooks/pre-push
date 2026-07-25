@@ -1,7 +1,10 @@
 #!/usr/bin/env sh
 # --- BEGIN BEADS INTEGRATION v1.1.0 ---
 # This section is managed by beads. Do not remove these markers.
-if command -v bd >/dev/null 2>&1; then
+# Capability guard (local edit): beads-rs 0.1.x has no `hooks` subcommand;
+# clap then exits 2 and git aborts the commit/push. Skip cleanly instead.
+# Self-healing: once bd gains `hooks`, this check passes and the hook runs.
+if command -v bd >/dev/null 2>&1 && bd hooks --help >/dev/null 2>&1; then
   export BD_GIT_HOOK=1
   _bd_timeout=${BEADS_HOOK_TIMEOUT:-300}
   _bd_used_perl=0
