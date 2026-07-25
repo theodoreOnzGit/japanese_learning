@@ -668,6 +668,14 @@ fast, isn't it!" about the shinkansen). Same kana はやい, two different kanji
 meanings: **速い** = fast (speed) vs **早い** = early (time) — same
 same-reading-different-kanji trap as 椅子 (いす) / いつ.
 
+## Vocab: 原発 (げんぱつ, "nuclear power plant")
+
+Flagged from lookup (2026-07-25) while describing the Futaba hotel's
+location — 原発 is the everyday abbreviation of 原子力発電所 (げんしりょく
+はつでんしょ), used constantly in Japanese media re: Fukushima. Sentence
+reused the already-tracked positional noun 近く (near): 双葉のホテルは
+原発の近くです。
+
 ## Grammar: で as a linking form of です
 
 Flagged while building Fukushima slides (2026-07-25): です has a connector
