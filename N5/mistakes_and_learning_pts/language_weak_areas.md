@@ -523,6 +523,24 @@ verbs often prefer が over を for the object: 紅茶**が**買えます (both 
 heard, but が is more natural/emphatic). Same underlying pattern as the
 欲しい/たい が-shift already logged above.
 
+## Vocab: 原子力科学者 (げんしりょくかがくしゃ, "nuclear scientist")
+
+Flagged from lookup (2026-07-25) while building the Fukushima show-and-tell
+slides — attempted 「くがくがくしゃ」 for "scientist," garbled. Correct:
+**原子力** (げんしりょく, "nuclear power") + **科学者** (かがくしゃ,
+"scientist" = 科学 "science" + 者 person-suffix, same as 医者/忍者/学者).
+Also flagged: **セオドウ vs セオドア** for "Theodore" — セオドア is the more
+conventional katakana rendering (ドア matches English "-dore," like ドア
+"door"); セオドウ isn't wrong, just non-standard.
+
+## Grammar: で as a linking form of です
+
+Flagged while building Fukushima slides (2026-07-25): です has a connector
+form **で** that joins two statements about the same topic without repeating
+です (works like a て-form for the copula). 私はセオドア**で**、原子力科学者
+です。("I'm Theodore, a nuclear scientist.") Logged in full to
+`N5.tex` → Grammar → "Linking です with で".
+
 # Human Registered Weak areas in class 
 
 ## 25 Jul 2026 
