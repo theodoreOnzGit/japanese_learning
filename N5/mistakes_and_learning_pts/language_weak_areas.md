@@ -533,5 +533,8 @@ Wearing stuff:
 
 on top: きます
 from bottom: はきます
-
+accessories: します
+spectacles: かくます
+hats: かぶります　（被ります）
+hairclip: つけます (attach) / します
 
