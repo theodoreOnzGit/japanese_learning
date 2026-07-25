@@ -676,6 +676,18 @@ location — 原発 is the everyday abbreviation of 原子力発電所 (げん�
 reused the already-tracked positional noun 近く (near): 双葉のホテルは
 原発の近くです。
 
+## Grammar: 〜くて (い-adjective connector) + missing は on ホテルやすいですね
+
+Flagged while describing the Futaba hotel (2026-07-25). Mistake: **ホテル
+やすいですね** → **ホテルは安いですね** (missing は topic marker before the
+adjective). Correct as-is: あさごはんとばんごはんがあります (と + があります,
+no fix needed). New grammar taught: い-adjectives have their own connector
+form **〜くて** (drop い, add くて), parallel to で for です/な-adjectives:
+ホテルは安**くて**、朝ごはんと晩ごはんがあります。("The hotel is cheap, and
+has breakfast and dinner.") New vocab: 安い (やすい, cheap), 朝ごはん
+(あさごはん, breakfast), 晩ごはん (ばんごはん, dinner). Logged in full to
+`N5.tex` → Grammar → "い-adjective connector: 〜くて".
+
 ## Grammar: で as a linking form of です
 
 Flagged while building Fukushima slides (2026-07-25): です has a connector
