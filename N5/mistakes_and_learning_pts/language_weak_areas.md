@@ -511,6 +511,27 @@ Eg.
 Shopeeは　みせより　やすいです。
 
 
+### Class chatlog
+Me: 
 しゃしんをとりましたか？
 すみません
+
+Sensei:
+
+東京サラダボール
+かみ paper
+PersonにObjectをもらいます
+PersonにObjectをあげます
+
+Nounが　ほしいです。
+あたらしいくるまは　ほしくないです。
+
+
+
+###
+Wearing stuff:
+
+on top: きます
+from bottom: はきます
+
 
