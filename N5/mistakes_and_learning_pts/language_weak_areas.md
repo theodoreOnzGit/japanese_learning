@@ -585,6 +585,25 @@ first then result — same shape as their own 面白いですから attempt that
 started this. Logged in full to `N5.tex` → Grammar → "Expressing interest:
 に興味がある".
 
+## Vocab: 線量計 / 調べる / 危険 / どのくらい (Fukushima slide 3, intro curiosity)
+
+Flagged while building the "questions I wanted to investigate" part of slide
+3 (2026-07-25) — the user's own curiosity/motivation for bringing a dosimeter,
+not audience-facing FAQ. New words:
+
+- **線量計** (せんりょうけい) --- "dosimeter"
+- **調べる** (しらべる) --- "to investigate / check" (調べたい = want to
+  investigate, using the already-known 〜たい pattern)
+- **危険** (きけん) --- "dangerous / danger" (な-adjective; their attempt
+  used bare English "dangerous" + です, which doesn't work --- です needs an
+  actual Japanese adjective/noun before it)
+- **どのくらい** --- "how much / to what extent"
+
+Mistake caught in the same message: **福島で放射線がりますか** →
+**福島に放射線がありますか** --- で marks location of an *action*, but
+existence (あります) needs **に** per the already-known X に Y が あります
+pattern; also がります was missing あ (typo for があります).
+
 ## Grammar: で as a linking form of です
 
 Flagged while building Fukushima slides (2026-07-25): です has a connector
