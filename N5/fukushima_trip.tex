@@ -10,6 +10,14 @@
 \usetheme{Madrid}
 \usecolortheme{default}
 
+% --- Furigana macro (no extra packages needed, works with plain pdflatex+CJK) ---
+% Usage: \rb{漢字}{かんじ} stacks the reading in small kana above the kanji.
+\newcommand{\rb}[2]{%
+  \leavevmode
+  \setbox0=\hbox{#1}%
+  \raisebox{0.9em}{\scriptsize\makebox[\wd0][c]{#2}}\kern-\wd0 \box0%
+}
+
 \title[ふくしま旅行]{私のふくしま旅行}
 \subtitle{My Trip to Fukushima --- Show and Tell}
 \author{} % TODO: fill in your name
