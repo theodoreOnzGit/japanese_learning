@@ -651,6 +651,16 @@ Note the station itself takes **で** (place where the action happens, not
 active in quiz rotation --- one correct-with-help instance doesn't clear the
 mastery bar.
 
+**Third data point (2026-07-25), continuing the route (仙台→双葉):**
+attempted 「仙台駅のりました、双葉駅を降りました」--- new twist this time:
+dropped で on 仙台駅 again, but for 双葉駅 applied **を** to the *station*
+instead of で. Shows the underlying model may be "降りる takes を" without yet
+distinguishing that を marks the *vehicle being exited*, while で marks the
+*place where the exit happens* --- two different nouns, two different jobs,
+easy to conflate when only the station is mentioned (no vehicle named).
+Corrected: 仙台駅**で**乗りました。そして、双葉駅**で**降りました。 Pattern
+still not automatic --- three attempts now, keep drilling.
+
 ## Vocab: 速い (fast) vs 早い (early) — same reading はやい
 
 Flagged while building Fukushima slide 4 (2026-07-25), on 速いですね！("It's
