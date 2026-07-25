@@ -542,8 +542,10 @@ root in compounds: 核兵器 (かくへいき, "nuclear weapon"), 核実験 (か
 "nuclear test"), 核戦争 (かくせんそう, "nuclear war"). 原子核 (げんしかく) =
 "atomic nucleus" (原子 + 核 combined). 原子力 (げんしりょく) = "atomic
 power/energy," specifically the power-plant/energy-industry sense (vs 核科学者
-which leans nuclear-physics/weapons). Chose 原子力科学者 for the Fukushima
-slides since the trip theme is a power plant, not weapons/physics research.
+which leans nuclear-physics/weapons). Final choice: switched to **核科学者**
+(かくかがくしゃ) for the Fukushima slides, for familiarity with 核 ---
+confirmed 核 alone carries no weapons implication, it's just the general
+"nuclear" root.
 
 ## Grammar: で as a linking form of です
 
