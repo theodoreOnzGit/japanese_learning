@@ -336,6 +336,8 @@ a tidy four-form grid:
   い-adjectives carry their own past: おいしい → **おいしかったです** ("was
   delicious"), NOT ~~おいしいでした~~. So 静かでした ✓ (な-adj), 先生でした ✓
   (noun), but よかったです ✓ / ~~いいでした~~ ✗ (い-adj).
+- **Quiz miss (2026-07-25):** answered plain でした for おいしい's past ---
+  fell straight into the trap above. Still active in rotation.
 
 ## Vocab: だめ (駄目, "no good / not allowed / no")
 
