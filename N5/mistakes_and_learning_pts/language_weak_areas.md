@@ -547,6 +547,23 @@ which leans nuclear-physics/weapons). Final choice: switched to **核科学者**
 confirmed 核 alone carries no weapons implication, it's just the general
 "nuclear" root.
 
+## Grammar: に with point-in-time vs. NOT with duration
+
+Flagged while building Fukushima itinerary slide (2026-07-25) — wanted に
+after a duration (九日間) by instinct, but that's wrong. **Point-in-time**
+expressions (a specific moment: 2025年, 3時, 月曜日) take **に**. **Duration/
+span** expressions (九日間, 三年間, etc.) do **NOT** take に — the 間 counter
+already makes them function as adverbs on their own.
+
+> ２０２５年**に**、九日間、福島**に**行きました。
+> *Nisen nijuugo-nen ni, kokonokakan, Fukushima ni ikimashita.*
+> "In 2025, I went to Fukushima for nine days."
+
+2025年に (point in time) and 福島に (destination) both take に; 九日間
+(duration) takes none. Bonus reading link: 九日間 (ここのかかん) reuses
+ここのか, the irregular reading for "9th" already logged under "Reading
+dates: days of the month."
+
 ## Grammar: で as a linking form of です
 
 Flagged while building Fukushima slides (2026-07-25): です has a connector
