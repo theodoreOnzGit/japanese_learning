@@ -616,6 +616,14 @@ staying"), あります is for inanimate existence --- already-known
 Reading: 三、四日間 (さん、よっかかん, "3-4 days") reuses the irregular date
 readings みっか/よっか the same way 九日間 did.
 
+## Grammar: から〜まで ("from〜to") + そして (sequencing)
+
+Flagged while building the Fukushima route (2026-07-25) — first self-produced
+use, got it right unaided: Changi空港**から**成田空港**まで**行きました。
+**そして**、東京に行きました。("I went from Changi to Narita. Then, I went
+to Tokyo.") から〜まで marks range start/end (space or time); そして chains
+full sentences in sequence. Logged in full to `N5.tex` → Grammar.
+
 ## Grammar: で as a linking form of です
 
 Flagged while building Fukushima slides (2026-07-25): です has a connector
