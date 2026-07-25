@@ -651,6 +651,13 @@ Note the station itself takes **で** (place where the action happens, not
 active in quiz rotation --- one correct-with-help instance doesn't clear the
 mastery bar.
 
+## Vocab: 速い (fast) vs 早い (early) — same reading はやい
+
+Flagged while building Fukushima slide 4 (2026-07-25), on 速いですね！("It's
+fast, isn't it!" about the shinkansen). Same kana はやい, two different kanji/
+meanings: **速い** = fast (speed) vs **早い** = early (time) — same
+same-reading-different-kanji trap as 椅子 (いす) / いつ.
+
 ## Grammar: で as a linking form of です
 
 Flagged while building Fukushima slides (2026-07-25): です has a connector
