@@ -624,6 +624,33 @@ use, got it right unaided: Changi空港**から**成田空港**まで**行きま
 to Tokyo.") から〜まで marks range start/end (space or time); そして chains
 full sentences in sequence. Logged in full to `N5.tex` → Grammar.
 
+## Grammar: に vs を with 乗る (noru, "board") / 降りる (oriru, "get off")
+
+Originally flagged from a quiz mistake (screenshot:
+`particles_ni_and_so_on.png`) --- summarized in `CLAUDE.md`'s "Known weak
+areas" but never actually written up here until now. 乗る takes **に**
+(電車**に**乗る, moving *onto/into* the vehicle --- に marks the goal), but
+降りる takes **を**, not に (電車**を**降りる, moving *out of* the vehicle ---
+を marks separation, same pattern as 家を出る). The instinct has been to use
+に for both.
+
+**Second data point (2026-07-25), building Fukushima slide 4:** attempted
+「東京駅乗りました、そして仙台駅降りました」--- this time the error was
+dropping the particle entirely rather than defaulting to に, but still
+evidence the pattern isn't automatic yet. Corrected:
+
+> 東京駅で、はやぶさに乗りました。そして、仙台駅で降りました。
+> *Toukyou-eki de, Hayabusa ni norimashita. Soshite, Sendai-eki de
+> orimashita.*
+> "I boarded the Hayabusa at Tokyo station. Then, I got off at Sendai
+> station."
+
+Note the station itself takes **で** (place where the action happens, not
+に/を --- those mark the *vehicle*, not the station). Full pattern: [station]
+**で** [vehicle] **に** 乗る / [station] **で** [vehicle] **を** 降りる. Still
+active in quiz rotation --- one correct-with-help instance doesn't clear the
+mastery bar.
+
 ## Grammar: で as a linking form of です
 
 Flagged while building Fukushima slides (2026-07-25): です has a connector
