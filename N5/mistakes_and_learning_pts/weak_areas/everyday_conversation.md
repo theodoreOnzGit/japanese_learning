@@ -127,6 +127,34 @@ Two buckets: **just-happened change → past**; **ongoing state → ています
 
 Same 完了 logic as ありがとうございました (`presenting_and_formal.md`).
 
+#### ひま (暇) — "free / not busy" — `new`
+
+From class 2026-08-01. **ひまです** = "I'm free / I have free time."
+
+**な-adjective** (and a noun), so it inflects like 危険 and だめ, not like い-adjectives:
+
+| | Form |
+|---|---|
+| non-past | ひま**です** |
+| past | ひま**でした** |
+| negative | ひま**じゃない**（です） |
+| before a noun | ひま**な**とき / ひま**な**日 |
+
+**Opposite: 忙しい（いそがしい）** — but note that one is an **い**-adjective, so
+the pair inflects differently: ひまでした vs 忙し**かった**です. A ready-made
+minimal pair for the い/な past-tense trap
+(`describing_and_sentence_building.md`).
+
+**ひまなとき** ("when I'm free") is the high-value form — it appeared verbatim as
+a prompt in Cambridge IGCSE Paper 4:
+
+> ひまなとき、家で何をしますか。 — "What do you do at home when you're free?"
+
+**Nuance:** ひま describes *having time available*, not being bored. "Boring" is
+**つまらない** (of a thing) or **たいくつ** (of a feeling). ひまです is neutral or
+positive — an invitation, often. Said of *someone else's* job it can imply
+"slack", so keep it about yourself.
+
 #### だめ (駄目) — `new`
 
 From class 2026-07-18. "No good, not allowed, must not, hopeless."

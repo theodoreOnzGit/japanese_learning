@@ -10,6 +10,81 @@ Status labels: `new` · `shaky` · `solid` · `mastered` — see `MAP.md`.
 
 ### Core (N5)
 
+#### い / な adjective conjugation — the full grid — `shaky`
+
+**Self-identified 2026-08-01: "I am finding it hard to do past and present tense
+and negation of い and な adjectives in class."** Promoted to a top-priority item
+— it was already the most-missed thing on the list (quiz miss 2026-07-25 on
+おいしい), and it is embedded inside many other patterns.
+
+**The one idea: い-adjectives conjugate themselves; な-adjectives make です do
+the work.**
+
+**い-adjectives** — 高い. Drop い, add the ending. **です never changes:**
+
+| | Affirmative | Negative |
+|---|---|---|
+| Present | 高**い**です | 高**くない**です |
+| Past | 高**かった**です | 高**くなかった**です |
+
+です is identical in all four — pure politeness. That is *why* ~~高いでした~~ is
+wrong: the adjective already carried the tense, so です has no job left.
+
+**な-adjectives** — 静か. The adjective is frozen; **conjugate です:**
+
+| | Affirmative | Negative |
+|---|---|---|
+| Present | 静か**です** | 静か**じゃないです** |
+| Past | 静か**でした** | 静か**じゃなかったです** |
+
+Identical to nouns (学生です / 学生でした / 学生じゃないです). な-adjectives
+essentially *are* nouns.
+
+**Minimal pair already in these notes** (`everyday_conversation.md`):
+
+> ひま**でした** (な) — "I was free"
+> 忙し**かった**です (い) — "I was busy"
+
+**Telling them apart.** い-adjectives end in い in dictionary form — but four
+common words end in い and are **な**-adjectives:
+
+| Word | Meaning |
+|---|---|
+| きれい | pretty / clean |
+| きらい | disliked |
+| ゆうめい | famous |
+| しつれい | rude |
+
+きれい**でした** ✅ / ~~きれいかったです~~ ❌
+Test: put it before a noun. Needs **な** → な-adjective. きれい**な**花 vs 高い花.
+
+**The one irregular: いい** (good). **Sensei stated it as 「いいです（よいです）」**
+on 2026-08-01 — which is the whole explanation.
+
+いい and よい are the **same word**: よい is the older, formal/written form, いい
+the everyday spoken one. Interchangeable in the plain present (いいです／よいです),
+but **いい cannot conjugate at all** — every other form is built from よい:
+
+| Form | Correct | Never |
+|---|---|---|
+| Past | **よ**かったです | ~~いかったです~~ |
+| Negative | **よ**くないです | ~~いくないです~~ |
+| Past negative | **よ**くなかったです | ~~いくなかったです~~ |
+| て-form (〜くて) | **よ**くて | ~~いくて~~ |
+
+**Links to よろしくお願いします.** The polite/honorific form of いい・よい is
+**よろしい**, whose く-form is **よろしく** — so よろしくお願いします is built from
+this same adjective ("please treat me favourably"). Same root as よかった. See
+`presenting_and_formal.md` for the presentation bookends.
+
+**Set-phrase use:** よかったです also means "I'm glad / that's a relief," not only
+"it was good" — テストに合格しましたか。→ よかったですね！
+
+**Instances already met across these files:** 危険じゃなかった (な, Fukushima
+FAQ) · おいしかったです (い, **quiz miss**) · 多かった / 少なかった (い) ·
+同じでした (な) · だめでした (な) · 安くて (い, 〜くて connector) ·
+つめたかった / さむかった (い).
+
 #### です past tense: でした (+ the い-adjective trap) — `shaky`
 
 From class 2026-07-18. です (polite copula) has a four-form grid:

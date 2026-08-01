@@ -9,3 +9,4 @@ exact APA/BibTeX text, or double-checking what a source actually said).
 | [tadoku.md](tadoku.md) | Tadoku (tadoku.org/japanese) — free graded Japanese readers | `N5/quiz_mode.md` reading comprehension |
 | [gemini-3.1-flash-tts.md](gemini-3.1-flash-tts.md) | Google's Gemini 3.1 Flash TTS announcement | `N5/mistakes_and_learning_pts/weak_areas/reading_traps.md` pitch accent note |
 | [beads-bd.md](beads-bd.md) | gastownhall/beads (bd issue tracker) GitHub repo | `CLAUDE.md` Beads integration |
+| [cambridge-igcse-japanese-0716.md](cambridge-igcse-japanese-0716.md) | Cambridge IGCSE Japanese 0716 specimen papers (2027) | `N5/exam_mode.md` exam format + `resources/exams/` PDFs and `exams/markdown/` conversions |

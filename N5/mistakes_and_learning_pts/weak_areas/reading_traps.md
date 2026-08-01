@@ -66,6 +66,32 @@ Mirrors the cold side, which uses two *different words* instead
 (つめたい touch / さむい ambient) — so the same semantic split is lexical for cold
 and orthographic for hot. Full entry: `food_and_drink.md`.
 
+### Long-vowel spelling: おお vs おう
+
+#### 遠い (とおい) — written ~~とおおい~~ — `shaky`
+
+2026-08-01. Asked "far is とおおい right" — one お too many. Correct is **とおい**
+(と・お・い).
+
+**Likely cause: interference from 多い（おおい）**, logged the same day. Both are
+three-mora double-o い-adjectives differing only in the first kana:
+
+| Word | Kana | Meaning |
+|---|---|---|
+| 遠い | **と**おい | far |
+| 多い | **お**おい | many |
+
+**The rule underneath.** Long "o" is normally written **おう** (東京 とうきょう,
+ありがとう, 勉強 べんきょう, お父さん おとうさん). A small **closed set** uses
+**おお** instead — worth memorising as a list, since it is finite:
+
+> 遠い とおい · 大きい おおきい · 多い おおい · 氷 こおり · 十 とお ·
+> 通り とおり · 狼 おおかみ
+
+Opposite: **近い（ちかい）**, already met as 近く in 双葉のホテルは原発の近くです
+(`nuclear_and_science.md`). Both are い-adjectives → 遠かったです / 近かったです
+(`describing_and_sentence_building.md`).
+
 ### One kanji, two readings
 
 #### 金 — かね vs きん — `shaky`

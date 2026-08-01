@@ -53,6 +53,32 @@ When the user asks to be quizzed/tested ("quiz me", "quiz mode", "test me on
 X"), follow the scaffold in `N5/quiz_mode.md` rather than improvising a
 different quiz format each time.
 
+### Exam mode
+
+When the user asks for a full timed paper ("give me an exam", "mock paper",
+"IGCSE practice"), follow `N5/exam_mode.md`. It holds the studied **Cambridge
+IGCSE Japanese (0716)** format for all four papers, the adaptations needed here
+(no audio, no pictures, no live examiner), and the synthesis protocol including
+answer-key rules. Generated papers go in `N5/exams/`.
+
+**Copyright:** synthesised papers reuse the *structure and mark allocation*
+only — texts and items must be original. Never reproduce Cambridge passages,
+questions or distractors. Source PDFs and their `kopitiam pdf2md` conversions
+live in `resources/exams/`; citation in
+`resources/cambridge-igcse-japanese-0716.md`.
+
+### Dogfooding kopitiam (standing rule)
+
+`kopitiam` is the user's own Rust CLI (`~/.cargo/bin/kopitiam`, source at
+`~/Documents/fun_projects/kopitiam`). **Use it for the jobs it covers rather
+than reaching for another tool** — most relevantly `kopitiam pdf2md <in.pdf> -o
+<out.md>` for PDF→Markdown, which prints a validation report ending in
+PASS/FAIL. `--index` writes a heading/page → line-range sidecar.
+
+**Never run `kopitiam tui`, `kopitiam ai chat`, or `kopitiam view`** — they are
+interactive, own the terminal, and will hang a non-interactive session. Full
+command reference: `~/Documents/fun_projects/kopitiam/kopitiam_skill.md`.
+
 ### Chat-as-scratchpad during class
 
 The user sometimes uses the chat live during class to jot down points as they

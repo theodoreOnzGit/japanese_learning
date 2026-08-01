@@ -94,6 +94,7 @@ Reactions, agreeing and refusing, joining ideas.
 - `new` ほんとに / ほんとうに — casual clipping; used correctly 2026-08-01
 - `new` こちら / そちら / あちら / どちら — the polite こそあど
 - `new` わかりました (past) vs わかりません (present)
+- `new` ひま (暇) — free/not busy; な-adj, vs い-adj 忙しい
 - `new` だめ (駄目)
 - `new` すっかり
 
@@ -118,7 +119,9 @@ Counting, counters, dates. **Extra quiz weight per `quiz_mode.md`.**
 ### [describing_and_sentence_building.md](describing_and_sentence_building.md)
 Conjugation grids, adjectives, connectors, positions.
 - `new` **が vs は — new information sits before が, after は** (sensei's framing; 1× correct spontaneous use)
+- `new` **が / でも / けど — "but"**; が-conjunction vs が-subject disambiguated by position
 - `shaky` **Location particle dropped before place names — 3 instances**
+- `shaky` **い / な adjective conjugation — full grid** (self-identified as hard in class, 2026-08-01)
 - `shaky` です past でした + **the い-adjective trap** (quiz miss 2026-07-25)
 - `shaky` Positional nouns — 上/下/中/前/後ろ/横/隣/近く/間
 - `shaky` 多い / 少ない — misread as すきない; predicative (人が多い), not 多い人
@@ -157,6 +160,7 @@ Cross-cutting: homophones, multi-reading kanji, pronunciation.
 - `new` 年 — ねん vs とし
 - `new` 人 — ひと vs にん vs じん
 - `new` 国 — くに vs こく/ごく
+- `shaky` **おお vs おう long vowels** — 遠い written as とおおい; 多い interference
 - `new` Irregular whole-word readings — 今日, 今年, 八百屋, 一人…
 - `new` Pitch accent — **untestable in chat, needs external audio**
 
@@ -173,5 +177,5 @@ Highest-value drilling right now, by evidence:
    single session (2026-08-01).
 3. **着ます vs はきます** — re-asked from scratch a week after being taught.
 4. **Counters** — standing extra weight per `quiz_mode.md`.
-5. **い-adjective past (おいしかったです)** — quiz miss, and it recurs constantly
-   inside other patterns.
+5. **い / な adjective conjugation (full grid)** — self-identified 2026-08-01 as
+   hard in class; already a quiz miss; recurs inside many other patterns.

@@ -81,6 +81,13 @@ distinctly from outright mistakes (e.g. "recall latency on X" rather than
 - If a tracked weak area was answered correctly several times in a row,
   mention the improvement — but don't remove it from tracking unless asked.
 
+## Full exam papers (separate mode)
+
+For a timed, full-length paper in Cambridge IGCSE format rather than a short
+drilling round, see `exam_mode.md`. Rough division of labour: **quiz mode** =
+5 questions, conversational, immediate feedback per answer; **exam mode** =
+40-mark paper, attempted in one sitting, marked at the end against a key.
+
 ## Placement quiz (separate mode)
 
 Trigger: "placement quiz", "test my level", "where do I stand". This is a
