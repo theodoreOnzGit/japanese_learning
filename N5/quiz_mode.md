@@ -15,9 +15,11 @@ different one each time.
 
 ## Source priority
 
-1. **Known weak areas first** — `mistakes_and_learning_pts/language_weak_areas.md`
-   and `mistakes_and_learning_pts/cultural_weak_areas.md`, plus the mistake
-   screenshots in that folder. Weight questions toward these.
+1. **Known weak areas first** — read
+   `mistakes_and_learning_pts/weak_areas/MAP.md` for the index and each item's
+   status, then open only the theme files you need. Plus the mistake
+   screenshots in `mistakes_and_learning_pts/`. Weight questions toward
+   `shaky` items first, then `new`, then occasional `solid`.
 2. **Vocabulary / Grammar sections** of `N5.tex` (or the relevant level's
    `.tex` file) for general coverage.
 3. If the user names a topic ("quiz me on counters", "quiz me on と vs か"),
@@ -71,11 +73,11 @@ distinctly from outright mistakes (e.g. "recall latency on X" rather than
 
 - Give a quick score summary (e.g. "4/5").
 - **Capture every miss.** For each wrong answer during the round: if it
-  matches an existing entry in `language_weak_areas.md` / `cultural_weak_areas.md`,
-  no need to duplicate — it's already covered. If it doesn't match anything
-  tracked, add a new entry to the appropriate file (language vs cultural) at
-  the end of the round (don't wait for the mistake to recur first — one miss
-  during a quiz is enough to log it).
+  matches an existing entry in `weak_areas/`, no need to duplicate — but do
+  demote its status label (any miss sends an item back to `shaky`) and note the
+  date. If it doesn't match anything tracked, add a new entry to the right theme
+  file, under `## Language` or `## Cultural`, and update `MAP.md` — don't wait
+  for the mistake to recur first, one miss during a quiz is enough to log it.
 - If a tracked weak area was answered correctly several times in a row,
   mention the improvement — but don't remove it from tracking unless asked.
 
@@ -96,10 +98,10 @@ find the current frontier, not drilling known weak areas.
 - At the end: give an assessed level per domain (e.g. "solid N5 grammar,
   shaky on N4 conditionals"), and apply the same "capture every miss" rule
   from **End of round** above to log newly found gaps into the appropriate
-  weak-areas file (`language_weak_areas.md` / `cultural_weak_areas.md`).
+  theme file under `weak_areas/`, and update `weak_areas/MAP.md`.
 
 ## Out of scope
 
 - No audio. Pitch-accent/intonation questions are asked as written recall
   (e.g. "what's the pitch accent pattern of 箸?") rather than judged aloud —
-  see the note in `mistakes_and_learning_pts/language_weak_areas.md`.
+  see the note in `mistakes_and_learning_pts/weak_areas/reading_traps.md`.

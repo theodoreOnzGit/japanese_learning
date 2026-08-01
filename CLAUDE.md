@@ -63,68 +63,73 @@ over), write the class notes (or a summary of the discussion) into the
 
 ### Known weak areas (quiz periodically)
 
-The user tracks recurring weak spots in `N5/mistakes_and_learning_pts/` —
-both screenshots of graded quiz mistakes and two running lists,
-`language_weak_areas.md` and `cultural_weak_areas.md`. Proactively work these
-into practice — don't wait to be asked, and check both files at the start of a
-tutoring session if it's been a while.
+The user tracks recurring weak spots in
+`N5/mistakes_and_learning_pts/weak_areas/` — a set of theme files plus
+screenshots of graded quiz mistakes in the parent directory. Proactively work
+these into practice — don't wait to be asked.
 
-**Mastery bar (standing rule):** an item is *not* considered learned just
-because it was explained or logged. The user's bar is that they can (1) be
-quizzed on it and (2) write correct sentences using it, unaided. Until an item
-clears both, keep it in the active quiz rotation — logging to the weak-areas
-files is the *start* of learning it, not the end. Don't retire an item from rotation
-on the strength of a single correct answer; look for repeated correct use
-across quizzing and sentence production before treating it as solid.
+**Read `weak_areas/MAP.md` first — do not read the individual theme files
+unless you need detail on a specific item.** The map is the index (one line per
+tracked item, with its status); the theme files are the detail. Same convention
+as `resources/MAP.md`.
 
-**Split language vs cultural (standing rule):** weak areas live in **two
-separate files** — `language_weak_areas.md` (kana, vocab, grammar, readings,
-particles — how the *language* works) and `cultural_weak_areas.md` (customs,
-etiquette, social context — how *Japan* works). File each new item in the
-correct file. When an item has both angles (e.g. the バレンタインデー あげます
-sentence — a grammar pattern *and* a gendered gift custom), log the language
-part in `language_weak_areas.md` and the cultural part in
-`cultural_weak_areas.md`, and cross-reference the two.
+**Organised by theme, then JLPT level (standing rule):** weak areas are filed by
+**situation/theme** (shopping, travel, gifts, presenting…), not by grammatical
+category — the user reaches for them situationally. Within each file, entries are
+grouped by **JLPT level** (Core N5 → Stretch N4 → Advanced N3+), because a level
+never changes so entries never need moving.
+
+**Language and cultural notes live together (standing rule):** each theme file
+has `## Language` and `## Cultural` headings. Themes want both angles adjacent —
+「gifts」 needs あげる/くれる/もらう *and* the Valentine's/お年玉 customs in one
+place. (This replaces the older rule that split them into two separate files.)
+
+**Mastery bar (standing rule):** an item is *not* learned just because it was
+explained or logged. Every entry carries a status label:
+
+| Label | Bar |
+|---|---|
+| `new` | logged, never tested |
+| `shaky` | missed, or needed a hint |
+| `solid` | 2+ correct unaided |
+| `mastered` | 3+ correct unaided, spanning **2+ separate dates**, incl. **≥1 spontaneous use** |
+
+**Spacing beats count** — two correct answers ten minutes apart are one data
+point, not two. Promotion to `mastered` needs evidence across *different days*,
+and at least one *spontaneous* use (the user reaching for it unprompted in their
+own sentence, when it wasn't the drill). Per `N5/quiz_mode.md`, a slow or
+re-derived correct answer is a soft miss and does not promote. Nothing is ever
+deleted — `mastered` just goes dormant with a ~quarterly spot-check.
 
 **Auto-log trigger (standing rule):** log *everything new the user brings up*
-to the appropriate weak-areas file automatically — **do not ask first, just
-log.** This covers both directions:
+to the appropriate theme file automatically — **do not ask first, just log.**
+This covers both directions:
 - **Questions** — "what is X in Japanese," "what does X mean," "is it like Y,"
   any lookup or clarification. The act of asking is itself evidence of a gap.
 - **New items the user shares** — a sentence from class, a word the teacher
   used, a grammar point, a cultural note. Anything they drop into the chat as
   "here's something new" gets recorded.
 
-Applies to **both categories** (language *and* cultural — file under the right
-heading per the split rule above; dual-angle items go under both). The user has
-explicitly said not to ask permission each time — logging is the default,
-silent behavior. Still confirm *what* was logged in the reply, just don't gate
-it behind a question.
+File under the right theme and the right `## Language` / `## Cultural` heading;
+dual-angle items go under both, cross-referenced. Update `MAP.md` in the same
+pass. The user has explicitly said not to ask permission each time — logging is
+the default, silent behavior. Still confirm *what* was logged in the reply, just
+don't gate it behind a question.
 
-Current items:
+Raw class jottings are preserved verbatim in `weak_areas/class_raw_notes.md`;
+corrections are appended as indented notes without editing the original lines.
 
-- **に vs を with 乗る (noru, "board") / 降りる (oriru, "get off")** — 乗る
-  takes に (電車に乗る, moving *onto/into* the vehicle — に marks the goal),
-  but 降りる takes を, not に (電車を降りる, moving *out of* the vehicle — を
-  marks separation, same pattern as 家を出る). The user's instinct is to use
-  に for both. Source: `N5/mistakes_and_learning_pts/particles_ni_and_so_on.png`.
-- **Pitch accent / intonation** — no audio feedback available in-chat; needs
-  an external reference to practice against.
-- **Reading dates (日, days of the month)** — days 1–10 (plus 14, 20, 24)
-  have irregular readings that don't follow number+にち.
-- **Reading months (月)** — 4月/7月/9月 use irregular readings (しがつ /
-  しちがつ / くがつ) instead of the expected number+がつ pattern.
-- **Counting with counters (助数詞)** — sokuon/rendaku sound shifts on
-  counters like 本, 匹, 個 depending on the preceding number (e.g. いっぽん,
-  さんぼん, ろっぴき) are inconsistent and need per-counter drilling.
-- **Positional nouns (位置名詞)** — 上/下/中/前/後ろ/横/隣/近く/間 etc.
-  (pattern: [もの]の[position]に). 間 (あいだ, "between") is the odd one
-  out, needing two nouns joined by と before の.
-- **椅子 (いす, "chair") vs いつ ("when")** — easy to typo/misread つ↔す;
-  mnemonic is that いす shares its kanji (椅子) with Mandarin yǐzi.
+**Current top priorities** (full list and status in `weak_areas/MAP.md`):
 
-Full detail on each: `N5/mistakes_and_learning_pts/language_weak_areas.md`
-and `N5/mistakes_and_learning_pts/cultural_weak_areas.md`.
+1. **に vs を with 乗る / 降りる** — three failed attempts, still not automatic.
+   Source: `N5/mistakes_and_learning_pts/particles_ni_and_so_on.png`.
+2. **ありがとうございます vs ございました** — missed in *both* directions within
+   a single session (2026-08-01).
+3. **着ます vs はきます** — re-asked from scratch a week after being taught.
+4. **Counters (助数詞)** — standing extra weight per `N5/quiz_mode.md`.
+5. **い-adjective past (おいしかったです)** — quiz miss, and it recurs inside
+   many other patterns.
+6. **Pitch accent** — no audio feedback in-chat; needs an external reference.
 
 ## Project structure
 
@@ -133,8 +138,8 @@ and `N5/mistakes_and_learning_pts/cultural_weak_areas.md`.
 - `N5/references.bib` — BibTeX bibliography (biblatex + biber backend).
 - `N5/compile.sh` / `N5/compile.ps1` — build + view scripts (Linux / Windows).
 - `N5/README.md` — compilation instructions.
-- `N5/mistakes_and_learning_pts/` — screenshots of graded quiz mistakes,
-  used to build the "known weak areas" list above.
+- `N5/mistakes_and_learning_pts/` — screenshots of graded quiz mistakes, plus
+  `weak_areas/` (themed weak-area files; read `weak_areas/MAP.md` first).
 
 ## Build / compile
 

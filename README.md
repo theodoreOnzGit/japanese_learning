@@ -118,7 +118,7 @@ and limits:
   reasoning from memory alone doesn't.
   *Agentic* AI (tool-using, not just chat) adds another edge on top of
   that: it can synthesize and keep several files consistent with each other
-  in one pass — e.g. adding a weak spot to `language_weak_areas.md` and updating its
+  in one pass — e.g. adding a weak spot to the right `weak_areas/` theme file and updating its
   one-line summary in `CLAUDE.md` in the same turn, or adding a cached
   source to `resources/` and linking it from both `MAP.md` and whatever
   file cited it. A human can do the same cross-file update by hand —
@@ -150,8 +150,8 @@ and limits:
   agent's stray action.
 
 The structure in this repo leans on that division of labor: `CLAUDE.md`,
-`N5/mistakes_and_learning_pts/language_weak_areas.md` and
-`cultural_weak_areas.md`, `N5/quiz_mode.md`, and
+`N5/mistakes_and_learning_pts/weak_areas/` (read `MAP.md` first),
+`N5/quiz_mode.md`, and
 `resources/` (with `resources/MAP.md` as an index, read before the full
 cache) are the "unlimited memory" layer — neither a human's memory nor an
 AI's context window has to keep re-deriving this state every session. The
