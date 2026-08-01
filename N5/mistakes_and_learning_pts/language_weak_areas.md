@@ -713,6 +713,44 @@ form **で** that joins two statements about the same topic without repeating
 です。("I'm Theodore, a nuclear scientist.") Logged in full to
 `N5.tex` → Grammar → "Linking です with で".
 
+## Grammar: より (comparator, "than") + 〜のほうが
+
+Registered by the user from class (2026-07-25) under "Human Registered Weak
+areas" below, but never written up properly until now (2026-08-01), when it came
+up building the Fukushima reflection slide.
+
+**Pattern: A は B より [adjective] です。** = "A is more [adj] than B."
+The tricky part is word order: **B より** sits *immediately before the
+adjective*, and the thing being described (A) is the topic with は. English puts
+"than B" last; Japanese puts it in the middle.
+
+> Shopeeは みせ**より** 安いです。 — "Shopee is cheaper than shops." (class example)
+> 飛行機は 双葉**より** 放射線が 多いです。 — "The airplane has more radiation
+> than Futaba." (Fukushima slide, 2026-08-01)
+
+- より needs **no other particle** — it replaces を/が/に on that noun.
+- Fuller/emphatic form: **AのほうがBより〜です** ("A is the one that's more…").
+  ほう (方) = "side/direction," so it literally means "A's side is more…"
+- Question form: **AとBとどちらが〜ですか** ("between A and B, which is more…"),
+  answered with **Aのほうが〜です**.
+- Superlative (different word): **いちばん** — 一番 安いです ("cheapest").
+
+Not yet tested unaided — keep in rotation.
+
+## Vocab: 測る / 多い / 高度 (Fukushima slide 6, flight measurements)
+
+Flagged 2026-08-01 while building the SQ633 altitude-vs-dose slide.
+
+- **測る** (はかる) --- "to measure" (測りました, "I measured"). Same reading as
+  計る/量る, which split by what's measured (time / weight); 測る is the one for
+  length, distance, and physical quantities like radiation.
+- **多い** (おおい) --- "many / much" (い-adjective). Trap: 多い is almost never
+  used *before* a noun the way English "many X" is --- say 放射線が多いです
+  ("the radiation is much"), not ~~多い放射線~~.
+- **高度** (こうど) --- "altitude." 高 (たか/こう, "high") + 度 (ど, "degree").
+- Reused from the existing 〜より entry above: 高いところ ("high places"), where
+  ところ (所) = "place."
+
 # Human Registered Weak areas in class 
 
 ## 25 Jul 2026 

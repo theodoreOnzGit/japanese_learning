@@ -7,6 +7,13 @@
 % --- Japanese support (compile with pdflatex via CJKutf8, same as N5.tex) ---
 \usepackage{CJKutf8}
 
+% --- Tables (\toprule / \midrule / \bottomrule on the readings slide) ---
+\usepackage{booktabs}
+
+% --- Plots (altitude vs dose rate scatter, slide 6) ---
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
 % --- Images (drop trip photos into fukushima_images/, reference by filename) ---
 \usepackage{graphicx}
 \graphicspath{{fukushima_images/}}
@@ -89,30 +96,83 @@
   \end{itemize}
 \end{frame}
 
-% --- Slide 6: radiation readings table (airplane / Changi / Narita / Futaba) ---
+% --- Slide 6: in the airplane (SQ633) --- altitude vs dose rate ---
+% Data: N5/dosimeter_data/sq633 radiation vs height readings.xlsx (38 points)
 \begin{frame}
-  \frametitle{\rb{測定}{そくてい}\rb{結果}{けっか} / Radiation Readings}
-  \begin{center}
-  \begin{tabular}{@{}ll@{}}
-    \toprule
-    \rb{場所}{ばしょ} (Location) & \rb{線量}{せんりょう} ($\mu$Sv/h) \\
-    \midrule
-    % TODO: fill in once readings are ready --- e.g.:
-    % 飛行機 (airplane) & 0.00 \\
-    % チャンギ空港 (Changi) & 0.00 \\
-    % 成田空港 (Narita) & 0.00 \\
-    % 双葉 (Futaba) & 0.00 \\
-    \bottomrule
-  \end{tabular}
-  \end{center}
-  % TODO: \includegraphics[width=0.6\textwidth]{photo-filename} once photos
-  % are uploaded to fukushima_images/
+  \frametitle{\rb{飛行機}{ひこうき}の\rb{中}{なか}で / In the Airplane (SQ633)}
+  \begin{columns}[T]
+    \begin{column}{0.44\textwidth}
+      \begin{itemize}
+        \item \rb{飛行機}{ひこうき}の\rb{中}{なか}で\rb{測}{はか}りました。\\
+          \textit{I measured inside the airplane.}
+        \item \rb{高}{たか}いところは、\rb{放射線}{ほうしゃせん}が\rb{多}{おお}いです。\\
+          \textit{High places have more radiation.}
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.56\textwidth}
+      \begin{center}
+      \begin{tikzpicture}
+        \begin{axis}[
+          width=\textwidth, height=5.2cm,
+          xlabel={Altitude (m)}, ylabel={$\mu$Sv/h},
+          xmin=6000, xmax=12600, ymin=0, ymax=1.7,
+          scaled x ticks=false, xtick={6000,8000,10000,12000},
+          xticklabel style={/pgf/number format/1000 sep={,}},
+          grid=major, only marks, mark size=1.4pt,
+        ]
+        \addplot coordinates {
+          (6301,0.25) (6411,0.30) (6610,0.35) (6893,0.38) (6990,0.42)
+          (7135,0.43) (7227,0.45) (7276,0.55) (7420,0.61) (7465,0.50)
+          (7595,0.54) (7684,0.70) (7784,0.85) (7894,0.77) (8007,0.64)
+          (8139,0.50) (8323,0.57) (8883,0.75) (8949,0.83) (9021,0.85)
+          (9136,0.67) (9248,0.80) (9441,0.81) (9518,0.82) (9648,0.81)
+          (9841,0.83) (10043,0.81) (10092,1.05) (10142,1.08) (10191,0.93)
+          (10241,0.84) (10309,0.98) (10355,1.03) (11585,1.40) (11588,1.36)
+          (11590,1.23) (12200,1.45) (12200,1.53)
+        };
+        \end{axis}
+      \end{tikzpicture}
+      \end{center}
+    \end{column}
+  \end{columns}
 \end{frame}
 
-% --- Slide 7: reflection / what I learned ---
+% --- Slide 7: radiation readings table (airplane / Changi / Narita / Futaba) ---
+\begin{frame}
+  \frametitle{\rb{測定}{そくてい}\rb{結果}{けっか} / Radiation Readings}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{tabular}{@{}lr@{}}
+        \toprule
+        \rb{場所}{ばしょ} (Location) & $\mu$Sv/h \\
+        \midrule
+        チャンギ\rb{空港}{くうこう} & 0.10 \\
+        \rb{飛行機}{ひこうき}（\rb{上}{のぼ}り） & 0.42 \\
+        \rb{飛行機}{ひこうき}（12,200 m） & \textbf{1.20} \\
+        \rb{成田}{なりた}\rb{空港}{くうこう} & 0.11 \\
+        \rb{電車}{でんしゃ}の\rb{中}{なか} & 0.10 \\
+        \rb{双葉}{ふたば}\rb{駅}{えき} & \textbf{0.11} \\
+        \bottomrule
+      \end{tabular}
+      \vspace{1em}
+      \begin{itemize}
+        \item \rb{双葉}{ふたば}は チャンギ\rb{空港}{くうこう}と \rb{同}{おな}じでした。\\
+          \textit{Futaba was the same as Changi Airport.}
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.45\textwidth}
+      \begin{center}
+        \includegraphics[width=\textwidth]{futaba_station_dosimeter.jpg}\\
+        \small \rb{双葉}{ふたば}\rb{駅}{えき}で --- 0.11 $\mu$Sv/h
+      \end{center}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- Slide 8: reflection / what I learned ---
 % TODO
 
-% --- Slide 8: thank you / questions ---
+% --- Slide 9: thank you / questions ---
 % TODO
 
 \end{CJK}
