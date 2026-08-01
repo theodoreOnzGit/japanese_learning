@@ -737,6 +737,90 @@ adjective*, and the thing being described (A) is the topic with は. English put
 
 Not yet tested unaided — keep in rotation.
 
+## Grammar: 〜と思います (opinion marker) --- the plain-form trap
+
+Asked for 2026-08-01, self-identified: "there is a form which talks about, it's
+my opinion rather than fact right?" --- yes, **〜と思います**. Already used
+unknowingly on Fukushima slide 5 (調べたいと思いました).
+
+**Pattern: [plain form clause] + と思います.** The clause before と must be
+**plain form** --- this is the trap, since the user's instinct is to keep the
+polite ます/です they normally speak in.
+
+| Word type | Correct | Wrong |
+|---|---|---|
+| verb | 行く**と思います** | ~~行きますと思います~~ |
+| い-adjective | 安い**と思います** | --- |
+| な-adjective | 危険**だ**と思います | ~~危険ですと思います~~ |
+| noun | 学生**だ**と思います | ~~学生ですと思います~~ |
+
+な-adjectives and nouns need **だ** (the plain form of です) before と.
+い-adjectives and verbs are already plain, so they attach directly. Only the
+final 思います carries the politeness --- everything inside the quote is plain.
+
+Worked example (Fukushima Q&A, 2026-08-01):
+
+> いいえ、危険じゃなかったと思います。
+> *Iie, kiken ja nakatta to omoimasu.*
+> "No, I don't think it was dangerous."
+
+危険 is a な-adjective, so plain past negative = 危険**じゃなかった** (NOT
+~~危険くなかった~~, which is the い-adjective shape). See the い-adj vs な-adj
+split under "です past tense: でした".
+
+**Hedging ladder** (decreasing commitment): 〜と思います ("I think," your
+opinion) → 〜でしょう ("probably," conjecture) → 〜かもしれません ("might").
+
+Why it matters here: measured numbers are fact and can be stated flat
+(0.11 μSv/hでした), but "Fukushima is safe" is a judgement --- Japanese expects
+it marked as opinion. Stating an opinion as bare fact reads as overconfident.
+
+## ありがとうございます vs ありがとうございました (present vs past thanks)
+
+Flagged 2026-08-01, writing the show-and-tell closing slide --- the user wrote
+**ありがとうございます** to end a presentation. Not wrong, but ございました
+(past) is the standard closer.
+
+- **ありがとうございます** (non-past) --- thanks for something **ongoing or
+  about to happen**: a gift being handed over now, help you're receiving,
+  general standing gratitude.
+- **ありがとうございました** (past) --- thanks for something **completed**: the
+  end of a talk, a meal, a lesson, a transaction. The audience has *finished*
+  listening, so the thing you're thanking for is done.
+
+Same 完了 (completed-action) logic already logged under "わかりました (past) vs
+わかりません" --- Japanese marks the *completedness of the event*, where English
+just says "thank you" either way. Shop staff use both and the split is exactly
+this: ございます as you're being served, ございました as you leave.
+
+Rule of thumb for presentations: **open with よろしくお願いします, close with
+ありがとうございました.**
+
+## Honorific prefixes お / ご (おビール, ご質問) --- politeness on nouns
+
+Flagged 2026-08-01 --- the user wrote 質問がありますか to an audience. Correct,
+but when the noun belongs to *the listener*, Japanese prefixes it to elevate
+them: **ご質問**. This is 尊敬語 on a noun, the same "raise them, lower
+yourself" axis already logged in the keigo ladder entry.
+
+- **ご〜** attaches to Sino-Japanese (kanji-reading) nouns: ご質問, ご家族,
+  ご住所, ご意見.
+- **お〜** attaches to native-Japanese (kun-reading) nouns: お名前, お手紙,
+  お金, お water→お水.
+- Rough rule: **音読み → ご, 訓読み → お**. Exceptions exist (お電話, お時間).
+- **Only for the other person's things.** Your own question is 質問, theirs is
+  ご質問. Saying ご質問 about your own question over-elevates yourself --- the
+  same misstep category as あげる aimed at a senior.
+
+Also learnt in the same sentence: **何か (なにか, "any/some")** softens an
+existence question --- 何かご質問はありますか is more natural than a bare
+質問がありますか, which can sound abrupt. And **は over が** here: 質問**は**
+ありますか topicalises ("as for questions...") and sounds more inviting;
+が is a neutral, blunter request for information.
+
+Cultural angle: `cultural_weak_areas.md` → "Hierarchy dictates verb choice
+(keigo)" --- audience/customer is 外 (out-group) and elevated.
+
 ## Vocab: 少ない (すくない) --- mis-said as ~~すきない~~
 
 Flagged 2026-08-01 during the より drill: given the hint "少ない", the user read
