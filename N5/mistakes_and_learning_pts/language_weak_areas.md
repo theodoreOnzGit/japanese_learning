@@ -737,6 +737,23 @@ adjective*, and the thing being described (A) is the topic with は. English put
 
 Not yet tested unaided — keep in rotation.
 
+## Vocab: 少ない (すくない) --- mis-said as ~~すきない~~
+
+Flagged 2026-08-01 during the より drill: given the hint "少ない", the user read
+it back as **すきない**. The kana is **すく**ない (su-**ku**-nai), not すき.
+Likely interference from **好き (すき, "like")**, a much more frequent word ---
+same first two kana in the wrong order of familiarity.
+
+| Word | Kana | Meaning |
+|---|---|---|
+| 少ない | す**く**ない | few / not much (い-adjective) |
+| 好き | すき | liked / fond of (な-adjective) |
+
+Pairs as opposites with 多い (おおい, "many") --- see the 測る/多い entry below.
+Note both 多い and 少ない are い-adjectives, so their past is 多かった /
+少なかった (NOT ~~多いでした~~) --- the same い-adjective trap already logged
+under "です past tense: でした".
+
 ## Vocab: 測る / 多い / 高度 (Fukushima slide 6, flight measurements)
 
 Flagged 2026-08-01 while building the SQ633 altitude-vs-dose slide.

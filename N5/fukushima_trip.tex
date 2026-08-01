@@ -21,6 +21,11 @@
 \usetheme{Madrid}
 \usecolortheme{default}
 
+% Slides carry Japanese + an English gloss on every line, so the bodies run
+% long --- shrink the bullet text a step so nothing spills past the footline.
+\setbeamerfont{itemize/enumerate body}{size=\small}
+\setbeamerfont{itemize/enumerate subbody}{size=\footnotesize}
+
 % --- Furigana macro (no extra packages needed, works with plain pdflatex+CJK) ---
 % Usage: \rb{漢字}{かんじ} stacks the reading in small kana above the kanji.
 \newcommand{\rb}[2]{%
@@ -29,7 +34,12 @@
   \raisebox{0.9em}{\scriptsize\makebox[\wd0][c]{#2}}\kern-\wd0 \box0%
 }
 
-\title[ふくしま旅行]{私のふくしま旅行}
+% NOTE: Japanese cannot go in \title directly --- hyperref writes the title into
+% the PDF metadata at \begin{document}, before \begin{CJK} has started, and
+% pdflatex errors with "Unicode character not set up for use with LaTeX".
+% \texorpdfstring gives hyperref a plain-ASCII version for the metadata while
+% the Japanese is still what gets typeset on the slide.
+\title[Fukushima]{\texorpdfstring{私のふくしま\rb{旅行}{りょこう}}{My Trip to Fukushima}}
 \subtitle{My Trip to Fukushima --- Show and Tell}
 \author{} % TODO: fill in your name
 \date{\today}
@@ -62,25 +72,30 @@
       \textit{I went from Changi Airport to Narita Airport. Then, I went to Tokyo.}
     \item 仙台\rb{駅}{えき}で乗りました。そして、\rb{双葉}{ふたば}\rb{駅}{えき}で降りました。そして、ホテルに行きました。\\
       \textit{I boarded at Sendai station. Then, I got off at Futaba station. Then, I went to the hotel.}
-    \item \rb{双葉}{ふたば}のホテルは\rb{原発}{げんぱつ}の近くです。\\
-      \textit{The hotel in Futaba is near the nuclear plant.}
-    \item ホテルは\rb{安}{やす}いですね！\\
-      \textit{The hotel is cheap, isn't it!}
-    \item \rb{朝}{あさ}ごはんと\rb{晩}{ばん}ごはんがあります。\\
-      \textit{There's breakfast and dinner.}
   \end{itemize}
 \end{frame}
 
 % --- Slide 4: shinkansen ---
 \begin{frame}
   \frametitle{\rb{新幹線}{しんかんせん} / Shinkansen}
-  \begin{itemize}
-    \item 東京\rb{駅}{えき}で、はやぶさに乗りました。そして、仙台\rb{駅}{えき}で降りました。\\
-      \textit{I boarded the Hayabusa at Tokyo station. Then, I got off at Sendai station.}
-    \item \rb{速}{はや}いですね！\\
-      \textit{It's fast, isn't it!}
-    % TODO: more shinkansen impressions coming next
-  \end{itemize}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{itemize}
+        \item 東京\rb{駅}{えき}で、はやぶさに乗りました。そして、仙台\rb{駅}{えき}で降りました。\\
+          \textit{I boarded the Hayabusa at Tokyo station. Then, I got off at Sendai station.}
+        \item \rb{一}{いち}\rb{時間}{じかん}\rb{半}{はん}でした。\\
+          \textit{It was an hour and a half.}
+        \item \rb{速}{はや}いですね！\\
+          \textit{It's fast, isn't it!}
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.45\textwidth}
+      \begin{center}
+        \includegraphics[width=\textwidth]{hayabusa_ticket.jpg}\\
+        \small はやぶさ21\quad 12:20\rb{発}{はつ} → 13:51\rb{着}{ちゃく}
+      \end{center}
+    \end{column}
+  \end{columns}
 \end{frame}
 
 % --- Slide 5: the dosimeter / why I brought it ---
@@ -169,10 +184,67 @@
   \end{columns}
 \end{frame}
 
-% --- Slide 8: reflection / what I learned ---
-% TODO
+% --- Slide 8: the official monitoring posts around Futaba ---
+\begin{frame}
+  \frametitle{モニタリングポスト / Monitoring Posts}
+  \begin{columns}[T]
+    \begin{column}{0.5\textwidth}
+      \begin{center}
+        \includegraphics[height=4.4cm]{boss_coffee_monitor.jpg}\\
+        \small \rb{町}{まち}の\rb{中}{なか} --- 0.042 $\mu$Sv/h
+      \end{center}
+    \end{column}
+    \begin{column}{0.5\textwidth}
+      \begin{center}
+        \includegraphics[height=4.4cm]{monitoring_post_high.jpg}\\
+        \small \rb{古}{ふる}い\rb{建物}{たてもの}の\rb{近}{ちか}く --- 1.036 $\mu$Sv/h
+      \end{center}
+    \end{column}
+  \end{columns}
+  \vspace{0.5em}
+  \begin{itemize}
+    \item \rb{双葉}{ふたば}に モニタリングポストが たくさん あります。\\
+      \textit{There are many monitoring posts in Futaba.}
+    \item \rb{場所}{ばしょ}に よって、\rb{全然}{ぜんぜん} \rb{違}{ちが}います。\\
+      \textit{Depending on the place, it's completely different.}
+  \end{itemize}
+\end{frame}
 
-% --- Slide 9: thank you / questions ---
+% --- Slide 9: hotel food (tourist-friendly) ---
+\begin{frame}
+  \frametitle{ホテル / The Hotel}
+  \begin{columns}[T]
+    \begin{column}{0.5\textwidth}
+      \begin{center}\includegraphics[height=3.3cm]{hotel_breakfast.jpg}\end{center}
+    \end{column}
+    \begin{column}{0.5\textwidth}
+      \begin{center}\includegraphics[height=3.3cm]{hotel_breakfast2.jpg}\end{center}
+    \end{column}
+  \end{columns}
+  \vspace{0.4em}
+  \begin{itemize}
+    \item \rb{双葉}{ふたば}のホテルは\rb{原発}{げんぱつ}の\rb{近}{ちか}くです。\\
+      \textit{The hotel in Futaba is near the nuclear plant.}
+    \item ホテルは\rb{安}{やす}くて、\rb{朝}{あさ}ごはんと\rb{晩}{ばん}ごはんがあります。\\
+      \textit{The hotel is cheap, and has breakfast and dinner.}
+    \item \rb{魚}{さかな}と\rb{卵焼}{たまごや}きと みそしるが ありました。とても おいしかったです！\\
+      \textit{There was fish, tamagoyaki and miso soup. It was very delicious!}
+  \end{itemize}
+\end{frame}
+
+% --- Slide 10: reflection / what I learned ---
+% TODO --- the \begin{itemize} skeleton is here; fill the より sentence in
+\begin{frame}
+  \frametitle{まとめ / What I Learned}
+  \begin{itemize}
+    \item \rb{双葉}{ふたば}\rb{駅}{えき}は チャンギ\rb{空港}{くうこう}と \rb{同}{おな}じでした。\\
+      \textit{Futaba station was the same as Changi Airport.}
+    \item \rb{双葉}{ふたば}は \rb{飛行機}{ひこうき}より \rb{放射線}{ほうしゃせん}が \rb{少}{すく}ないです。\\
+      \textit{Futaba has less radiation than the airplane.}
+  \end{itemize}
+\end{frame}
+
+% --- Slide 11: thank you / questions ---
 % TODO
 
 \end{CJK}
