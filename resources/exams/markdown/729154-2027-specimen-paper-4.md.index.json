@@ -1,0 +1,44 @@
+{
+  "source": "729154-2027-specimen-paper-4.md",
+  "total_lines": 25,
+  "headings": [
+    {
+      "text": "Cambridge IGCSE™",
+      "level": 1,
+      "line_start": 1,
+      "line_end": 25
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "line_start": 1,
+      "line_end": 4
+    },
+    {
+      "page": 2,
+      "line_start": 5,
+      "line_end": 10
+    },
+    {
+      "page": 3,
+      "line_start": 11,
+      "line_end": 14
+    },
+    {
+      "page": 4,
+      "line_start": 15,
+      "line_end": 18
+    },
+    {
+      "page": 5,
+      "line_start": 19,
+      "line_end": 22
+    },
+    {
+      "page": 6,
+      "line_start": 23,
+      "line_end": 25
+    }
+  ]
+}

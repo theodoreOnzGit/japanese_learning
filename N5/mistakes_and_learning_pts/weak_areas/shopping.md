@@ -31,6 +31,28 @@ permanently** — you say お金 for money in general, including your own. Bare
 Cross-ref: `reading_traps.md` — this is one of four tracked
 same-kanji-two-readings slips.
 
+#### 買います (かいます) — `new`
+
+From class 2026-08-01. **買う（かう）** = to buy; う-verb. 買います / 買いました /
+買って. Already met in its **potential** form — 買う → 買**える** → 買えます
+("can buy"), from the Orchard Road sentence (see
+`describing_and_sentence_building.md` → Potential form).
+
+Object takes を: パンを買いました。Location of the action takes で:
+スーパー**で**買いました (not に — に is for existence/destination).
+
+#### スーパー and clipped loanwords — `new`
+
+From class 2026-08-01. **スーパー** is short for スーパーマーケット. Japanese
+shortens long katakana loanwords aggressively, usually to four morae:
+
+パソコン (personal computer) · コンビニ (convenience store) · デパート
+(department store) · エアコン (air conditioner) · リモコン (remote control) ·
+アパート (apartment) · ファミレス (family restaurant)
+
+The clipped form is the *normal* word — using the full スーパーマーケット sounds
+stilted, not more correct.
+
 #### Shop names: the 〜屋 (や) suffix — `new`
 
 From class 2026-08-01: **八百屋（やおや）** = greengrocer, vegetable/fruit shop.

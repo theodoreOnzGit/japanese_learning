@@ -95,6 +95,19 @@ Flagged 2026-08-01 via ひとが少ない. Three readings by context:
 
 The counter irregularities (ひとり/ふたり) are also in `numbers_time_dates.md`.
 
+#### 国 — くに vs こく/ごく — `new`
+
+2026-08-01. くに standing alone, こく (or voiced ごく) in compounds:
+
+| Form | Reading | Meaning |
+|---|---|---|
+| 国 | **くに** | country (alone) |
+| 外国 | がい**こく** | foreign country |
+| 中国 | ちゅう**ごく** | China (voiced) |
+| 国語 | **こく**ご | national language |
+
+Same kun-alone / on-in-compound pattern as 人 and 金.
+
 #### 年 — ねん vs とし — `new`
 
 去年 きょ**ねん** / 来年 らい**ねん**, but 今年 こ**とし** / 毎年 まい**とし**.

@@ -36,6 +36,8 @@ Buying, comparing, trying on, asking staff.
 - `shaky` お金 (おかね) — misread as おきん; 金 has two readings
 - `shaky` 安い — missing は on ホテルは安いですね
 - `shaky` より / と同じ — comparison; word order, and difference vs sameness
+- `new` 買います — and its potential 買えます
+- `new` スーパー + clipped loanwords (パソコン, コンビニ…)
 - `new` 〜屋 shop suffix — 八百屋（やおや）, パン屋, 花屋…
 - `new` 試着 — trying clothes on; 試着室 not 着替え室
 - `new` 〜てもいいですか — asking permission
@@ -48,6 +50,7 @@ Trains, routes, going and returning.
 - `shaky` 入る / 帰る / 戻る — mixed up; 入る is a sneaky う-verb
 - `shaky` 速い vs 早い — same reading はやい
 - `shaky` から〜まで + そして — 1× correct unaided
+- `new` 行きます + 〜館 buildings (美術館, 図書館, 映画館…)
 - `new` に with point-in-time, NOT with duration
 - `new` そのうち + いました (not ありました)
 
@@ -79,6 +82,7 @@ Talks, openings and closings, opinions, addressing a teacher.
 Pronouns, family terms, compliments.
 - `solid` Family terms — 父 vs お父さん (first clean spontaneous 内/外 use)
 - `shaky` Responding to a compliment
+- `new` 国 / お国はどちらですか — asking where someone's from
 - `new` First-person pronouns — 僕 / 私 / 俺 / わたくし / あたし
 - `new` *Cultural:* accepting vs deflecting compliments (謙遜)
 
@@ -87,6 +91,7 @@ Reactions, agreeing and refusing, joining ideas.
 - `shaky` Interjections へえ / え〜 / えっ / ええ — quiz miss on へえ
 - `new` **いいです is ambiguous — "yes fine" *or* "no thanks"**
 - `new` と vs や — exhaustive vs representative "and"
+- `new` ほんとに / ほんとうに — casual clipping; used correctly 2026-08-01
 - `new` こちら / そちら / あちら / どちら — the polite こそあど
 - `new` わかりました (past) vs わかりません (present)
 - `new` だめ (駄目)
@@ -107,20 +112,24 @@ Counting, counters, dates. **Extra quiz weight per `quiz_mode.md`.**
 - `new` Large numbers — 300 さんびゃく, 600 ろっぴゃく, 800 はっぴゃく…
 - `new` Decimals — てん
 - `new` Relative days — きのう set; no particle
+- `new` Relative weeks — 先週/今週/来週; 先・今・来 across units
 - `new` Relative years — 今年 ことし; 年 reads ねん or とし
 
 ### [describing_and_sentence_building.md](describing_and_sentence_building.md)
 Conjugation grids, adjectives, connectors, positions.
+- `new` **が vs は — new information sits before が, after は** (sensei's framing; 1× correct spontaneous use)
+- `shaky` **Location particle dropped before place names — 3 instances**
 - `shaky` です past でした + **the い-adjective trap** (quiz miss 2026-07-25)
 - `shaky` Positional nouns — 上/下/中/前/後ろ/横/隣/近く/間
 - `shaky` 多い / 少ない — misread as すきない; predicative (人が多い), not 多い人
 - `shaky` Potential form 買えます — 1× correct unaided
 - `new` ます-form four-way grid
-- `new` なにも + negative agreement
+- `new` **Qn word + も + negative** — total negation; も replaces が/を; いつも trap; か/も/でも system
 - `new` 測る / 高度
 - `new` 〜くて — い-adjective connector
 - `new` で — linking form of です
 - `new` に興味がある + から reason clause
+- `new` から — one particle, four jobs (origin / time / range / reason)
 - `new` 〜が欲しい / 〜たい — the が shift
 
 ### [clothing.md](clothing.md)
@@ -147,6 +156,7 @@ Cross-cutting: homophones, multi-reading kanji, pronunciation.
 - `shaky` 金 — かね vs きん
 - `new` 年 — ねん vs とし
 - `new` 人 — ひと vs にん vs じん
+- `new` 国 — くに vs こく/ごく
 - `new` Irregular whole-word readings — 今日, 今年, 八百屋, 一人…
 - `new` Pitch accent — **untestable in chat, needs external audio**
 

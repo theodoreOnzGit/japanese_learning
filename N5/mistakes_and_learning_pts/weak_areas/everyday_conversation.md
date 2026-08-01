@@ -30,6 +30,22 @@ toward granting rather than refusing; and context (answering a *request* vs an
 The user's はい、いいですよ is natural and friendly — granting permission with よ
 adding a reassuring "it's fine, really." Fine for a peer or classmate.
 
+#### ほんとに / ほんとうに (本当に) — `new`
+
+Used correctly by the user 2026-08-01 (はい、ほんとにいいですよ — "yes, it's
+really fine"), reassuring someone who is checking.
+
+**ほんと**に is the clipped, colloquial form of **ほんとう**に (本当に, "really /
+truly"). Both are correct; the long form is what you write, the short form is
+what you say. Mixing casual ほんとに with polite ですよ is completely normal in
+speech — the politeness lives in the ending, not the adverb.
+
+Related: **本当ですか？**（ほんとうですか）= "Really?" — the standard surprised
+response, and a natural partner to へえ (see interjections below).
+
+The ほんとう→ほんと clipping is a general colloquial pattern, same as
+すみません→すいません and やはり→やっぱり.
+
 #### と vs や — "and" for nouns — `new`
 
 From class 2026-08-01. Both join **nouns only** — never verbs or adjectives.

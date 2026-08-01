@@ -32,6 +32,30 @@ Flagged 2026-07-25 on 速いですね！(about the shinkansen). Same kana **は�
 two kanji: **速い** = fast (speed) vs **早い** = early (time). See
 `reading_traps.md`.
 
+#### 行きます + places you go — `new`
+
+From class 2026-08-01. **行きます（いきます）** = to go; destination takes **に**
+(or へ). Sensei's minimal pair:
+
+> せんしゅう びじゅつかん**に** いき**ました**。 — "Last week I went to the art museum."
+> スーパー**に** いき**ませんでした**。 — "I didn't go to the supermarket."
+
+Same frame, opposite corners of the ます grid
+(`describing_and_sentence_building.md`): past affirmative vs past negative.
+Note **せんしゅう takes no particle** while びじゅつかん takes に — the
+relative-time-word rule from `numbers_time_dates.md`.
+
+**〜館（かん）= building** — a productive suffix worth learning as a set:
+
+| Word | Reading | Meaning |
+|---|---|---|
+| 美術館 | びじゅつかん | art museum |
+| 図書館 | としょかん | library |
+| 映画館 | えいがかん | cinema |
+| 水族館 | すいぞくかん | aquarium |
+| 博物館 | はくぶつかん | museum (general) |
+| 大使館 | たいしかん | embassy |
+
 ### Stretch (N4)
 
 #### に vs を with 乗る / 降りる — `shaky` (3 failed attempts)

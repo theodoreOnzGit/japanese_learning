@@ -1,0 +1,106 @@
+{
+  "source": "729152-2027-specimen-paper-2.md",
+  "total_lines": 59,
+  "headings": [
+    {
+      "text": "Cambridge IGCSE™",
+      "level": 5,
+      "line_start": 1,
+      "line_end": 12
+    },
+    {
+      "text": "���",
+      "level": 3,
+      "line_start": 13,
+      "line_end": 16
+    },
+    {
+      "text": "����",
+      "level": 4,
+      "line_start": 15,
+      "line_end": 16
+    },
+    {
+      "text": "��",
+      "level": 2,
+      "line_start": 17,
+      "line_end": 18
+    },
+    {
+      "text": "��",
+      "level": 1,
+      "line_start": 19,
+      "line_end": 59
+    },
+    {
+      "text": "���",
+      "level": 4,
+      "line_start": 21,
+      "line_end": 26
+    },
+    {
+      "text": "���",
+      "level": 6,
+      "line_start": 23,
+      "line_end": 26
+    },
+    {
+      "text": "����",
+      "level": 2,
+      "line_start": 27,
+      "line_end": 59
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "line_start": 1,
+      "line_end": 4
+    },
+    {
+      "page": 2,
+      "line_start": 5,
+      "line_end": 8
+    },
+    {
+      "page": 3,
+      "line_start": 9,
+      "line_end": 30
+    },
+    {
+      "page": 4,
+      "line_start": 31,
+      "line_end": 34
+    },
+    {
+      "page": 5,
+      "line_start": 35,
+      "line_end": 40
+    },
+    {
+      "page": 6,
+      "line_start": 41,
+      "line_end": 44
+    },
+    {
+      "page": 7,
+      "line_start": 45,
+      "line_end": 48
+    },
+    {
+      "page": 8,
+      "line_start": 49,
+      "line_end": 52
+    },
+    {
+      "page": 9,
+      "line_start": 53,
+      "line_end": 56
+    },
+    {
+      "page": 10,
+      "line_start": 57,
+      "line_end": 59
+    }
+  ]
+}

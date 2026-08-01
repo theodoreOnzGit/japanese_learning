@@ -42,16 +42,54 @@ From class 2026-07-18. Same past/negative axes as です→でした:
 Endings stack: あげ + ません + でした → "did not give." Note でした reappears —
 the same past marker from です, reused for the ます-negative past.
 
-#### なにも (何も) + negative — `new`
+#### Question word + も + negative — total negation — `new`
 
-**なにも = "nothing / not anything" — requires a NEGATIVE verb.** A
-negative-polarity item: word and verb ending must agree.
+Sensei stated the **general rule** on 2026-08-01 ("Qn word も 〜ません"); the
+individual instances (なにも/だれも/どこも) had been logged since 2026-07-18.
+
+**[question word] + も + negative verb** = "not any / none at all." A
+negative-polarity construction: the word and the verb ending must agree.
+
+| Q word | + も + negative | Meaning |
+|---|---|---|
+| なに | なにも 〜ません | nothing |
+| だれ | だれも 〜ません | nobody |
+| どこ | どこへも 〜ません | nowhere |
+| どれ | どれも 〜ません | none of them |
 
 - ✅ なにも あげませんでした / なにも たべません
-- ❌ ~~なにも あげました~~
+- ❌ ~~なにも あげました~~ (affirmative verb with なにも)
 
-Family, all + negative: **なにも** nothing · **だれも (誰も)** nobody ·
-**どこも** nowhere. Compare 全然 ("not at all"), same agreement rule.
+**も replaces が and を, but stacks with everything else:**
+
+> なにも 食べません ← を dropped
+> だれも 来ません ← が dropped
+> どこ**へ**も 行きません ← へ kept
+> だれ**に**も 会いません ← に kept
+
+Same behaviour as **は** — both displace the core case particles (が/を) while
+coexisting with に/で/へ. See the が vs は entry above; も and は are the same
+family of "overriding" particles.
+
+**Trap — いつも has a double life.** Alone it means **"always"** (affirmative);
+only with a negative does it mean "never":
+
+> いつも 行きます。 "I always go." / いつも 行きません。 "I never go."
+
+No other question word behaves this way.
+
+**Completes a three-way system** on the same question words:
+
+| Suffix | Meaning | Example |
+|---|---|---|
+| **か** | some- | なに**か** = something |
+| **も** + neg | no- | なに**も**〜ません = nothing |
+| **でも** | any- | なに**でも** = anything at all |
+
+The か branch was already met as 何かご質問はありますか
+(`presenting_and_formal.md`).
+
+Compare 全然 ("not at all"), which follows the same negative-agreement rule.
 
 Minimal pair (class, 2026-07-18):
 - なにも **あげ**ませんでした = "I gave nothing" (outward)
@@ -178,6 +216,25 @@ Same が-stative shape as が欲しい, with に marking the target.
 
 **から** attaches directly after the reason clause (興味があります**から**),
 reason first then result. Full write-up: `N5.tex` → Grammar.
+
+#### から — one particle, four jobs — `new`
+
+Consolidated 2026-08-01 when the user flagged くにから ("from my country"). から
+has been met piecemeal; collecting the jobs in one place:
+
+| Job | Example |
+|---|---|
+| **from** (origin/place) | 国**から**来ました |
+| **from** (time) | 九時**から** |
+| **from…to** (range) | Changi空港**から**成田空港**まで** |
+| **because** (reason clause) | 興味があります**から**、行きました |
+
+The reason sense attaches to a *whole clause*; the others attach to a *noun*.
+Same one-particle-many-jobs situation as に (time / recipient / source — see
+`gifts_and_giving.md`).
+
+Also: から is the clearer "from" with もらう (父**から**もらいました), where に is
+possible but ambiguous — see `people_and_politeness.md`.
 
 #### 〜が欲しい / 〜たい — the が shift — `new`
 

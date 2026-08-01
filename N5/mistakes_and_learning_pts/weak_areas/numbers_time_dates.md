@@ -114,6 +114,24 @@ Same irregular-reading family as 今年 — 今日 isn't こんにち, 明日 is
 Contrast with a *specific* time (7時に, 月曜日に), which does need に. Same
 point-vs-span logic as `travel_and_transport.md` → に with point-in-time.
 
+#### Relative week words — `new`
+
+From class 2026-08-01 via せんしゅう. Same shape as the day and year rows:
+
+| Japanese | Reading | Meaning |
+|---|---|---|
+| せんせんしゅう (先々週) | — | week before last |
+| 先週 | せん**しゅう** | last week |
+| 今週 | こん**しゅう** | this week |
+| 来週 | らい**しゅう** | next week |
+| さらいしゅう (再来週) | — | week after next |
+
+**先 / 今 / 来 is one pattern across three time units** — 先週/今週/来週,
+先月/今月/来月, and (partly) 去年/今年/来年. Note the year row breaks it: 去年,
+not ~~先年~~.
+
+Takes **no particle**, like きのう: せんしゅう 美術館に 行きました。
+
 #### Relative year words — `new`
 
 Flagged 2026-07-18. **今年（ことし）= "this year"** — irregular, NOT ~~こんねん~~

@@ -47,6 +47,44 @@ Full form: ありがとうございます。父にもらったんです。
 
 ### Stretch (N4)
 
+#### 国 (くに) and お国はどちらですか — `new`
+
+From class 2026-08-01 (flagged as "くにから is from").
+
+**国（くに）** = "country" — **neutral**, not inherently "mine." The user asked
+(2026-08-01) whether くに means *my own* country; it doesn't, but bare くに reads
+that way in practice, and the reason is a pattern they already got right today.
+
+**The honorific prefix is what marks whose it is** — exactly like the family
+terms above:
+
+| Bare (mine) | Prefixed (theirs) |
+|---|---|
+| 父 = *my* father | お父さん = *your* father |
+| 国 = *my* country | お国 = *your* country |
+
+So 国から reads as "from my country" because leaving お off signals it's yours,
+not theirs — the same 内/外 logic applied to a noun rather than a person. With a
+modifier it is plainly generic: どの国, 外国（がいこく）, 国が多い.
+
+**Second sense:** asked of a Japanese person, お国はどちらですか often means
+*which prefecture* — くに covers "home region," not only "nation."
+
+The stock polite question stacks three separately-logged items:
+
+> **お国はどちらですか。** — "Where are you from?"
+
+- **お**国 — honorific prefix, because it's *their* country
+  (`presenting_and_formal.md`)
+- **どちら** — the polite こそあど (`everyday_conversation.md`)
+- topic **は**, not が — softer, same reason as 何かご質問はありますか
+
+Answer with から: シンガポール**から**来ました。
+
+Register note: お国はどちらですか is polite but can read as slightly formal/
+old-fashioned to a peer; among friends どこから来ましたか or ご出身は？
+(ごしゅっしん, "your origin") are more common.
+
 #### First-person pronouns: 僕 / 私 / 俺 / わたくし — `new`
 
 From class chat 2026-07-18, via the insight that 僕 is a self-lowering choice
