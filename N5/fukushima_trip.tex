@@ -28,11 +28,28 @@
 
 % --- Furigana macro (no extra packages needed, works with plain pdflatex+CJK) ---
 % Usage: \rb{漢字}{かんじ} stacks the reading in small kana above the kanji.
+% Built as a two-row \vbox rather than a \raisebox: CJK glyphs are full-height,
+% so a fixed raise drops the kana on top of the kanji. The vbox also reports its
+% true height to TeX, so the line below gets pushed down instead of collided
+% into. Centres whichever row is narrower over the wider one.
 \newcommand{\rb}[2]{%
   \leavevmode
+  \begingroup
   \setbox0=\hbox{#1}%
-  \raisebox{0.9em}{\scriptsize\makebox[\wd0][c]{#2}}\kern-\wd0 \box0%
+  \setbox2=\hbox{\tiny #2}%
+  \dimen0=\wd0 \ifdim\wd2>\dimen0 \dimen0=\wd2 \fi
+  \vbox{\offinterlineskip
+    \hbox to\dimen0{\hfil\tiny #2\hfil}%
+    \kern0.2ex
+    \hbox to\dimen0{\hfil\unhbox0\hfil}%
+  }%
+  \endgroup
 }
+
+% Ruby text makes some lines much taller than others; let TeX open the leading
+% automatically when two lines would otherwise touch.
+\setlength{\lineskiplimit}{2pt}
+\setlength{\lineskip}{3pt}
 
 % NOTE: Japanese cannot go in \title directly --- hyperref writes the title into
 % the PDF metadata at \begin{document}, before \begin{CJK} has started, and
@@ -91,7 +108,7 @@
     \end{column}
     \begin{column}{0.45\textwidth}
       \begin{center}
-        \includegraphics[width=\textwidth]{hayabusa_ticket.jpg}\\
+        \includegraphics[height=3.4cm]{hayabusa_ticket.jpg}\\
         \small はやぶさ21\quad 12:20\rb{発}{はつ} → 13:51\rb{着}{ちゃく}
       \end{center}
     \end{column}
@@ -177,7 +194,7 @@
     \end{column}
     \begin{column}{0.45\textwidth}
       \begin{center}
-        \includegraphics[width=\textwidth]{futaba_station_dosimeter.jpg}\\
+        \includegraphics[height=4.0cm]{futaba_station_dosimeter.jpg}\\
         \small \rb{双葉}{ふたば}\rb{駅}{えき}で --- 0.11 $\mu$Sv/h
       \end{center}
     \end{column}
@@ -190,13 +207,13 @@
   \begin{columns}[T]
     \begin{column}{0.5\textwidth}
       \begin{center}
-        \includegraphics[height=4.4cm]{boss_coffee_monitor.jpg}\\
+        \includegraphics[height=3.3cm]{boss_coffee_monitor.jpg}\\
         \small \rb{町}{まち}の\rb{中}{なか} --- 0.042 $\mu$Sv/h
       \end{center}
     \end{column}
     \begin{column}{0.5\textwidth}
       \begin{center}
-        \includegraphics[height=4.4cm]{monitoring_post_high.jpg}\\
+        \includegraphics[height=3.3cm]{monitoring_post_high.jpg}\\
         \small \rb{古}{ふる}い\rb{建物}{たてもの}の\rb{近}{ちか}く --- 1.036 $\mu$Sv/h
       \end{center}
     \end{column}
@@ -215,10 +232,10 @@
   \frametitle{ホテル / The Hotel}
   \begin{columns}[T]
     \begin{column}{0.5\textwidth}
-      \begin{center}\includegraphics[height=3.3cm]{hotel_breakfast.jpg}\end{center}
+      \begin{center}\includegraphics[height=3.0cm]{hotel_breakfast.jpg}\end{center}
     \end{column}
     \begin{column}{0.5\textwidth}
-      \begin{center}\includegraphics[height=3.3cm]{hotel_breakfast2.jpg}\end{center}
+      \begin{center}\includegraphics[height=3.0cm]{hotel_breakfast2.jpg}\end{center}
     \end{column}
   \end{columns}
   \vspace{0.4em}
