@@ -7,11 +7,28 @@ different one each time.
 
 ## Current focus
 
+**Class quiz coming the week of 2026-08-08** (announced 2026-08-01). Scope per
+the user: **"all the adjectives, counting etc."** Weight rounds toward these two
+until the quiz has happened, then revert to the normal rotation.
+
+- **Adjectives — the い / な conjugation grid.** Past and negative in both types,
+  plus the attributive-vs-predicative distinction (いい天気でした ✅ /
+  いいでした ❌) and the いい→よかった irregular. **Self-identified 2026-08-01 as
+  hard in class**, and already a quiz miss on 2026-07-25 (おいしい). Drill by
+  *production*: name an adjective and a target cell (past negative, etc.) and
+  have the user produce the form — recognition is not the failing skill here.
+  Detail: `mistakes_and_learning_pts/weak_areas/describing_and_sentence_building.md`.
+
 - **Counting (助数詞, counters)** — flagged as especially weak. Include at
   least 1–2 counting questions per round (drill individual counters: つ, 人,
   本, 匹, 個, etc. and their sound shifts) on top of the normal weak-area
   rotation below, until the user says this has improved enough to drop back
-  to normal weighting.
+  to normal weighting. Include the large-number sound changes (300 さんびゃく,
+  600 ろっぴゃく, 800 はっぴゃく) and date/month readings, which sit in the same
+  family. Detail: `weak_areas/numbers_time_dates.md`.
+
+Also fair game as recently taught and likely on the paper: だけ, あまり + negative,
+question word + も + negative, と/や for nouns, そして.
 
 ## Source priority
 
@@ -80,6 +97,12 @@ distinctly from outright mistakes (e.g. "recall latency on X" rather than
   for the mistake to recur first, one miss during a quiz is enough to log it.
 - If a tracked weak area was answered correctly several times in a row,
   mention the improvement — but don't remove it from tracking unless asked.
+
+## Live class jotting (separate mode)
+
+When the user is in a lesson and dropping notes/questions in real time, follow
+`class_mode.md` instead — short replies, message classification (note vs
+question vs their own production), and pitch capped at sensei's current level.
 
 ## Full exam papers (separate mode)
 

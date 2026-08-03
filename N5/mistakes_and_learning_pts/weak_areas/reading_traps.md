@@ -147,6 +147,33 @@ Inconsistent within the same small set. See `numbers_time_dates.md`.
 These simply have to be memorised as whole words — the kanji don't predict them.
 Individual entries in `numbers_time_dates.md` and `shopping.md`.
 
+### Dropped morae in long words
+
+#### 面白い (おもしろい) — written ~~おもしかった~~ — `new`
+
+2026-08-01, from class: かぶきは おもし**かった**です → **おもしろ**かったです.
+The ろ was dropped. 面白い is five morae — お・も・し・ろ・い — and the fourth is
+the one that goes under speed.
+
+い-adjective: drop い → おもしろ + かった / くない / くなかった.
+
+**Mnemonic:** 面 (おも, "face") + 白い (しろい, "bright") — "the face brightens,"
+said of faces lit up watching a performance. Fitting, since the sentence it was
+learnt in was about kabuki.
+
+Same shape as the とおおい slip logged above: both are errors of *kana count* in a
+longer word, not of meaning. **Third instance the same day:** むずかしい written
+as "muzugashi" (final い dropped, k→g).
+
+**Corrective model sentence from class**, containing both words spelled
+correctly — worth memorising as a unit:
+
+> むずかしかったですが、おもしろかったです。
+
+**Pattern:** all three 2026-08-01 slips (とおおい, おもしかった, muzugashi) are
+kana-count errors in words of 4+ morae. Not meaning failures — the words are
+known. Drill by *writing* them out, not by recognition.
+
 ### Production slips (not reading — output)
 
 - **科学者 → 「くがくがくしゃ」** (2026-07-25) — garbled under production

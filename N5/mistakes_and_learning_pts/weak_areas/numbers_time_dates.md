@@ -132,6 +132,23 @@ not ~~先年~~.
 
 Takes **no particle**, like きのう: せんしゅう 美術館に 行きました。
 
+#### 週末 (しゅうまつ) — weekend — `new`
+
+Asked 2026-08-01 ("how do I say I had nothing to do last weekend"). Combines with
+the 先/今/来 pattern above:
+
+| Japanese | Reading | Meaning |
+|---|---|---|
+| 先週末 | せんしゅうまつ | last weekend |
+| 今週末 | こんしゅうまつ | this weekend |
+| 来週末 | らいしゅうまつ | next weekend |
+
+> 先週末**は** ひまでした。 — "Last weekend I was free."
+
+**は is correct here** — it topicalises the time ("as for last weekend"). The
+no-particle rule logged above concerns **に** specifically; は on a time word is
+normal and common (今日**は**さむいですね).
+
 #### Relative year words — `new`
 
 Flagged 2026-07-18. **今年（ことし）= "this year"** — irregular, NOT ~~こんねん~~

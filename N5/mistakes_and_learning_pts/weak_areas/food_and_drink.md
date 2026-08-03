@@ -25,6 +25,14 @@ Exactly right, and the contrast is the part worth holding:
 Rule: if you could touch it, つめたい. If it's the temperature you're standing in,
 さむい.
 
+**Class example, 2026-08-01** — sensei's sentence, **not** the user's production.
+Input only; no bearing on status.
+
+> いい天気でした。でも、ちょっと**さむ**かったです。
+
+Weather is ambient → さむい, not つめたい. A useful model sentence for the
+distinction, but the user has not yet chosen between さむい and つめたい unaided.
+
 **Extra sense:** つめたい also describes a **cold-hearted person** —
 あの人はつめたいです. さむい cannot do this.
 

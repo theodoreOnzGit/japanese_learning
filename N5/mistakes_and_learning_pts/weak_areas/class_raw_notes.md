@@ -125,5 +125,25 @@ Homework, talk about Fukushima trip
 
 やおや (grocery/veg/fruit shop)
 
+> Digested → `shopping.md` → the 〜屋 suffix.
+
+### Sensei's current teaching frontier (2026-08-01)
+
+Sensei introduced 〜くて / 〜で for joining adjectives, then said **"too much
+grammar for now"** and recommended **そして** instead. Explicit sequencing
+decision, not an oversight — earlier in the same lesson she ruled out と for
+adjectives ("だめです") and steered to そして.
+
+**Where the line currently sits:**
+
+| Taught / expected | Introduced but capped | Beyond class |
+|---|---|---|
+| そして · と/や for nouns · い & な adjective past/negative · から reason · だけ · あまり · question word + も + neg | 〜くて · 〜で | んです · しか〜ない · keigo ladder (さしあげる/いただく/くださる) · 〜てもらう · 〜と思います · 〜てみる · potential form |
+
+**Guidance for Claude:** during live class, answer at sensei's level and log the
+deeper version silently. Offer the fuller picture only when asked, or outside
+class time. Several explanations on 2026-08-01 ran well past this line — useful
+in the notes, but more than is wanted mid-lesson.
+
 > Digested → `shopping.md` → the 〜屋 suffix. 八百屋 = greengrocer; 八百 is an
 > old idiom for "countless," not literally 800.

@@ -79,13 +79,29 @@ PASS/FAIL. `--index` writes a heading/page → line-range sidecar.
 interactive, own the terminal, and will hang a non-interactive session. Full
 command reference: `~/Documents/fun_projects/kopitiam/kopitiam_skill.md`.
 
-### Chat-as-scratchpad during class
+### Class mode (chat-as-scratchpad during class)
 
-The user sometimes uses the chat live during class to jot down points as they
-come up. In that mode: don't wait to be asked each time — when the session
-winds down (the user says something like "done" or otherwise signals it's
-over), write the class notes (or a summary of the discussion) into the
-**Class Notes** section of `N5/N5.tex`, dated with the current date.
+The user uses the chat live during class to jot points as they come up.
+**Follow `N5/class_mode.md`** — triggered by "class mode" / "I'm in class",
+ended by "done" / "class over".
+
+The three things that file exists to get right:
+
+1. **Classify every message** as a **note** (sensei's), a **question**, or the
+   user's own **production** — they are handled oppositely. A bare Japanese
+   sentence with no framing defaults to **note**, because crediting sensei's
+   sentence as the user's production inflates the mastery record and can promote
+   an item they cannot actually produce. Ask *(sensei's, or yours?)* in one line
+   when the sentence is correct and would count as evidence.
+2. **Keep replies short.** They are listening to a teacher. Log the depth, don't
+   send it.
+3. **Pitch to sensei's frontier**, recorded in
+   `weak_areas/class_raw_notes.md` — don't volunteer grammar she has
+   deliberately deferred.
+
+At the end of class, without being asked: write the session into `N5/N5.tex` →
+**Class Notes**, dated with the current date, and confirm the weak-area files
+and `MAP.md` are current.
 
 ### Known weak areas (quiz periodically)
 
@@ -156,6 +172,33 @@ corrections are appended as indented notes without editing the original lines.
 5. **い-adjective past (おいしかったです)** — quiz miss, and it recurs inside
    many other patterns.
 6. **Pitch accent** — no audio feedback in-chat; needs an external reference.
+
+## Model guidance
+
+The work in this repo splits into a **mechanical half** and a **language half**,
+and they have very different error costs.
+
+| Task | Suitable models |
+|---|---|
+| Japanese correction, grammar/nuance explanation, exam synthesis, answer keys, cultural questions | **Opus 5 / Sonnet 5** |
+| Weak-area logging where the content is already drafted; LaTeX edits and compiles; `kopitiam pdf2md` runs and batch conversion; file reorganisation; scripts | **Haiku 4.5** is fine |
+
+**Why be conservative on the language half.** This is a *learning* corpus. A
+wrong particle, a fabricated reading, or a plausible-but-false nuance claim does
+not just produce a bad answer — it gets logged to `weak_areas/` and memorised.
+The error cost is asymmetric in a way it is not for most coding work. Recent
+catches were single-mora precision calls (おもし**ろ**かった, とおい not とおおい,
+ございます vs ございました by aspect); those are exactly what a smaller model is
+likeliest to wave through.
+
+Mixing is sensible: Haiku for a bulk-conversion session, Sonnet or Opus when the
+user is actually studying. `/model` switches.
+
+**Verification rule (applies to every model).** On 2026-08-01, three claims in a
+field report about the `kopitiam` codebase were wrong because they were written
+from output alone. All three were caught by reading the source. **Check the code
+before asserting how it behaves** — and when correcting an earlier claim, record
+the correction rather than quietly deleting it, so the reasoning stays auditable.
 
 ## Project structure
 

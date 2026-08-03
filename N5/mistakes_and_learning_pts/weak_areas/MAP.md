@@ -92,8 +92,11 @@ Reactions, agreeing and refusing, joining ideas.
 - `new` **いいです is ambiguous — "yes fine" *or* "no thanks"**
 - `new` と vs や — exhaustive vs representative "and"
 - `new` ほんとに / ほんとうに — casual clipping; used correctly 2026-08-01
+- `new` *Cultural:* 歌舞伎 — 女形, 隈取, 見得; vs 能
 - `new` こちら / そちら / あちら / どちら — the polite こそあど
 - `new` わかりました (past) vs わかりません (present)
+- `new` アルバイト ← German *Arbeit*; the German-loanword set
+- `new` **お疲れさまでした** — sign-off; past = completed effort; ご苦労さま is downward-only
 - `new` ひま (暇) — free/not busy; な-adj, vs い-adj 忙しい
 - `new` だめ (駄目)
 - `new` すっかり
@@ -114,6 +117,7 @@ Counting, counters, dates. **Extra quiz weight per `quiz_mode.md`.**
 - `new` Decimals — てん
 - `new` Relative days — きのう set; no particle
 - `new` Relative weeks — 先週/今週/来週; 先・今・来 across units
+- `new` 週末 — 先週末/今週末/来週末; は on time words is fine
 - `new` Relative years — 今年 ことし; 年 reads ねん or とし
 
 ### [describing_and_sentence_building.md](describing_and_sentence_building.md)
@@ -127,8 +131,12 @@ Conjugation grids, adjectives, connectors, positions.
 - `shaky` 多い / 少ない — misread as すきない; predicative (人が多い), not 多い人
 - `shaky` Potential form 買えます — 1× correct unaided
 - `new` ます-form four-way grid
+- `new` **だけ / しか〜ない — "only"**; だけ displaces が/を like も and は
+- `new` 両親 / ご両親 — parents
+- `new` **あまり / 全然 + negative** — negative-polarity family; あまり softens, 全然 is blunt
 - `new` **Qn word + も + negative** — total negation; も replaces が/を; いつも trap; か/も/でも system
 - `new` 測る / 高度
+- `new` **Connector map** — と/や nouns · 〜くて い-adj · 〜で な-adj · て-form verbs · そして/でも/が sentences (sensei: と for adjectives is だめ)
 - `new` 〜くて — い-adjective connector
 - `new` で — linking form of です
 - `new` に興味がある + から reason clause
@@ -161,12 +169,15 @@ Cross-cutting: homophones, multi-reading kanji, pronunciation.
 - `new` 人 — ひと vs にん vs じん
 - `new` 国 — くに vs こく/ごく
 - `shaky` **おお vs おう long vowels** — 遠い written as とおおい; 多い interference
+- `shaky` **Dropped morae in 4+ mora words** — とおおい · おもしかった · muzugashi, 3× on 2026-08-01
 - `new` Irregular whole-word readings — 今日, 今年, 八百屋, 一人…
 - `new` Pitch accent — **untestable in chat, needs external audio**
 
 ### [class_raw_notes.md](class_raw_notes.md)
 The user's unedited class jottings, kept verbatim as source of truth, with
-corrections appended without altering the original lines.
+corrections appended without altering the original lines. **Also records
+sensei's current teaching frontier** — what is expected, what is capped, and
+what is beyond class — so explanations can be pitched to it during live lessons.
 
 ## Current priorities
 

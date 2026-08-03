@@ -127,6 +127,53 @@ Two buckets: **just-happened change → past**; **ongoing state → ています
 
 Same 完了 logic as ありがとうございました (`presenting_and_formal.md`).
 
+#### アルバイト (from German *Arbeit*) — `new`
+
+From class 2026-08-01: sensei noted アルバイト is German in origin. Correct.
+
+- **アルバイト** ← German **Arbeit** ("work"). Japanese **narrowed** the meaning
+  to *part-time / casual job*, not work in general.
+- Commonly clipped to **バイト** (casual) — same clipping habit as スーパー,
+  コンビニ (`shopping.md`).
+- Verb use: アルバイトを する / バイトする.
+
+**User wrote "aribuito"** — kana order/count slip; correct is アル**バ**イト
+(a-ru-ba-i-to). Same 4+ mora pattern as the other slips logged today
+(`reading_traps.md`).
+
+**Other German loans already met in this repo:** **エネルギー** (Energie) —
+核エネルギー on the Fukushima slides · **アレルギー** (Allergie) — on the IGCSE
+Paper 4 homestay form · also テーマ (Thema), カルテ (Karte, medical chart),
+リュック (Rucksack), ギプス (Gips).
+
+Most katakana loans are from English, so the German set is a small closed group
+worth knowing.
+
+**User's objection (2026-08-01), and the answer:** *"isn't Energie from English
+too? German and English share many words."* Correct that the **word** is shared —
+both descend from Greek ἐνέργεια via Latin. But the **borrowing route into
+Japanese** is identifiable from the phonology, and the decisive evidence is that
+Japanese has **both**, as separate words:
+
+| Form | Source | Used for |
+|---|---|---|
+| **エネルギー** | German *Energie* (hard g) | physics / science — 核エネルギー |
+| **エナジー** | English *energy* (soft j) | marketing / lifestyle — エナジードリンク |
+
+English could not produce ネル**ギー**. Same test on **アレルギー** (German
+*Allergie*, hard g) — English would give アラジー.
+
+**Why German for this vocabulary:** Meiji-era Japan imported medicine and physics
+largely from Germany, so scientific and medical loans skew German — カルテ
+(Karte, medical chart), ギプス (Gips, cast), ウイルス (Virus, German
+pronunciation), ワクチン (Vakzin).
+
+Useful general point: when a katakana word's reading does not match the English
+pronunciation, suspect a different source language rather than assuming a
+distorted English borrowing.
+
+Also appeared in the IGCSE listening paper: 雪子さんは日曜日の朝アルバイトをします。
+
 #### ひま (暇) — "free / not busy" — `new`
 
 From class 2026-08-01. **ひまです** = "I'm free / I have free time."
@@ -154,6 +201,38 @@ a prompt in Cambridge IGCSE Paper 4:
 **つまらない** (of a thing) or **たいくつ** (of a feeling). ひまです is neutral or
 positive — an invitation, often. Said of *someone else's* job it can imply
 "slack", so keep it about yourself.
+
+**Choosing between three ways to say "I had nothing to do"** (2026-08-01):
+
+> 先週末は **ひまでした**。 — "I was free." *(neutral/pleasant)*
+> 先週末は **なにも しませんでした**。 — "I didn't do anything." *(plain fact; uses
+> question-word + も + negative, `describing_and_sentence_building.md`)*
+> 先週末は **たいくつでした**。 — "I was bored." *(negative)*
+
+English "nothing to do" is ambiguous between these; Japanese makes you pick.
+See `numbers_time_dates.md` for 先週末.
+
+#### お疲れさまでした — the standard sign-off — `new`
+
+Flagged 2026-08-01 when the user logged つかれました ("got tired" — already
+covered under the change-of-state family above; their phrasing *"got tired"*
+rather than *"was tired"* shows the aspect point has landed).
+
+> **お疲れさまでした。** — "Thanks for your hard work / good job today."
+
+Said at the end of work, class, a rehearsal, any shared effort. Closer to a
+ritual sign-off than a compliment — used constantly, and expected.
+
+- **でした = past**, because the effort is finished. Mid-task it is
+  お疲れさま**です**. Third instance of the same 完了 rule as
+  ありがとうございました and ごちそうさまでした
+  (`presenting_and_formal.md`, `food_and_drink.md`).
+- **Do not substitute ご苦労さま（ごくろうさま）.** Near-identical meaning, but it
+  flows **downward only** — superior to subordinate. Student → teacher would be a
+  real misstep, the same category as あげる aimed at a senior
+  (`gifts_and_giving.md` → keigo ladder).
+
+Safe rule: **お疲れさまでした to anyone; ご苦労さま to no one.**
 
 #### だめ (駄目) — `new`
 
@@ -201,6 +280,26 @@ answered すごい！知らなかった instead of **へえ**. Not wrong as spee
 specific interjection wasn't there under quiz pressure.
 
 ## Cultural
+
+### 歌舞伎 (かぶき) — `new`
+
+From class 2026-08-01 via かぶきは おもしろかったです。
+
+Traditional Japanese theatre, roughly 400 years old and now UNESCO-listed.
+Points worth knowing if it comes up in conversation or an exam passage:
+
+- **All-male casts.** Female roles are played by specialist male actors called
+  **女形（おんながた）**. Women were banned from the stage in 1629; the convention
+  stuck and is now the art form.
+- **隈取（くまどり）** — the bold red/blue face paint. Colour encodes character:
+  red for heroism and passion, blue for villainy or the supernatural.
+- **Highly stylised**, not naturalistic — exaggerated poses (**見得**, みえ), held
+  at dramatic moments, which is when the audience shouts the actor's house name.
+- Contrast **能（のう）** — older, slower, masked, far more austere. Kabuki was the
+  popular, showy alternative for townspeople.
+
+Language link: 面白い ("the face brightens") is said to describe faces lit by
+watching a performance — see `reading_traps.md`.
 
 Backchannelling (あいづち) and echoing (オウム返し) are written up in `N5.tex` →
 Conversation. Nothing additional flagged as a weak spot yet.

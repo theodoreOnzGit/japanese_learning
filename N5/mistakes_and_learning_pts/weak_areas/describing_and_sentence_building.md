@@ -20,6 +20,26 @@ and negation of い and な adjectives in class."** Promoted to a top-priority i
 **The one idea: い-adjectives conjugate themselves; な-adjectives make です do
 the work.**
 
+**This single idea covers past, negative AND the connector** — they are not three
+rules but one (confirmed by sensei 2026-08-01, who framed 〜くて／〜で as the
+"more advanced" route versus そして):
+
+| | い-adjective (安い) | な-adjective (きれい) |
+|---|---|---|
+| Past | 安**かった**です | きれい**でした** |
+| Negative | 安**くない**です | きれい**じゃない**です |
+| Connect | 安**くて** | きれい**で** |
+
+For **い**-adjectives every form grows from the **く** stem (くて / くない /
+かった). For **な**-adjectives every form is a variant of **です** (で / でした /
+じゃない).
+
+**Consequence worth stating to the user:** this is not a set of endings to
+memorise. It is **one decision — is this い or な?** — after which every form
+follows automatically. Identifying the type correctly is the whole task. It is
+also exactly why sensei's そして shortcut works: そして is the only route that
+requires no type judgement at all.
+
 **い-adjectives** — 高い. Drop い, add the ending. **です never changes:**
 
 | | Affirmative | Negative |
@@ -79,6 +99,40 @@ this same adjective ("please treat me favourably"). Same root as よかった. S
 
 **Set-phrase use:** よかったです also means "I'm glad / that's a relief," not only
 "it was good" — テストに合格しましたか。→ よかったですね！
+
+**Attributive vs predicative — why いい天気でした is fine** (**from class**,
+2026-08-01: いいてんきでした。でも、ちょっとさむかったです。):
+
+| | |
+|---|---|
+| ~~いいでした~~ | ❌ です asked to carry tense for an い-adjective |
+| いい天気**でした** | ✅ でした attaches to the **noun** 天気; いい merely modifies it |
+| **よ**かったです | ✅ the adjective itself carries the tense |
+
+The rule is narrower than it first appears: an い-adjective cannot hand tense to
+です **when it is the predicate**. In attributive position (directly before a
+noun) it does not inflect at all, and the noun's です/でした behaves normally.
+Same for な-adjectives: きれいな花でした。
+
+**Class pair, 2026-08-01 — the grid in two sentences:**
+
+> いいえ、かんたん**じゃなかった**です。 ← な-adjective, **past negative** ✅
+> かぶきは おもしろ**かった**です。 ← い-adjective, **past affirmative**
+
+The first was **produced correctly** — the exact cell self-identified as hardest
+the same day. 簡単（かんたん）is a な-adjective, so the word is frozen and です
+does the work. Formal twin: かんたん**ではありませんでした**.
+
+The second was written **おもし**かった — the ろ dropped. See the 面白い entry in
+`reading_traps.md`.
+
+**Second class pair, 2026-08-01 — the いい irregular in use:**
+
+> コンサートは **よ**かったですか。 ← past of いい, from よい
+> いいえ、あまり **よ**くなかったです。 ← past negative, same よ stem
+
+Neither ~~いかった~~ nor ~~いくなかった~~. All four corners of the irregular now
+seen in class within a day of it being introduced as 「いいです（よいです）」.
 
 **Instances already met across these files:** 危険じゃなかった (な, Fukushima
 FAQ) · おいしかったです (い, **quiz miss**) · 多かった / 少なかった (い) ·
@@ -152,6 +206,51 @@ only with a negative does it mean "never":
 > いつも 行きます。 "I always go." / いつも 行きません。 "I never go."
 
 No other question word behaves this way.
+
+#### だけ / しか〜ない — "only" — `new`
+
+From class 2026-08-01: いそがしかったですから、りょうしんと**だけ** いきました。
+
+**だけ behaves like も and は with respect to case particles** — it **displaces が
+and を**, but **stacks with と / に / で / へ**:
+
+> 水**だけ** 飲みます ← を dropped
+> 両親**とだけ** 行きました ← と kept
+> ここ**にだけ** あります ← に kept
+
+That makes **も · は · だけ** one family: all three override the core case
+particles and coexist with the rest. (See the が vs は entry and the
+question-word + も entry — the same displacement rule appears in all three.)
+
+**Stronger variant: しか〜ない**, which *requires* a negative verb:
+
+> 両親**としか** 行き**ませんでした**。 — "I went with no one but my parents."
+
+だけ is neutral ("only"); **しか〜ない adds insufficiency** — less than hoped for.
+It belongs to the negative-polarity family below.
+
+Also in the same class sentence: **忙しかったですから** (い-adjective past + から
+reason clause, から attaching after です) and **両親（りょうしん）** "parents" —
+on-reading, so someone else's parents take **ご**両親, matching the お/ご prefix
+rule in `presenting_and_formal.md`. 忙しい is the い-adjective partner to
+な-adjective ひま (`everyday_conversation.md`): ひまでした ／ 忙しかったです.
+
+**Wider negative-polarity family** — all require a negative ending:
+
+| Word | Meaning | Strength |
+|---|---|---|
+| **あまり** | not very / not much | mild, softening |
+| **全然（ぜんぜん）** | not at all | blunt |
+| **なにも / だれも / どこも** | nothing / nobody / nowhere | absolute |
+
+**あまり** logged 2026-08-01 from class: いいえ、あまり よくなかったです。
+✅ あまり よくなかったです / ❌ ~~あまり よかったです~~.
+
+**Intensity is a social choice**, not just a degree: あまり softens a negative
+judgement, 全然 states it flatly. For an opinion someone else may not share (a
+concert, someone's cooking) あまり is the safe register — the same modesty
+instinct behind compliment deflection (`people_and_politeness.md`). Casual
+speech geminates: **あんまり**.
 
 **Completes a three-way system** on the same question words:
 
@@ -245,6 +344,51 @@ From the Fukushima flight slide 2026-08-01.
 - 高いところ — "high places," where ところ (所) = "place."
 
 ### Stretch (N4)
+
+#### Connector map — what joins what — `new`
+
+**Sensei, 2026-08-01: you cannot use と to connect adjectives — だめです.**
+Correct, and it consolidates several entries already logged separately. The full
+map:
+
+| Joining… | Connector | Example |
+|---|---|---|
+| **nouns** | **と** (complete list) | パン**と**ラーメン |
+| **nouns** | **や** (representative, + など) | パン**や**ラーメン**など** |
+| **い-adjectives** | **〜くて** | 安**くて** おいしいです |
+| **な-adjectives / nouns** | **〜で** | きれい**で** 静かです |
+| **verbs** | て-form | 行っ**て**、食べました |
+| **sentences** | そして ／ でも ／ が | 〜です。**そして**、〜 |
+
+❌ ~~安いとおいしいです~~ → ✅ 安**くて**おいしいです。
+
+**They chain, matching each adjective's own type:**
+
+> 安**くて**、きれい**で**、しずかです。 — "cheap, pretty and quiet"
+
+The **final** element takes です and carries tense for the whole chain —
+安くて…しずか**でした** makes all three past. Negative: 〜く**なくて**
+(安くなくて、おいしくないです).
+
+Both connectors were already used by the user on the Fukushima slides:
+ホテルは安**くて**、… and 私はセオドア**で**、… — see below.
+
+**Sensei's recommendation (same lesson): use そして instead.** Sound pedagogy —
+そして is **never wrong**, while 〜くて／〜で require identifying the adjective's
+type correctly under speaking pressure, which is a live weak area.
+
+> 安かったです**。そして**、おいしかったです。 ← two sentences, no type judgement
+> 安**くて**、おいしかったです。 ← one sentence, smoother, needs the type
+
+When each is better:
+- **Two qualities of one thing** → 〜くて flows better as a single idea.
+- **Two events, or a sequence** → そして is the natural choice; 〜くて cannot do it.
+
+Already used correctly by the user on the Fukushima slides:
+Changi空港から成田空港まで行きました。**そして**、東京に行きました。
+
+Neighbours: **そして** (and / and then) · **それから** (after that — explicitly
+sequential) · **また** (also, furthermore — purely additive).
 
 #### 〜くて — い-adjective connector — `new`
 
