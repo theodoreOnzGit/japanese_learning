@@ -43,6 +43,25 @@ Miss history: 2026-08-01 (a) wrote ございます to close a presentation;
 wrong once — the distinction is understood but not yet automatic in either
 direction.
 
+#### ご清聴ありがとうございました — presentation-specific closing — `new`
+
+Offered by Gemini (2026-08-06 speaking practice) as an alternative to どうも
+ありがとうございました on Slide 12. **ご清聴（ごせいちょう）** = "your
+attention/listening" — ご + 清聴 (せいちょう, "listening attentively"), the
+honorific ご because it's the *audience's* attention being thanked (see お/ご
+prefix rule below). ご清聴ありがとうございました is the standard, slightly more
+formal way to close a talk specifically — どうもありがとうございました works too
+but is more general-purpose ("thank you very much" for anything).
+
+#### Formal sentence-final か must be explicit — `new`
+
+Flagged by Gemini (2026-08-06 speaking practice): in formal spoken Japanese
+(です/ます form), the question particle **か** must be spoken explicitly at the
+end (〜でしたか) — don't rely on rising intonation alone the way English
+question-marking sometimes allows. This applies throughout Slide 11's Q&A
+(福島は危険でした**か**。／どうして福島に行きました**か**。) and any formal
+question generally.
+
 #### 自分で (じぶんで, "by myself") — `new`
 
 Used on Fukushima slide 5: 自分で調べたいと思いました ("I wanted to investigate
@@ -104,6 +123,13 @@ quote is plain.
 
 危険 is a な-adjective, so plain past negative = 危険**じゃなかった** (never
 ~~危険くなかった~~, the い-adjective shape).
+
+**Update (2026-08-06, external speaking practice with Gemini):** correctly
+produced and explained 危険じゃなかったと思いました unprompted while reading
+Slide 11's FAQ answer aloud — identified 危険 as な-adjective and got the
+plain past-negative right inside the と思う quote. Good spontaneous
+reinforcement of both this entry and the 危険 na-adjective status in
+`nuclear_and_science.md`.
 
 **Hedging ladder** (decreasing commitment): 〜と思います ("I think") → 〜でしょう
 ("probably") → 〜かもしれません ("might").

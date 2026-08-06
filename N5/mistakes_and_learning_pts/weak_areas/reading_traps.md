@@ -179,6 +179,11 @@ known. Drill by *writing* them out, not by recognition.
 - **科学者 → 「くがくがくしゃ」** (2026-07-25) — garbled under production
   pressure. See `nuclear_and_science.md`.
 - **セオドウ vs セオドア** — セオドア is the conventional katakana for "Theodore."
+- **双葉 (ふたば, Futaba) risked substitution with 二子玉川 (ふたこたまがわ,
+  Futakotamagawa)** — flagged by Gemini (2026-08-06 speaking practice) as a
+  risk during Slide 10/11 readthrough. Different place, different reading —
+  only the ふた- onset overlaps. Worth double-checking 双葉 specifically since
+  it's the trip's key location.
 
 ## Pronunciation
 

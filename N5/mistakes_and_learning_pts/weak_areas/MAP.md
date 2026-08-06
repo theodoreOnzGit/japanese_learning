@@ -35,7 +35,7 @@ promoting. Nothing is deleted at `mastered`; it just goes dormant.
 Buying, comparing, trying on, asking staff.
 - `shaky` お金 (おかね) — misread as おきん; 金 has two readings
 - `shaky` 安い — missing は on ホテルは安いですね
-- `shaky` より / と同じ — comparison; word order, and difference vs sameness
+- `shaky` より / と同じ — comparison; word order; 1× clean unaided use 2026-08-06, one more clears it
 - `new` 買います — and its potential 買えます
 - `new` スーパー + clipped loanwords (パソコン, コンビニ…)
 - `new` 〜屋 shop suffix — 八百屋（やおや）, パン屋, 花屋…
@@ -74,6 +74,8 @@ Talks, openings and closings, opinions, addressing a teacher.
 - `new` 〜と思います — opinion vs fact; the plain-form trap
 - `new` お / ご honorific prefixes on nouns
 - `new` 何か + は for softening a question
+- `new` ご清聴ありがとうございました — presentation-specific closing
+- `new` Formal sentence-final か must be explicit, not just rising intonation
 - `new` 自分で
 - `new` AI (エーアイ) / 人工知能 + 使う; disclosing AI use to a teacher
 - `new` *Cultural:* audience/teacher as 外 (out-group)
@@ -171,7 +173,8 @@ Cross-cutting: homophones, multi-reading kanji, pronunciation.
 - `shaky` **おお vs おう long vowels** — 遠い written as とおおい; 多い interference
 - `shaky` **Dropped morae in 4+ mora words** — とおおい · おもしかった · muzugashi, 3× on 2026-08-01
 - `new` Irregular whole-word readings — 今日, 今年, 八百屋, 一人…
-- `new` Pitch accent — **untestable in chat, needs external audio**
+- `new` 双葉 vs 二子玉川 — place-name substitution risk (flagged by Gemini)
+- `new` Pitch accent — tested externally 2026-08-06 (Gemini/ChatGPT voice); pronunciation improving fast per feedback
 
 ### [class_raw_notes.md](class_raw_notes.md)
 The user's unedited class jottings, kept verbatim as source of truth, with

@@ -95,6 +95,10 @@ Registered from class 2026-07-25, written up 2026-08-01 when it came up on the
 Fukushima reflection slide. Answered correctly on 2026-08-01 **with a hint**,
 so not yet clear.
 
+**Update (2026-08-06, external speaking practice with Gemini):** nailed
+双葉は飛行機より放射線が少ないです **unaided, on the first attempt**, reading
+Slide 10 aloud. First clean unaided instance — one more clears it to `solid`.
+
 **Pattern: A は B より [adjective] です。** = "A is more [adj] than B."
 The tricky part is word order: **B より** sits *immediately before the
 adjective*, and the thing being described (A) is the topic with は. English puts
