@@ -166,6 +166,13 @@ question, and **は** over が topicalises it ("as for questions…"), sounding 
 inviting. 何かご質問はありますか is more natural than a bare 質問がありますか,
 which can sound abrupt.
 
+**Clarified (2026-08-06, ChatGPT rehearsal):** both **ご質問はありますか**
+("Do you have questions?") and **何かご質問はありますか** ("Do you have *any*
+questions?") are natural — 何か isn't required, it just adds the "any"
+nuance. Also caught in the same rehearsal: never stack が and は on the same
+noun (~~ご質問がはありますか~~) — see `describing_and_sentence_building.md` →
+が vs は.
+
 ## Cultural
 
 ### Audience and teacher as 外 (out-group) — `new`

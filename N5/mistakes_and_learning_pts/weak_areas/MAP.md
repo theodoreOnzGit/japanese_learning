@@ -46,7 +46,7 @@ Buying, comparing, trying on, asking staff.
 
 ### [travel_and_transport.md](travel_and_transport.md)
 Trains, routes, going and returning.
-- `shaky` **に vs を with 乗る / 降りる — 3 failed attempts, most-missed item**
+- `shaky` **に vs を with 乗る / 降りる — 4 failed attempts, most-missed item**
 - `shaky` 入る / 帰る / 戻る — mixed up; 入る is a sneaky う-verb
 - `shaky` 速い vs 早い — same reading はやい
 - `shaky` から〜まで + そして — 1× correct unaided
@@ -124,7 +124,7 @@ Counting, counters, dates. **Extra quiz weight per `quiz_mode.md`.**
 
 ### [describing_and_sentence_building.md](describing_and_sentence_building.md)
 Conjugation grids, adjectives, connectors, positions.
-- `new` **が vs は — new information sits before が, after は** (sensei's framing; 1× correct spontaneous use)
+- `new` **が vs は — new information sits before が, after は**; は/が never stack (miss: ご質問がはありますか, 2026-08-06)
 - `new` **が / でも / けど — "but"**; が-conjunction vs が-subject disambiguated by position
 - `shaky` **Location particle dropped before place names — 3 instances**
 - `shaky` **い / な adjective conjugation — full grid** (self-identified as hard in class, 2026-08-01)
@@ -186,7 +186,8 @@ what is beyond class — so explanations can be pitched to it during live lesson
 
 Highest-value drilling right now, by evidence:
 
-1. **に vs を with 乗る / 降りる** — three failed attempts, still not automatic.
+1. **に vs を with 乗る / 降りる** — four failed attempts (most recently
+   substituting から for で at the station, 2026-08-06), still not automatic.
 2. **ありがとうございます vs ございました** — missed in both directions in a
    single session (2026-08-01).
 3. **着ます vs はきます** — re-asked from scratch a week after being taught.

@@ -85,8 +85,17 @@ The station itself takes **で** (place where the action happens) — に/を ma
    the mental model is "降りる takes を" without yet distinguishing that を marks
    the *vehicle being exited* while で marks the *place where the exit happens* —
    easy to conflate when only the station is mentioned and no vehicle is named.
+4. *(2026-08-06, ChatGPT speaking rehearsal, full script)* — flagged as
+   "biggest recurring issue": substituted **から** for で at the station
+   (東京駅から／仙台駅から／双葉駅から, instead of で). A fourth distinct
+   mutation of the same underlying gap — に, dropped, を, and now から have
+   all been tried at the station slot. The station is always で (place of the
+   action); から would mark it as an *origin point*, which isn't the meaning
+   here — the sentence is about where boarding/alighting happened, not a
+   journey's starting point.
 
-Still not automatic. Keep drilling.
+Four different wrong particles across four attempts — still the most-missed
+item on this entire list. Keep drilling.
 
 #### から〜まで ("from〜to") + そして — `shaky` (1× correct unaided)
 

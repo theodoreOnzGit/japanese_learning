@@ -139,6 +139,16 @@ FAQ) · おいしかったです (い, **quiz miss**) · 多かった / 少な�
 同じでした (な) · だめでした (な) · 安くて (い, 〜くて connector) ·
 つめたかった / さむかった (い).
 
+**Miss (2026-08-06, ChatGPT speaking rehearsal, Slide 10):** produced
+放射線**が少ないです** (present) when narrating a *past measurement* — should
+be 放射線**が少なかったです**. Not just the い-adjective past rule in
+isolation, but a **register point**: the presentation reports past
+measurements, so descriptive adjectives about those measurements need past
+tense throughout, matching the already-stated point in
+`presenting_and_formal.md` that measured facts get stated flat in the tense
+they actually occurred (0.11 μSv/hでした). Directly relevant to the
+upcoming class quiz's adjective focus.
+
 #### です past tense: でした (+ the い-adjective trap) — `shaky`
 
 From class 2026-07-18. です (polite copula) has a four-form grid:
@@ -170,6 +180,22 @@ From class 2026-07-18. Same past/negative axes as です→でした:
 
 Endings stack: あげ + ません + でした → "did not give." Note でした reappears —
 the same past marker from です, reused for the ます-negative past.
+
+#### が vs は — `new` (1× correct spontaneous use, 1× miss)
+
+Sensei's framing: **new information sits before が; already-established/topic
+information sits after は.** が introduces something into the conversation for
+the first time; は comments on something already on the table.
+
+**Critical rule — は and が never stack.** は *replaces* が (and を) on the
+noun it marks; it doesn't sit alongside it. Same displacement family as も and
+だけ below — が/を are always the ones that get bumped, never は itself.
+
+**Miss (2026-08-06, ChatGPT speaking rehearsal):** produced
+~~ご質問**がは**ありますか~~ / ~~何かご質問**がは**ありますか~~ — stacked が
+and は on the same noun. Correct: **ご質問はありますか** / **何かご質問は
+ありますか** — one particle only. See `presenting_and_formal.md` → 何か + は
+for the full phrase context.
 
 #### Question word + も + negative — total negation — `new`
 

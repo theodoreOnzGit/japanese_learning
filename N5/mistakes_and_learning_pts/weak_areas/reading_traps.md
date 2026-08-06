@@ -202,6 +202,15 @@ Claude can annotate accent type/pattern on new vocabulary if asked, but **cannot
 judge the user's own pronunciation**. Per `quiz_mode.md`, pitch questions are
 asked as *written recall* ("what's the pitch pattern of 箸?"), never judged aloud.
 
+**First real external pronunciation data (2026-08-06)** — Gemini and ChatGPT
+voice mode both gave live pronunciation feedback during full Fukushima script
+rehearsals. Overall assessment: pronunciation "smoothed out quickly with
+every attempt" and paired well with natural pacing/pausing between ideas.
+ChatGPT flagged six specific words worth a few more reps before presentation
+day: **核科学者、旅行（りょこう）、興味があります、放射線、ご質問、少なかった**
+— everything else read as comfortable. Worth re-testing these six
+specifically in the next voice session.
+
 ## Cultural
 
 Not applicable — this file is mechanical.
