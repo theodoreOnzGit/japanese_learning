@@ -147,6 +147,14 @@ Inconsistent within the same small set. See `numbers_time_dates.md`.
 These simply have to be memorised as whole words — the kanji don't predict them.
 Individual entries in `numbers_time_dates.md` and `shopping.md`.
 
+### かった (い-adjective past) vs かつ／カツ — `new`
+
+Flagged 2026-08-06 (ChatGPT drilling session): い-adjective past ending
+**かった** (e.g. 高**かった**) drifting toward **かつ** (勝つ "to win," also
+the カツ in とんかつ) in production. Same family as the dropped-っ slips below
+— かった needs a genuine stop (small っ) before た; collapsing it doesn't just
+sound "off," it produces a different real word.
+
 ### Dropped morae in long words
 
 #### 面白い (おもしろい) — written ~~おもしかった~~ — `new`
@@ -173,6 +181,11 @@ correctly — worth memorising as a unit:
 **Pattern:** all three 2026-08-01 slips (とおおい, おもしかった, muzugashi) are
 kana-count errors in words of 4+ morae. Not meaning failures — the words are
 known. Drill by *writing* them out, not by recognition.
+
+**Extends to the かった ending itself (2026-08-06):** producing 高**かった**/
+安**かった** as "takakata"/"yasukata" — dropping the sokuon (っ) before た —
+is the same kana-count failure mode, now showing up inside a grammatical
+ending rather than a lexical word. See the かった vs かつ entry above.
 
 ### Production slips (not reading — output)
 

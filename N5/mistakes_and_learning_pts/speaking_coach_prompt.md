@@ -14,53 +14,83 @@ accent**, not just grammar correctness.
 ## Time-sensitive: class quiz the week of 2026-08-08
 
 My teacher announced a quiz covering **"all the adjectives, counting etc."**
-Please weight most of this session toward:
+A 2026-08-06 drilling session narrowed down exactly where the gaps are —
+please weight most of this session toward the **narrowed** targets below, not
+the whole topic evenly:
 
-1. **い-adjective vs な-adjective conjugation — the full grid.** This is my
-   single most self-identified-hard topic right now. Drill by
-   **production**, not recognition: give me an adjective and a target cell
-   (e.g. "past negative of 忙しい") and make me produce the form.
-   - い-adjectives conjugate themselves (drop い): くて / くない / かった /
-     くなかった. です never changes, stays pure politeness.
-   - な-adjectives freeze the adjective and conjugate です instead: で /
-     でした / じゃない / じゃなかった. Identical to nouns.
+1. **い-adjective PAST forms specifically (かった / くなかった).** This is now
+   the confirmed single blocker — な-adjectives (安全でした,
+   安全じゃなかったです) are solid once prompted; い-adjective past is not.
+   Drill by **production**: give me an adjective and a target cell (e.g.
+   "past negative of 忙しい") and make me produce the form. Two specific
+   errors to listen for and correct:
+   - **Dropping the small っ before た** — I tend to say something like
+     "takakata" instead of 高**かった** (*takakatta* — there must be an
+     audible stop before た).
+   - **かった drifting toward かつ ("katsu")** — かった (adjective past) and
+     かつ (勝つ "to win" / カツ "cutlet") are different words; make me say
+     かった clearly and correct if it collapses toward かつ.
    - Watch for い-adjectives-in-disguise that are actually な: きれい, きらい,
      ゆうめい, しつれい.
    - The irregular: **いい/よい** — いい cannot conjugate at all; every other
      form comes from よい (よかった, よくない, よくなかった, よくて). Never
      いかった/いくない.
-   - Attributive vs predicative trap: いい天気でした is fine (でした attaches
-     to the noun 天気, いい just modifies it) — but いいでした alone is wrong.
-2. **Counters (助数詞)** — standing weak spot, extra weight per my own quiz
-   rules. Drill つ, 人, 本, 匹, 個 and their sound shifts (っ insertion after
-   1/6/8/10, voicing on 本/匹). Also large numbers (300 さんびゃく, 600
-   ろっぴゃく, 800 はっぴゃく) and date/month irregular readings — same family.
-3. Also fair game: だけ/しか〜ない, あまり + negative, question-word + も +
-   negative (なにも/だれも/どこも), と vs や for nouns, そして.
+2. **Counters (助数詞) — 本 specifically.** つ, 人, 匹, 個 and the irregulars
+   (ふたり, さんにん, ろっぴゃく) are relatively solid now — don't spend much
+   time there. **本 is the actual gap**: drill いっぽん/にほん/さんぼん/よんほん/
+   ごほん/ろっぽん/ななほん/はっぽん/きゅうほん/じゅっぽん until it's automatic.
+3. **しか〜ない and question-word+も+negative** — I understand these
+   immediately once corrected, but cannot yet produce すししか食べません,
+   何も分かりません, or どこも行きません unaided. Same
+   recognition-vs-production gap as the adjectives above — drill by
+   production, not recognition.
+4. Also fair game if time allows: あまり + negative, と vs や for nouns,
+   そして.
 
-## How to run this
+## How to run this — MANDATORY repetition loop
 
-- Ask me one question at a time, **out loud**, and wait for my spoken
-  answer before moving on.
-- Mix formats: EN→JP translation (spoken), reading kanji/kana aloud,
-  short conversational prompts, "how would you say X" scenarios, and
+This is the most important instruction in this whole prompt, from feedback
+on a previous session: **do not move to the next question after correcting
+me.** The loop for every single question is:
+
+1. Ask the question, out loud.
+2. Let me answer.
+3. Correct me if necessary (briefly explain *why*).
+4. **Immediately ask me to repeat the corrected sentence aloud** — don't
+   skip this even if I clearly understood the correction intellectually.
+5. Listen to my repetition and give pronunciation feedback on it
+   specifically.
+6. Only *then* move to the next question.
+
+If pronunciation was fine but grammar was wrong: correct the grammar first,
+then have me repeat the corrected sentence. If grammar was right but
+pronunciation was unclear: have me repeat until it sounds natural, don't
+just move on because the grammar was correct.
+
+Other rules:
+- **No multiple choice.** Always require me to produce the answer myself,
+  not recognize it from options.
+- **Don't be afraid to stay on the same weak point for several questions in
+  a row** before moving to a new topic — repeated drilling on one gap within
+  a session is more valuable than broad shallow coverage. Keep re-testing a
+  specific weak form until I get it right unaided several times, not just
+  once.
+- Mix formats otherwise: EN→JP translation (spoken), reading kanji/kana
+  aloud, short conversational prompts, "how would you say X" scenarios, and
   direct conjugation drills (give a dictionary-form word + target form).
-- After each answer, give feedback on **both**:
-  1. Grammar/vocab correctness (explain briefly *why* if wrong).
-  2. Pronunciation — especially pitch accent (high/low mora pattern) and
-     any vowel-length or sokuon (small っ) issues you can hear.
-- Do a 10-15 question round, then summarize: what's solid, what still
+- Do a 10-15 question round (counting each repetition-check as part of the
+  same question, not a new one), then summarize: what's solid, what still
   needs work, and how my pronunciation/pitch sounded on the harder items.
 
 ## My tracked weak areas (beyond the quiz-prep focus above)
 
 ### Travel / transport
 
-- **[shaky — 3 failed attempts, most-missed item overall] に vs を with 乗る
+- **[shaky — 4 failed attempts, most-missed item overall] に vs を with 乗る
   (board) / 降りる (get off):** [station] で [vehicle] に 乗る / [station]
   で [vehicle] を 降りる. The station always takes で; only the vehicle takes
-  に or を. I've dropped particles entirely and misapplied を to the station
-  itself in past attempts.
+  に or を. I've tried に for both, dropped particles entirely, misapplied を
+  to the station, and most recently substituted から for the station's で.
 - **[shaky] 入る (enter) vs 帰る (return home) vs 戻る (return to a spot)** —
   previously thought はいります meant "return." 入る is also a sneaky
   godan/う-verb despite looking like an -iru verb.
@@ -167,5 +197,6 @@ isolated slips — 6 tracked pairs)
 
 ---
 
-Start whenever you're ready — prioritize the adjective grid and counters
-first (quiz is coming up), then mix in the rest.
+Start whenever you're ready — prioritize い-adjective past forms, the 本
+counter, and しか〜ない/も+negative production first (quiz is coming up), and
+remember the mandatory repetition loop above for every question.

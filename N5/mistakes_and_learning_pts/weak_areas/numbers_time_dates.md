@@ -74,6 +74,12 @@ Rule of thumb: the sokuon (っ) appears after **1, 6, 8, 10** with certain count
 There's no single universal rule — this comes down to drilling each counter
 individually.
 
+**Update (2026-08-06, ChatGPT drilling session):** the irregular/large-number
+forms are relatively solid now — correctly recalled ふたり, さんにん, ろっぴゃく.
+**本 specifically is still the weak point** — struggled with ろっぽん, はっぽん,
+ななほん. Narrow the counter drilling to 本 specifically rather than spreading
+evenly across all counters.
+
 #### Large-number sound changes — `new`
 
 From class 2026-07-25. The hundreds and thousands shift the same way counters do:

@@ -114,7 +114,7 @@ Eating, ordering, describing food and temperature.
 Counting, counters, dates. **Extra quiz weight per `quiz_mode.md`.**
 - `shaky` Days of the month — 1–10, 14, 20, 24 are irregular
 - `shaky` Months — 4月 しがつ / 7月 しちがつ / 9月 くがつ
-- `shaky` Counters (助数詞) — 人 / つ / 本 / 匹 / 個 sound shifts
+- `shaky` Counters (助数詞) — 本 specifically the weak one now (ろっぽん/はっぽん/ななほん); 人/つ/匹/個 improving
 - `new` Large numbers — 300 さんびゃく, 600 ろっぴゃく, 800 はっぴゃく…
 - `new` Decimals — てん
 - `new` Relative days — きのう set; no particle
@@ -127,16 +127,16 @@ Conjugation grids, adjectives, connectors, positions.
 - `new` **が vs は — new information sits before が, after は**; は/が never stack (miss: ご質問がはありますか, 2026-08-06)
 - `new` **が / でも / けど — "but"**; が-conjunction vs が-subject disambiguated by position
 - `shaky` **Location particle dropped before place names — 3 instances**
-- `shaky` **い / な adjective conjugation — full grid** (self-identified as hard in class, 2026-08-01)
+- `shaky` **い / な adjective conjugation — full grid** — な-adjectives solidifying (安全でした ✓); い-adjective past (かった/くなかった) is the real blocker, incl. dropping the sokuon (たかかた) and かった→かつ mispronunciation
 - `shaky` です past でした + **the い-adjective trap** (quiz miss 2026-07-25)
 - `shaky` Positional nouns — 上/下/中/前/後ろ/横/隣/近く/間
 - `shaky` 多い / 少ない — misread as すきない; predicative (人が多い), not 多い人
 - `shaky` Potential form 買えます — 1× correct unaided
 - `new` ます-form four-way grid
-- `new` **だけ / しか〜ない — "only"**; だけ displaces が/を like も and は
+- `shaky` **だけ / しか〜ない — "only"** — recognized but not yet producible unaided (すししか食べません, 2026-08-06)
 - `new` 両親 / ご両親 — parents
 - `new` **あまり / 全然 + negative** — negative-polarity family; あまり softens, 全然 is blunt
-- `new` **Qn word + も + negative** — total negation; も replaces が/を; いつも trap; か/も/でも system
+- `shaky` **Qn word + も + negative** — recognized but not yet producible unaided (何も分かりません, どこも行きません, 2026-08-06)
 - `new` 測る / 高度
 - `new` **Connector map** — と/や nouns · 〜くて い-adj · 〜で な-adj · て-form verbs · そして/でも/が sentences (sensei: と for adjectives is だめ)
 - `new` 〜くて — い-adjective connector
@@ -174,6 +174,7 @@ Cross-cutting: homophones, multi-reading kanji, pronunciation.
 - `shaky` **Dropped morae in 4+ mora words** — とおおい · おもしかった · muzugashi, 3× on 2026-08-01
 - `new` Irregular whole-word readings — 今日, 今年, 八百屋, 一人…
 - `new` 双葉 vs 二子玉川 — place-name substitution risk (flagged by Gemini)
+- `new` かった (い-adj past) vs かつ／カツ — dropped sokuon drifting toward a different word
 - `new` Pitch accent — tested externally 2026-08-06 (Gemini/ChatGPT voice); pronunciation improving fast per feedback
 
 ### [class_raw_notes.md](class_raw_notes.md)
@@ -191,6 +192,15 @@ Highest-value drilling right now, by evidence:
 2. **ありがとうございます vs ございました** — missed in both directions in a
    single session (2026-08-01).
 3. **着ます vs はきます** — re-asked from scratch a week after being taught.
-4. **Counters** — standing extra weight per `quiz_mode.md`.
-5. **い / な adjective conjugation (full grid)** — self-identified 2026-08-01 as
-   hard in class; already a quiz miss; recurs inside many other patterns.
+4. **Counters, 本 specifically** — narrowed from all counters after
+   2026-08-06 drilling showed 人/つ/匹/個 and irregulars (ふたり, ろっぴゃく)
+   are relatively solid; ろっぽん/はっぽん/ななほん are not.
+5. **い-adjective past forms (かった/くなかった)** — narrowed from the whole
+   adjective grid after 2026-08-06 drilling: な-adjectives (安全でした) are
+   solidifying, い-adjective past is the actual remaining blocker, including
+   two new pronunciation-level errors (dropped sokuon, かった→かつ drift).
+   Per the user's own diagnosis (2026-08-06): this is retrieval-under-pressure,
+   not comprehension — needs spoken *production* drilling, not recognition.
+6. **しか〜ない / question-word+も+negative** — same recognition-vs-production
+   gap as #5: understood immediately once corrected, not yet producible
+   unaided (2026-08-06).

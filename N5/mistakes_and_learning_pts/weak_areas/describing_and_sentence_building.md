@@ -60,6 +60,29 @@ wrong: the adjective already carried the tense, so です has no job left.
 Identical to nouns (学生です / 学生でした / 学生じゃないです). な-adjectives
 essentially *are* nouns.
 
+**Update (2026-08-06, ChatGPT drilling session) — the grid is splitting in
+two.** な-adjectives are **solidifying**: consistently produced 安全でした and
+安全じゃなかったです correctly once prompted (安全 あんぜん, "safe" — new
+vocab). **い-adjectives remain the actual blocker**, specifically the past
+forms. Two new error patterns caught:
+
+1. **Dropping the small っ in かった** — produced something like "takakata"/
+   "yasukata" instead of 高**かった** / 安**かった** (should sound like
+   *takakatta*, with a distinct stop before た, not *takakata*). This is the
+   sokuon (っ) doing real phonetic work, not just a spelling nicety — dropping
+   it changes the sound, not just the romanization.
+2. **かった mispronounced closer to かつ ("katsu")** — かった (adjective past
+   ending) drifting toward かつ (勝つ, "to win" — also the カツ in とんかつ).
+   Different word/sound; worth explicit drilling to keep them apart. See
+   `reading_traps.md`.
+
+Per the user's own diagnosis: this is a **retrieval-under-pressure problem,
+not a comprehension gap** — the rule (い-adjectives conjugate themselves,
+な-adjectives conjugate です) is understood and stated correctly, but
+producing the exact form on demand still lags. Needs repeated *spoken
+production* drilling on past/past-negative specifically, until it's
+automatic — recognition is already solid.
+
 **Minimal pair already in these notes** (`everyday_conversation.md`):
 
 > ひま**でした** (な) — "I was free"
@@ -233,6 +256,12 @@ only with a negative does it mean "never":
 
 No other question word behaves this way.
 
+**Production gap (2026-08-06, ChatGPT drilling session):** could not
+independently produce 何も分かりません or どこも行きません — but recognized the
+correct form immediately once heard. Comprehension is there; spontaneous
+recall under time pressure is the actual gap. Needs repeated *production*
+drilling (say the corrected sentence aloud, don't just recognize it).
+
 #### だけ / しか〜ない — "only" — `new`
 
 From class 2026-08-01: いそがしかったですから、りょうしんと**だけ** いきました。
@@ -254,6 +283,11 @@ question-word + も entry — the same displacement rule appears in all three.)
 
 だけ is neutral ("only"); **しか〜ない adds insufficiency** — less than hoped for.
 It belongs to the negative-polarity family below.
+
+**Production gap (2026-08-06, ChatGPT drilling session):** could not
+independently produce すししか食べません — recognized it immediately once
+corrected. Same recognition-vs-production gap as question-word+も above;
+needs the same repeated-production treatment.
 
 Also in the same class sentence: **忙しかったですから** (い-adjective past + から
 reason clause, から attaching after です) and **両親（りょうしん）** "parents" —
