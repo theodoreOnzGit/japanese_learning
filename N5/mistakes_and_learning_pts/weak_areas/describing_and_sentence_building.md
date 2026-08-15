@@ -520,6 +520,18 @@ possible but ambiguous — see `people_and_politeness.md`.
 From class 2026-07-25: Nounが ほしいです。/ あたらしいくるまは ほしくないです。
 Desire takes が, not を. 欲しい is an い-adjective (ほしくない, ほしかった).
 
+**Question, class mode 2026-08-15: Nが欲しいです vs 動詞stem＋たい.** Different
+word class, not two versions of the same thing:
+
+| | Attaches to | Wants | Conjugates like |
+|---|---|---|---|
+| **Nが欲しいです** | a **noun** | to *have* the thing | い-adjective (ほしくない／ほしかった) |
+| **動詞stem＋たいです** | a **verb** (ます-stem) | to *do* the action | い-adjective too (飲みたくない／飲みたかった) |
+
+Both prefer **が** over を for the target: 水**が**飲みたいです (see the potential-
+form entry above for the same を→が shift). 車が欲しいです ("want a car") vs
+車を運転したいです ("want to drive a car") — one's a noun, the other's a verb.
+
 ## Cultural
 
 Nothing logged. Structural grammar rarely carries a cultural angle — where it
