@@ -289,6 +289,12 @@ independently produce すししか食べません — recognized it immediately 
 corrected. Same recognition-vs-production gap as question-word+も above;
 needs the same repeated-production treatment.
 
+**New しか〜ない example, class mode 2026-08-15:** 若い時しかできない —
+"you can only do this when you're young." Breakdown: 若い（わかい, "young,"
+い-adj）+ 時（とき, "time/when," attaches directly after a plain-form
+adjective — no の needed here）+ しか + できない (negative potential of
+する, "can't do"). しか forces the negative できない rather than plain ない.
+
 Also in the same class sentence: **忙しかったですから** (い-adjective past + から
 reason clause, から attaching after です) and **両親（りょうしん）** "parents" —
 on-reading, so someone else's parents take **ご**両親, matching the お/ご prefix
@@ -506,6 +512,18 @@ the verb ending entirely). Same object-particle shift applies: 楽しむこと**
 |---|---|---|
 | Attaches to | verb stem, ending replaced (買う→買える) | dictionary form, unchanged (楽しむ→楽しむこと) |
 | Register | shorter, more casual-leaning | slightly more formal/explicit |
+
+#### 誘われました (さそわれました) — passive form (受身形) — `new`
+
+Vocab, class mode 2026-08-15 (student presentations). 誘う（さそう, "to
+invite"）→ passive 誘**われ**ます／誘**われ**ました ("was invited"). Beyond
+sensei's stated frontier for regular class (see `class_raw_notes.md`), but
+coming up naturally in presentation content — log now, don't drill actively
+until sensei introduces it directly.
+
+**Formation (う-verb):** swap final -u → -areru. 誘**う** → 誘わ**れる** →
+誘われ**ます**. (Note the extra わ — う-verbs ending in う insert わ before
+れる, same as their negative form: 誘わ**ない**／誘わ**れる**.)
 
 #### に興味がある — "interested in" — `new`
 

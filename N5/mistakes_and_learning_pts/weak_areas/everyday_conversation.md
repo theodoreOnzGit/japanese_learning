@@ -155,6 +155,11 @@ may or may not succeed) — 仕事を探しています ("I'm job-hunting"). **�
 = to find (the result, succeeded) — 財布を見つけました ("I found my wallet").
 Same process/result split as 買います vs 買えます in a different family.
 
+#### 諦めます (あきらめます) — "to give up" — `new`
+
+Vocab, class mode 2026-08-15. る-verb (drop ます → 諦める). Past 諦めました,
+negative 諦めません.
+
 #### マージャン — mahjong — `new`
 
 Vocab, class mode 2026-08-15 (student presentations, hobby topic). Katakana

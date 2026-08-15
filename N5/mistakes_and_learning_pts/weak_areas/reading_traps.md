@@ -132,8 +132,11 @@ The counter irregularities (ひとり/ふたり) are also in `numbers_time_dates
 | 外国 | がい**こく** | foreign country |
 | 中国 | ちゅう**ごく** | China (voiced) |
 | 国語 | **こく**ご | national language |
+| 国境 | **こっ**きょう | border (sokuon this time, not voicing) |
 
-Same kun-alone / on-in-compound pattern as 人 and 金.
+Same kun-alone / on-in-compound pattern as 人 and 金. Vocab note, class mode
+2026-08-15: 国境（こっきょう, "border") — sokuon inserted in the compound
+reading, matching the counter-word sound shifts in `numbers_time_dates.md`.
 
 #### 年 — ねん vs とし — `new`
 
