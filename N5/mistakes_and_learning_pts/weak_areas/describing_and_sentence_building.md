@@ -393,6 +393,12 @@ so not yet spontaneous production — status unchanged.
 Useful application: 双葉は人が少ないです — an honest line about an evacuated town,
 for the Fukushima deck (`nuclear_and_science.md`).
 
+#### 長い (ながい) — "long" — `new`
+
+Question, class mode 2026-08-15. い-adjective, length or duration:
+髪が長いです (long hair), 長い時間 (a long time). Past/negative follow the
+regular い-adjective grid above: 長かった／長くない.
+
 #### 測る (はかる) / 高度 (こうど) — `new`
 
 From the Fukushima flight slide 2026-08-01.
@@ -450,6 +456,11 @@ Changi空港から成田空港まで行きました。**そして**、東京に�
 Neighbours: **そして** (and / and then) · **それから** (after that — explicitly
 sequential) · **また** (also, furthermore — purely additive).
 
+**まず — "first (of all)."** Question, class mode 2026-08-15. Opens a
+sequence, pairs naturally with それから: まず、〜。それから、〜。 **Not to be
+confused with まずい** ("tastes bad," い-adjective — one extra mora, unrelated
+meaning). See `reading_traps.md`.
+
 #### 〜くて — い-adjective connector — `new`
 
 From 2026-07-25. い-adjectives have their own connector: drop い, add くて —
@@ -484,6 +495,17 @@ a goal/destination.
 
 **Object particle shift を→が:** like 〜たい (水**が**飲みたい), potential verbs
 often prefer が: 紅茶**が**買えます. Both are heard; が is more natural.
+
+**Second way to say "can": [dictionary form] + ことができます.** Note, class
+mode 2026-08-15: たのしむことができます ("able to enjoy"). Attaches to the
+**plain dictionary form**, not the stem (unlike 可能形 above, which replaces
+the verb ending entirely). Same object-particle shift applies: 楽しむこと**が**
+できます — が marks こと, not the original object.
+
+| | Potential form (可能形) | ことができます |
+|---|---|---|
+| Attaches to | verb stem, ending replaced (買う→買える) | dictionary form, unchanged (楽しむ→楽しむこと) |
+| Register | shorter, more casual-leaning | slightly more formal/explicit |
 
 #### に興味がある — "interested in" — `new`
 
@@ -531,6 +553,25 @@ word class, not two versions of the same thing:
 Both prefer **が** over を for the target: 水**が**飲みたいです (see the potential-
 form entry above for the same を→が shift). 車が欲しいです ("want a car") vs
 車を運転したいです ("want to drive a car") — one's a noun, the other's a verb.
+
+**Correction, class mode 2026-08-15: both are first-person only (or
+second-person in a question) by default.** ~~妹は水が飲みたいです~~ is wrong —
+たいです/欲しいです state *your own* (or, asking directly, *the listener's*)
+want. For a third party's desire, switch to the たがる／ほしがる form instead:
+
+> 妹は水を飲み**たがっています**。— "My sister wants to drink water."
+> 妹は新しいくるまを**ほしがっています**。— "My sister wants a new car."
+
+（-がる turns the raw desire into an *observed/inferred* desire about someone
+else — roughly "shows signs of wanting.") Not yet drilled — `new`.
+
+**Register note, class mode 2026-08-15: 〜たいですか as a direct question is
+fine for a subordinate/equal, but too blunt for a superior.** 何が食べ**たい
+ですか** is okay asking a junior colleague or a friend; asking your boss the
+same way reads as presumptuous — soften with something like 何に**なさいます
+か** instead. Same asymmetry as the あげる/くれる/もらう register ladder in
+`gifts_and_giving.md` — directness about someone else's internal state scales
+with how much status distance there is.
 
 ## Cultural
 

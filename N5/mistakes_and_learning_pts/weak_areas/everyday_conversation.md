@@ -63,6 +63,19 @@ From class 2026-08-01. Both join **nouns only** — never verbs or adjectives.
 - Verbs chain with て-form; い-adjectives with 〜くて (see
   `describing_and_sentence_building.md`).
 
+#### どうして / なぜ / なんで — "why" — `new`
+
+Question, class mode 2026-08-15: "how to say why."
+
+| Word | Register |
+|---|---|
+| **どうして** | neutral, everyday spoken — the default choice |
+| **なぜ** | more formal/written, also used in accusatory-sounding questions |
+| **なんで** | very casual, friends only |
+
+Pairs with **から** for the answer (see `describing_and_sentence_building.md`
+→ から): どうして行きましたか。→ 興味がありました**から**。
+
 #### こちら / そちら / あちら / どちら — the polite こそあど — `new`
 
 From class 2026-07-25, listed among "vocab that eluded me." These are the
@@ -126,6 +139,11 @@ Ongoing states use ている instead: 知っています, 結婚しています,
 Two buckets: **just-happened change → past**; **ongoing state → ています**.
 
 Same 完了 logic as ありがとうございました (`presenting_and_formal.md`).
+
+#### マージャン — mahjong — `new`
+
+Vocab, class mode 2026-08-15 (student presentations, hobby topic). Katakana
+loanword from Chinese 麻雀; します-verb: マージャンをします.
 
 #### アルバイト (from German *Arbeit*) — `new`
 
