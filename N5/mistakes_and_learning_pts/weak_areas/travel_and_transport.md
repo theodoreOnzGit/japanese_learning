@@ -143,11 +143,19 @@ staying"). Reading: 三、四日間 (さん、よっかかん) reuses みっか/
 Note, class mode 2026-08-15. Mountain valley/hiking area in Nagano prefecture
 — ties to 登ります just above.
 
-#### ダイビング / 飛び込みます (とびこみます) — "diving" — `new`
+#### ダイビング / 潜水 (せんすい) / 飛び込みます (とびこみます) — "diving" — `new`
 
 Question, class mode 2026-08-15. **ダイビング** = scuba diving (loanword,
-します-verb: ダイビングをします). **飛び込みます** = to dive/jump in
-(pool, sea) — う-verb, 飛ぶ (fly/jump) + 込む (into).
+します-verb: ダイビングをします). **潜水（せんすい）** = diving/submerging —
+more formal/technical register than ダイビング, e.g. 潜水艦（せんすいかん,
+submarine）. **飛び込みます** = to dive/jump in (pool, sea) — う-verb, 飛ぶ
+(fly/jump) + 込む (into).
+
+**Pattern worth noting, user's own observation 2026-08-15:** loanword vs
+native-word doublets are common — the katakana loanword (ダイビング) skews
+casual/everyday, the Sino-Japanese word (潜水) skews formal/technical. Same
+split seen with アルバイト (`everyday_conversation.md`) and generally with
+katakana clippings (スーパー, パソコン — `shopping.md`).
 
 #### 登ります (のぼります) — "to climb" — `new`
 

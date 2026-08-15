@@ -140,6 +140,21 @@ Two buckets: **just-happened change → past**; **ongoing state → ています
 
 Same 完了 logic as ありがとうございました (`presenting_and_formal.md`).
 
+#### ます-stem + にくい／やすい — "hard/easy to ~" — `new`
+
+Vocab, class mode 2026-08-15: わかりにくい ("hard to understand" — わかり +
+にくい). Productive pattern on any ます-stem, and it conjugates as its own
+い-adjective: わかりにくい**です**／わかりにくかった**です**. Opposite is
+やすい ("easy to ~"): わかり**やすい** ("easy to understand"), 読み**やすい**
+("easy to read").
+
+#### 探します (さがします) vs 見つけます (みつけます) — search vs find — `new`
+
+Vocab, class mode 2026-08-15. **探す** = to search/look for (the process,
+may or may not succeed) — 仕事を探しています ("I'm job-hunting"). **見つける**
+= to find (the result, succeeded) — 財布を見つけました ("I found my wallet").
+Same process/result split as 買います vs 買えます in a different family.
+
 #### マージャン — mahjong — `new`
 
 Vocab, class mode 2026-08-15 (student presentations, hobby topic). Katakana
