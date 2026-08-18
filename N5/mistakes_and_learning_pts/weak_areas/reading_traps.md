@@ -224,6 +224,24 @@ day: **核科学者、旅行（りょこう）、興味があります、放射�
 — everything else read as comfortable. Worth re-testing these six
 specifically in the next voice session.
 
+**Important caveat, in ChatGPT's own words (2026-08-07):** *"I don't have
+reliable acoustic measurements of your actual voice here, so I can comment
+on rhythm and pronunciation errors I can identify, but shouldn't pretend I
+can confidently diagnose every pitch contour."* Take "pitch accent" claims
+from text-based voice-mode sessions as **rhythm/mora-timing feedback dressed
+up as pitch feedback**, not verified acoustic pitch analysis — the tool
+itself says so. What these sessions *can* reliably catch: mora count,
+sokuon presence/absence, and obvious mispronunciation (かった→かつ drift,
+"takakatsu"-style word-searching stretches). True pitch-accent judgment
+still needs a different tool or a native speaker. Downgrade "pronunciation
+improving fast" from the 2026-08-06 note accordingly — real, but rhythm/
+timing progress, not confirmed pitch-accent progress.
+
+**Mora-timing under word-search pressure (2026-08-07):** when hesitating,
+morae stretch or repeat (た・か・か・った) rather than staying stable — normal
+at this level, and the stated goal is stabilizing individual morae, not
+eliminating hesitation entirely.
+
 ## Cultural
 
 Not applicable — this file is mechanical.

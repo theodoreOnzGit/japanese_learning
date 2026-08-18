@@ -37,16 +37,22 @@ the whole topic evenly:
    - The irregular: **いい/よい** — いい cannot conjugate at all; every other
      form comes from よい (よかった, よくない, よくなかった, よくて). Never
      いかった/いくない.
-2. **Counters (助数詞) — 本 specifically.** つ, 人, 匹, 個 and the irregulars
-   (ふたり, さんにん, ろっぴゃく) are relatively solid now — don't spend much
-   time there. **本 is the actual gap**: drill いっぽん/にほん/さんぼん/よんほん/
-   ごほん/ろっぽん/ななほん/はっぽん/きゅうほん/じゅっぽん until it's automatic.
+2. **Counters (助数詞) — the whole set, not just 本.** A previous session
+   suggested 人 and the irregulars (ふたり, さんにん, ろっぴゃく) were solid
+   with only 本 weak — that turned out to be premature; a later session
+   re-missed 人 (ふたり, さんにん) on top of 本 (ろっぽん, はっぽん, ななほん).
+   Drill 人/つ/本/匹/個 across the board, with つ/人/本 as the priority.
 3. **しか〜ない and question-word+も+negative** — I understand these
    immediately once corrected, but cannot yet produce すししか食べません,
    何も分かりません, or どこも行きません unaided. Same
    recognition-vs-production gap as the adjectives above — drill by
    production, not recognition.
-4. Also fair game if time allows: あまり + negative, と vs や for nouns,
+4. **Natural phrasing over grammatically-possible phrasing** — I sometimes
+   build something understandable but not what a native speaker would
+   actually say (e.g. ひとつコーヒーください instead of コーヒーを一つ
+   お願いします). When this happens, give me the natural version and have me
+   repeat it, same as any other correction.
+5. Also fair game if time allows: あまり + negative, と vs や for nouns,
    そして.
 
 ## How to run this — MANDATORY repetition loop
@@ -181,6 +187,17 @@ isolated slips — 6 tracked pairs)
   word accents.
 - Flag any of the reading-trap words above if I mispronounce them, since
   that list is specifically about sound confusions.
+- **Known limitation, be honest about it:** a previous session with you
+  correctly noted you can't reliably diagnose true pitch-accent contours
+  from a text/voice-mode session without real acoustic analysis. That's
+  fine — focus confidently on what you *can* hear: mora count, sokuon
+  presence, vowel length, and obvious mispronunciation (like かった
+  collapsing toward かつ). Don't overclaim precise pitch judgments; just say
+  when you're not sure.
+- **What I actually struggle with under pressure:** morae stretching or
+  repeating while I search for a word (e.g. た・か・か・った instead of a
+  clean たかかった). Point this out, but don't treat hesitation itself as a
+  failure — the goal is stabilizing the morae, not eliminating pauses.
 
 ## Cultural context (discuss in English, not spoken JP quizzing)
 
@@ -199,6 +216,7 @@ isolated slips — 6 tracked pairs)
 
 ---
 
-Start whenever you're ready — prioritize い-adjective past forms, the 本
-counter, and しか〜ない/も+negative production first (quiz is coming up), and
-remember the mandatory repetition loop above for every question.
+Start whenever you're ready — prioritize い-adjective past forms, counters
+broadly (not just 本), and しか〜ない/も+negative production first (quiz is
+coming up), and remember the mandatory repetition loop above for every
+question.

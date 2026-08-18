@@ -43,6 +43,8 @@ Buying, comparing, trying on, asking staff.
 - `new` 〜てもいいですか — asking permission
 - `new` 〜てみる — trying something out
 - `new` もっといいの（が）ありますか
+- `new` Ordering word order — [item]を[counter]お願いします, not [counter][item]ください
+- `new` 少々お待ちください / お待たせいたしました — service set phrases
 
 ### [travel_and_transport.md](travel_and_transport.md)
 Trains, routes, going and returning.
@@ -82,6 +84,7 @@ Talks, openings and closings, opinions, addressing a teacher.
 
 ### [people_and_politeness.md](people_and_politeness.md)
 Pronouns, family terms, compliments.
+- `new` Self-intro vocab — 出身 / 趣味 / 大好き, spontaneously constructed 2026-08-07
 - `solid` Family terms — 父 vs お父さん (first clean spontaneous 内/外 use)
 - `shaky` Responding to a compliment
 - `new` 国 / お国はどちらですか — asking where someone's from
@@ -114,7 +117,7 @@ Eating, ordering, describing food and temperature.
 Counting, counters, dates. **Extra quiz weight per `quiz_mode.md`.**
 - `shaky` Days of the month — 1–10, 14, 20, 24 are irregular
 - `shaky` Months — 4月 しがつ / 7月 しちがつ / 9月 くがつ
-- `shaky` Counters (助数詞) — 本 specifically the weak one now (ろっぽん/はっぽん/ななほん); 人/つ/匹/個 improving
+- `shaky` Counters (助数詞) — broadly weak, not narrowly; 人 AND 本 both re-missed 2026-08-07 after looking solid the day before
 - `new` Large numbers — 300 さんびゃく, 600 ろっぴゃく, 800 はっぴゃく…
 - `new` Decimals — てん
 - `new` Relative days — きのう set; no particle
@@ -127,7 +130,7 @@ Conjugation grids, adjectives, connectors, positions.
 - `new` **が vs は — new information sits before が, after は**; は/が never stack (miss: ご質問がはありますか, 2026-08-06)
 - `new` **が / でも / けど — "but"**; が-conjunction vs が-subject disambiguated by position
 - `shaky` **Location particle dropped before place names — 3 instances**
-- `shaky` **い / な adjective conjugation — full grid** — な-adjectives solidifying (安全でした ✓); い-adjective past (かった/くなかった) is the real blocker, incl. dropping the sokuon (たかかた) and かった→かつ mispronunciation
+- `shaky` **い / な adjective conjugation — full grid** — な-adjectives solidifying (安全でした ✓, held up again 2026-08-07); い-adjective past (かった/くなかった) is the consistent blocker across 3 sessions, incl. dropped sokuon and かった→かつ mispronunciation ("takakatsu")
 - `shaky` です past でした + **the い-adjective trap** (quiz miss 2026-07-25)
 - `shaky` Positional nouns — 上/下/中/前/後ろ/横/隣/近く/間
 - `shaky` 多い / 少ない — misread as すきない; predicative (人が多い), not 多い人
@@ -174,8 +177,8 @@ Cross-cutting: homophones, multi-reading kanji, pronunciation.
 - `shaky` **Dropped morae in 4+ mora words** — とおおい · おもしかった · muzugashi, 3× on 2026-08-01
 - `new` Irregular whole-word readings — 今日, 今年, 八百屋, 一人…
 - `new` 双葉 vs 二子玉川 — place-name substitution risk (flagged by Gemini)
-- `new` かった (い-adj past) vs かつ／カツ — dropped sokuon drifting toward a different word
-- `new` Pitch accent — tested externally 2026-08-06 (Gemini/ChatGPT voice); pronunciation improving fast per feedback
+- `new` かった (い-adj past) vs かつ／カツ — dropped sokuon drifting toward a different word; recurring 3rd session running ("takakatsu", 2026-08-07)
+- `new` Pitch accent — untestable by transcript-only voice tools per ChatGPT's own admission (2026-08-07); treat feedback as rhythm/mora-timing, not verified pitch
 
 ### [class_raw_notes.md](class_raw_notes.md)
 The user's unedited class jottings, kept verbatim as source of truth, with
@@ -192,15 +195,26 @@ Highest-value drilling right now, by evidence:
 2. **ありがとうございます vs ございました** — missed in both directions in a
    single session (2026-08-01).
 3. **着ます vs はきます** — re-asked from scratch a week after being taught.
-4. **Counters, 本 specifically** — narrowed from all counters after
-   2026-08-06 drilling showed 人/つ/匹/個 and irregulars (ふたり, ろっぴゃく)
-   are relatively solid; ろっぽん/はっぽん/ななほん are not.
-5. **い-adjective past forms (かった/くなかった)** — narrowed from the whole
-   adjective grid after 2026-08-06 drilling: な-adjectives (安全でした) are
-   solidifying, い-adjective past is the actual remaining blocker, including
-   two new pronunciation-level errors (dropped sokuon, かった→かつ drift).
-   Per the user's own diagnosis (2026-08-06): this is retrieval-under-pressure,
-   not comprehension — needs spoken *production* drilling, not recognition.
+4. **Counters, broadly** — a 2026-08-06 session suggested 人 and the
+   irregulars/large-numbers were solid with only 本 weak, but a 2026-08-07
+   session re-missed 人 (ふたり, さんにん) on top of 本 (ろっぽん, はっぽん,
+   ななほん). Don't narrow the drill — keep the whole counter set in rotation.
+5. **い-adjective past forms (かった/くなかった)** — the confirmed blocker
+   within the adjective grid, consistent across 3 separate sessions now
+   (2026-07-25, 08-06, 08-07). な-adjectives (安全でした, 有名でした) are
+   holding up well by contrast. Two recurring pronunciation-level errors:
+   dropped sokuon (たかかた) and かった→かつ drift ("takakatsu"). Per the
+   user's own diagnosis: retrieval-under-pressure, not comprehension — needs
+   spoken *production* drilling, not recognition.
 6. **しか〜ない / question-word+も+negative** — same recognition-vs-production
    gap as #5: understood immediately once corrected, not yet producible
    unaided (2026-08-06).
+7. **Natural ordering/phrasing over grammatically-possible phrasing** — e.g.
+   ひとつコーヒーください (understandable) vs コーヒーを一つお願いします
+   (natural). Needs more exposure to ready-made conversational chunks, not
+   just grammar correctness. New as of 2026-08-07.
+
+**On pitch-accent claims from voice-mode tools:** treat as rhythm/mora-timing
+feedback, not verified acoustic pitch analysis — ChatGPT itself says it
+can't reliably diagnose pitch contours from a text session. See
+`reading_traps.md` → Pronunciation.

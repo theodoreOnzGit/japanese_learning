@@ -10,6 +10,25 @@ Status labels: `new` · `shaky` · `solid` · `mastered` — see `MAP.md`.
 
 ### Core (N5)
 
+#### Self-introduction vocab: 出身 / 趣味 / 大好き — `new`
+
+From a roleplay session (2026-08-07, "meeting someone for the first time")
+— all produced spontaneously, constructed rather than recited:
+
+> シンガポール出身です。 — "I'm from Singapore." (出身 しゅっしん, "origin/
+> hometown" — reinforces お国はどちらですか below, answered with から or
+> 出身です)
+> 趣味はギターです。 — "My hobby is guitar." (趣味 しゅみ, "hobby")
+> ギターが大好きです。 — "I love guitar." (大好き だいすき, な-adjective,
+> "love/really like" — takes が for the liked thing, same が-stative shape as
+> 欲しい/興味がある)
+> 今、ひまです。／明日はとても忙しいです。 — correct spontaneous reuse of the
+> already-tracked ひま/忙しい pair from `everyday_conversation.md`.
+
+Good evidence of moving from reciting memorized lines to actually
+constructing sentences — noted explicitly as a strength in that session's
+feedback.
+
 #### Family terms: yours vs theirs — `solid`
 
 Got right unprompted 2026-08-01 (父にもらいました, not お父さん) — the first

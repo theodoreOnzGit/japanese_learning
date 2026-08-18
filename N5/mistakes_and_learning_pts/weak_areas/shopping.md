@@ -163,6 +163,36 @@ From class 2026-07-25 — asking whether something better/cheaper exists.
 The が is written but commonly dropped in speech. の here is a placeholder
 noun ("one"), i.e. "is there a better *one*?"
 
+#### Ordering word order: [item]を[counter] お願いします — `new`
+
+From a roleplay session (2026-08-07, coffee shop). Initially produced
+~~ひとつコーヒーください~~ — understandable, but not the phrase a Japanese
+speaker would reach for. Natural order puts the **item first**, then the
+counter, then the request verb:
+
+> コーヒーを一つお願いします。 — "One coffee, please."
+> 寿司はどこですか。／カードでお願いします。／ミルクはお願いします。／
+> 砂糖は結構です。／コーヒーはいくらですか。
+
+All produced successfully in the same session — this was the strongest area
+of that roleplay. **いくら** ("how much," asking price) is new vocab from
+the same exchange. 結構です (polite "no thank you," declining) was used
+correctly and distinguished from 大丈夫です reasonably well.
+
+#### Service phrases: 少々お待ちください / お待たせいたしました — `new`
+
+From the same roleplay (2026-08-07) — introduced in-character by the
+"shopkeeper" and not yet recognized automatically; had to ask what they
+meant both times.
+
+- **少々お待ちください** (しょうしょう おまちください) — "Please wait a
+  moment" (formal, said by staff to a customer).
+- **お待たせいたしました** (おまたせいたしました) — "Sorry to keep you
+  waiting" (said when service arrives, after any wait).
+
+Both are standard service-industry set phrases worth being able to recognize
+on hearing, even if not yet needed for active production.
+
 ## Cultural
 
 Nothing logged yet specific to shopping. Candidates if they come up: haggling

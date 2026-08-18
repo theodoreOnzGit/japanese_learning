@@ -83,6 +83,16 @@ producing the exact form on demand still lags. Needs repeated *spoken
 production* drilling on past/past-negative specifically, until it's
 automatic — recognition is already solid.
 
+**Third data point (2026-08-07, ChatGPT roleplay session):** hesitated on
+高い→高かった again, this time producing "takata" and, notably, **"takakatsu"**
+— a portmanteau of the かった-drop and the かった→かつ drift caught the day
+before, now merged into one slip. な-adjective production continued to hold
+up in the same session (高かったです, 安全でした, 安全じゃなかったです,
+有名でした all eventually correct, and 安全/有名 correctly identified as
+な-adjectives). い-adjective past remains the clear, consistent gap across
+three separate sessions now — the single most consistent target on this
+whole list.
+
 **Minimal pair already in these notes** (`everyday_conversation.md`):
 
 > ひま**でした** (な) — "I was free"

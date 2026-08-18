@@ -75,10 +75,19 @@ There's no single universal rule — this comes down to drilling each counter
 individually.
 
 **Update (2026-08-06, ChatGPT drilling session):** the irregular/large-number
-forms are relatively solid now — correctly recalled ふたり, さんにん, ろっぴゃく.
-**本 specifically is still the weak point** — struggled with ろっぽん, はっぽん,
-ななほん. Narrow the counter drilling to 本 specifically rather than spreading
-evenly across all counters.
+forms looked relatively solid — correctly recalled ふたり, さんにん, ろっぴゃく.
+**本 specifically stood out as weak** — struggled with ろっぽん, はっぽん,
+ななほん.
+
+**Correction (2026-08-07, ChatGPT roleplay session) — the 2026-08-06 "人 is
+solid" read was premature.** In a different session the very next day,
+struggled again with 二人（ふたり）and 三人（さんにん）— the exact items just
+called solid — alongside continued difficulty with 六本/八本/七本/一本
+(ろっぽん/はっぽん/ななほん/いっぽん). **Don't narrow the counter drill to 本
+alone** — 人 needs to stay in rotation too. One correct-under-a-different-day's
+questioning isn't the same as being solid; per the mastery bar, this needed
+2+ correct unaided across separate sessions before de-weighting, which hadn't
+actually happened yet. Counters remain broadly weak, not narrowly weak.
 
 #### Large-number sound changes — `new`
 
