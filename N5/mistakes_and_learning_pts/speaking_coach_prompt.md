@@ -1,7 +1,9 @@
 # Speaking Coach Prompt (for ChatGPT / Gemini voice mode)
 
 Paste everything below into ChatGPT or Gemini (voice mode) to start a spoken
-quiz session on my current Japanese weak areas.
+quiz session on my current Japanese weak areas. This is the **drilling**
+mode — direct production practice on specific weak points. For natural
+conversational practice instead, see `roleplay_coach_prompt.md`.
 
 ---
 
