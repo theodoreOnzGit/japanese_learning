@@ -195,7 +195,13 @@ ending rather than a lexical word. See the かった vs かつ entry above.
 
 - **科学者 → 「くがくがくしゃ」** (2026-07-25) — garbled under production
   pressure. See `nuclear_and_science.md`.
-- **セオドウ vs セオドア** — セオドア is the conventional katakana for "Theodore."
+- **セオドウ vs セオドア vs テオドー** — three different katakana renderings of
+  "Theodore" across three sessions (セオドウ originally, corrected to セオドア,
+  then テオドー produced in a hotel roleplay 2026-08-30). **セオドア remains
+  the recommended standard** (ド→ドア matches English "-dore"). Worth
+  deliberately settling on one spelling and sticking with it rather than
+  re-deriving it each session — self-introduction shouldn't be a fresh
+  transliteration exercise every time.
 - **双葉 (ふたば, Futaba) risked substitution with 二子玉川 (ふたこたまがわ,
   Futakotamagawa)** — flagged by Gemini (2026-08-06 speaking practice) as a
   risk during Slide 10/11 readthrough. Different place, different reading —

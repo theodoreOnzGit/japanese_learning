@@ -138,6 +138,37 @@ Also reinforced: **福島にいました** (not ありました) — います i
 beings, あります for inanimate existence. 行きました ("went") vs いました ("was
 staying"). Reading: 三、四日間 (さん、よっかかん) reuses みっか/よっか.
 
+#### Asking directions: どこ／どの／まで／たい — `new`
+
+From a roleplay session (2026-08-30, hotel → concierge → bus stop chain).
+Successfully constructed:
+
+> 駅はどこですか。 — "Where's the station?"
+> 駅まで行きたいです。 — "I want to go to the station." (まで + 行きたい,
+> reusing the already-tracked たい pattern)
+> バス停はどこですか。 — "Where's the bus stop?" (バス停 new vocab)
+> どのバスですか。 — "Which bus?" (**どの** + noun — a new determiner: どの
+> attaches directly before a noun to ask "which ___," distinct from どちら
+> (`everyday_conversation.md`, polite "which of two/where") and どれ
+> ("which one," standalone pronoun). どの本 / どのバス / どの人.)
+
+Staff response, successfully parsed with help:
+
+> まっすぐ行って、左です。 — "Go straight, and it's on the left."
+
+**て-form connecting an instruction sequence** — 行っ**て** (て-form of 行く)
+links "go straight" to "it's on the left" as one flowing direction, the same
+job て does connecting any two clauses (see `describing_and_sentence_building.md`
+→ Connector map). Directions-giving is a natural, high-value context for this
+pattern: [action]て、[result/next step].
+
+Register note (2026-08-30 session): the learner explicitly found
+**駅まで行きたいんですけど、どのバスですか** (with んですけど softening/
+connecting) harder than the plain two-sentence version
+**駅まで行きたいです。どのバスですか。** — see
+`describing_and_sentence_building.md` for the んですけど note; the plain
+version should stay the default until the softer connector is comfortable.
+
 #### 上高地 (かみこうち) — place name, Nagano — `new`
 
 Note, class mode 2026-08-15. Mountain valley/hiking area in Nagano prefecture

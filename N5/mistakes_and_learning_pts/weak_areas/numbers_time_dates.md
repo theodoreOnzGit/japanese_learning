@@ -79,6 +79,11 @@ class mode 2026-08-15: 2泊3日 = にはくみっか — "3 days, 2 nights" (Eng
 says "3D2N," Japanese says nights first: N泊M日). 一泊 いっぱく (sokuon, same
 family as 本/匹/個 above), 二泊 にはく, 三泊 さんぱく.
 
+**Spontaneous correct use (2026-08-30, hotel check-in roleplay):**
+一泊です。("One night.") — produced unaided at a hotel front desk, reusing
+this counter in exactly the situation it's for. Good first spontaneous data
+point toward `solid`.
+
 **Update (2026-08-06, ChatGPT drilling session):** the irregular/large-number
 forms looked relatively solid — correctly recalled ふたり, さんにん, ろっぴゃく.
 **本 specifically stood out as weak** — struggled with ろっぽん, はっぽん,

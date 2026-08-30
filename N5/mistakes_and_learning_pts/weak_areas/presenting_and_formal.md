@@ -96,6 +96,56 @@ Fuller: 日本語は自分で書きましたが、文法をチェック**して�
 すみません frames it as wrongdoing. Save it for an actual rule break. To ask
 permission instead: AIを使ってもいいですか。
 
+#### Hotel check-in exchange — `new`
+
+From a roleplay session (2026-08-30). Learner side, all spontaneously
+constructed:
+
+> 私はテオドーです。 — self-intro (see `reading_traps.md` for a third
+> variant of this name's katakana rendering).
+> 一泊です。 — "One night." (泊 counter, see `numbers_time_dates.md`)
+> ルームサービスがありますか。 — "Is there room service?" (ルームサービス new
+> vocab; ordinary Xがありますか existence pattern, already well-tracked)
+
+Staff side, needing repetition/explanation to parse:
+
+> お名前をお願いします。 — "Your name, please." (お名前 already tracked, o
+> honorific on 名前)
+> 朝食は朝7時から10時までです。 — "Breakfast is from 7am to 10am." (から〜まで
+> with **time**, not space — same pattern as the Fukushima Changi→Narita
+> line, just a different domain)
+> こちらが鍵です。 — "Here's the key." (鍵 かぎ, new vocab; こちら already
+> tracked as the polite こそあど)
+> お部屋番号をお願いします。 — "Your room number, please." (部屋番号 へやばんごう,
+> new vocab — 部屋 room + 番号 number)
+
+Two new formal acknowledgment phrases, not yet drilled:
+
+- **かしこまりました** — "Certainly" / "Understood" (very formal, said by
+  staff accepting a request — stronger register than はい/わかりました).
+- **承知しました（しょうちしました）** — "Understood" / "Noted" — near-synonym
+  of かしこまりました, both standard service-industry acknowledgments. Neither
+  needed for the learner to *produce* yet, but both need to be recognized on
+  hearing.
+
+New confirming pattern: **〜でよろしいですか** — "is ___ okay/correct?", used
+by staff to confirm a detail (e.g. implicitly お名前はテオドー様でよろしい
+ですか). Softer/more formal than a bare 〜ですか.
+
+**Instruction for future roleplay sessions (2026-08-30):** introduce these
+formal service phrases **gradually, one at a time** rather than several at
+once — formal/service-register Japanese is measurably harder for the learner
+than casual café/convenience-store Japanese from earlier sessions.
+
+#### もう一度お願いします — asking for repetition — `new`
+
+From the same session. **もう一度（もういちど）** = "one more time" — 一度
+(いちど, "once") reused productively: もう一度お願いします ("please say that
+again"), もう一度言ってください (も, more explicitly with て+ください below).
+Paired with the already-tracked これは何ですか／何ですか for clarification.
+Asking for clarification is an explicit strength, not a weakness — the
+learner does this naturally and should keep doing it.
+
 #### 思い出 (おもいで) — "memories" — `new`
 
 Vocab, class mode 2026-08-15 (student presentations). Noun — 楽しい思い出

@@ -80,6 +80,25 @@ Sentence used: 魚と卵焼きとみそしるが ありました。とても お
 Note おいし**かった**です — the い-adjective past that was a quiz miss on
 2026-07-25.
 
+#### 朝食 (ちょうしょく) vs 朝ごはん — register pair — `new`
+
+From a hotel roleplay session (2026-08-30): 朝ごはんのメニューがありますか。／
+朝ごはんはいくらですか。 both used successfully, but the hotel staff's own
+line used **朝食** instead: 朝食は朝7時から10時までです。
+
+**朝食（ちょうしょく）** is the formal/written register for "breakfast" —
+same 会議-vs-ミーティング, native-vs-Sino-Japanese split already logged for
+other word pairs (`shopping.md`, `travel_and_transport.md` → ダイビング/潜水).
+朝ごはん stays the everyday spoken default; 朝食 is what hotels, hospitality
+signage, and formal announcements use. **メニュー** (menu) is new vocab from
+the same exchange; **いくら** ("how much") was already logged in
+`nuclear_and_science.md`'s sibling coffee-shop session and reused correctly
+here.
+
+Coffee-shop reinforcement, same session family: ミルクお願いします。／砂糖は
+結構です。 — correct reuse of 結構です (declining politely) and お願いします
+(requesting), both already tracked.
+
 ## Cultural
 
 ### いただきます / ごちそうさま — `new`

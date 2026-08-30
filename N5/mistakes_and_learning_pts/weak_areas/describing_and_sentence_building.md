@@ -477,6 +477,38 @@ sequence, pairs naturally with それから: まず、〜。それから、〜�
 confused with まずい** ("tastes bad," い-adjective — one extra mora, unrelated
 meaning). See `reading_traps.md`.
 
+**て-form giving a sequential instruction** (roleplay, 2026-08-30):
+まっすぐ行っ**て**、左です。 ("Go straight, and it's on the left.") — the same
+て-form-links-clauses job as any other verb chaining, applied to
+direction-giving specifically. See `travel_and_transport.md`.
+
+#### 〜てください — polite request — `new`
+
+Recognized correctly, class mode: 続けます → **続けて**ください ("please
+continue"). て-form + ください = "please do [verb]" — the request-form
+sibling of 〜てもいいですか (asking permission, `shopping.md`) and 〜てみる
+(trying something, `shopping.md`). Same て-form base across all three;
+the ending after て is what changes the meaning (ください = request,
+もいいですか = permission, みる = trying).
+
+#### 〜んですけど — deferred, don't push yet — `new`
+
+Noted 2026-08-30 (hotel/directions roleplay): explicitly less comfortable
+than the plain two-sentence version. Compare:
+
+> 駅まで行きたいです。どのバスですか。 ← comfortable, plain たい + separate
+> question
+> 駅まで行きたいんですけど、どのバスですか。 ← harder — んですけど adds an
+> explanatory/softening frame ("the thing is, I want to go to the station,
+> so...") connecting the two into one flowing sentence
+
+**Pedagogical note, not just a grammar note:** keep using the plain
+two-sentence version as the default in roleplay for now; only introduce
+んですけど once the simpler construction is fully automatic. This mirrors
+the そして-before-〜くて/〜で sequencing already established above — simpler,
+type-judgement-free constructions first, more natural/advanced connectors
+once the basics are solid.
+
 #### 〜くて — い-adjective connector — `new`
 
 From 2026-07-25. い-adjectives have their own connector: drop い, add くて —

@@ -55,6 +55,10 @@ Trains, routes, going and returning.
 - `new` 行きます + 〜館 buildings (美術館, 図書館, 映画館…)
 - `new` に with point-in-time, NOT with duration
 - `new` そのうち + いました (not ありました)
+- `new` 行きます purpose-of-motion — ます-stem + に + 行きます (およぎに行きます)
+- `new` 上高地 / ダイビング・潜水・飛び込みます / 登ります — Nagano trip vocab
+- `new` どこ／どの／まで／たい for asking directions; どの vs どちら vs どれ
+- `new` て-form linking a direction instruction (まっすぐ行って、左です)
 
 ### [gifts_and_giving.md](gifts_and_giving.md)
 あげる/くれる/もらう, and the customs around gifting. **Densest topic.**
@@ -80,6 +84,9 @@ Talks, openings and closings, opinions, addressing a teacher.
 - `new` Formal sentence-final か must be explicit, not just rising intonation
 - `new` 自分で
 - `new` AI (エーアイ) / 人工知能 + 使う; disclosing AI use to a teacher
+- `new` 思い出 — memories
+- `new` Hotel check-in exchange — お名前/一泊/朝食/鍵/お部屋番号/かしこまりました/承知しました/〜でよろしいですか
+- `new` もう一度お願いします — asking for repetition
 - `new` *Cultural:* audience/teacher as 外 (out-group)
 
 ### [people_and_politeness.md](people_and_politeness.md)
@@ -111,6 +118,7 @@ Eating, ordering, describing food and temperature.
 - `new` **つめたい vs さむい** — cold-to-touch vs cold-air (and 熱い/暑い mirroring it)
 - `new` なし（梨）— pear; homophone with 無し "without"
 - `new` Hotel breakfast vocab — 朝ごはん, 魚, 卵焼き, みそしる…
+- `new` 朝食 vs 朝ごはん — formal vs everyday register; メニュー
 - `new` *Cultural:* いただきます / ごちそうさまでした
 
 ### [numbers_time_dates.md](numbers_time_dates.md)
@@ -124,6 +132,8 @@ Counting, counters, dates. **Extra quiz weight per `quiz_mode.md`.**
 - `new` Relative weeks — 先週/今週/来週; 先・今・来 across units
 - `new` 週末 — 先週末/今週末/来週末; は on time words is fine
 - `new` Relative years — 今年 ことし; 年 reads ねん or とし
+- `new` 一日中 — "all day"; suffix, no particle
+- `new` 泊 counter (いっぱく/にはく/さんぱく) — 1× spontaneous correct use 2026-08-30
 
 ### [describing_and_sentence_building.md](describing_and_sentence_building.md)
 Conjugation grids, adjectives, connectors, positions.
@@ -147,6 +157,9 @@ Conjugation grids, adjectives, connectors, positions.
 - `new` に興味がある + から reason clause
 - `new` から — one particle, four jobs (origin / time / range / reason)
 - `new` 〜が欲しい / 〜たい — the が shift
+- `new` まず — "first (of all)"; not まずい
+- `new` 〜てください — polite request (て-form + ください)
+- `new` 〜んですけど — deferred; harder than plain たい, hold off introducing
 
 ### [clothing.md](clothing.md)
 Which verb goes with which garment. **Survived a full round without sticking.**
@@ -177,6 +190,9 @@ Cross-cutting: homophones, multi-reading kanji, pronunciation.
 - `shaky` **Dropped morae in 4+ mora words** — とおおい · おもしかった · muzugashi, 3× on 2026-08-01
 - `new` Irregular whole-word readings — 今日, 今年, 八百屋, 一人…
 - `new` 双葉 vs 二子玉川 — place-name substitution risk (flagged by Gemini)
+- `new` セオドウ／セオドア／テオドー — three renderings of "Theodore," settle on セオドア
+- `new` 国境（こっきょう）— sokuon inserted in compound reading
+- `new` まず vs まずい — one extra mora, unrelated meaning
 - `new` かった (い-adj past) vs かつ／カツ — dropped sokuon drifting toward a different word; recurring 3rd session running ("takakatsu", 2026-08-07)
 - `new` Pitch accent — untestable by transcript-only voice tools per ChatGPT's own admission (2026-08-07); treat feedback as rhythm/mora-timing, not verified pitch
 
@@ -213,6 +229,29 @@ Highest-value drilling right now, by evidence:
    ひとつコーヒーください (understandable) vs コーヒーを一つお願いします
    (natural). Needs more exposure to ready-made conversational chunks, not
    just grammar correctness. New as of 2026-08-07.
+8. **Listening comprehension — new top priority, 2026-08-30.** The clearest
+   weakness identified in a hotel/directions roleplay: production is now
+   often ahead of listening. Short, familiar sentences land fine; longer or
+   unfamiliar native-style responses (朝食は朝7時から10時までです。, formal
+   hotel phrases like かしこまりました) needed breaking down. Future roleplay
+   sessions should: introduce one new phrase at a time, repeat important
+   phrases, slow down on request, break unfamiliar sentences into chunks —
+   but keep escalating difficulty as comprehension improves, don't stay
+   artificially easy forever.
+9. **Vocabulary retrieval speed — cross-cutting, 2026-08-30.** Recurring
+   pattern: "I know what I want to say, what's the word?" — a retrieval-speed
+   gap, not a grammar gap (same diagnosis as #5's い-adjective issue, just
+   applied to vocabulary). Roleplay's situational framing (vocabulary
+   attached to a scenario, not an isolated flashcard) is specifically good
+   for this — prefer it over vocab lists for these items.
+
+**Strengths worth preserving, not just gaps** (2026-08-30 hotel roleplay):
+spontaneous sentence construction (not just reciting memorized lines),
+restaurant/hotel transactional Japanese (currently the strongest situational
+category), asking for clarification when needed (何ですか／もう一度お願いします
+— a genuine communication skill, not a failure), and correctly noticing
+grammar patterns from exposure (続けます→続けてください, て-form chaining in
+directions) before being told the rule explicitly.
 
 **On pitch-accent claims from voice-mode tools:** treat as rhythm/mora-timing
 feedback, not verified acoustic pitch analysis — ChatGPT itself says it
