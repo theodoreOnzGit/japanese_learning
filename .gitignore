@@ -332,6 +332,11 @@ TSWLatexianTemp*
 
 *.pdf
 
+# Deliberately tracked reference textbook PDFs (see textbooks/README.md for
+# license/citation) -- the *.pdf rule above is for LaTeX build output, not
+# these.
+!textbooks/**/*.pdf
+
 # Beads / Dolt files (added by bd init)
 .dolt/
 *.db
