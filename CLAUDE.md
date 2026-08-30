@@ -67,6 +67,20 @@ questions or distractors. Source PDFs and their `kopitiam pdf2md` conversions
 live in `resources/exams/`; citation in
 `resources/cambridge-igcse-japanese-0716.md`.
 
+### Listening mode
+
+When the user asks for listening practice ("listening practice", "listening
+mode", "let's do listening"), follow `N5/listening_mode.md` rather than
+improvising. It's a 7-stage roadmap (short familiar sentences → two-sentence
+chains → roleplay listening → controlled natural Japanese → noun
+modification → short authentic content → short native content), a 🟢/🟡/🔴
+difficulty-control system, and a 10–15 min daily-routine structure. Distinct
+from quiz mode: this is comprehension-first (the user has to understand
+*Claude's* Japanese, not just produce their own), and complements
+`roleplay_coach_prompt.md`, which shares the same scenario set but is
+production-focused for external voice tools. Logs into the same
+`weak_areas/` system as every other mode — no separate tracker.
+
 ### Dogfooding kopitiam (standing rule)
 
 `kopitiam` is the user's own Rust CLI (`~/.cargo/bin/kopitiam`, source at
