@@ -299,6 +299,12 @@ independently produce すししか食べません — recognized it immediately 
 corrected. Same recognition-vs-production gap as question-word+も above;
 needs the same repeated-production treatment.
 
+**New しか〜ない example, class mode 2026-08-15:** 若い時しかできない —
+"you can only do this when you're young." Breakdown: 若い（わかい, "young,"
+い-adj）+ 時（とき, "time/when," attaches directly after a plain-form
+adjective — no の needed here）+ しか + できない (negative potential of
+する, "can't do"). しか forces the negative できない rather than plain ない.
+
 Also in the same class sentence: **忙しかったですから** (い-adjective past + から
 reason clause, から attaching after です) and **両親（りょうしん）** "parents" —
 on-reading, so someone else's parents take **ご**両親, matching the お/ご prefix
@@ -403,6 +409,12 @@ so not yet spontaneous production — status unchanged.
 Useful application: 双葉は人が少ないです — an honest line about an evacuated town,
 for the Fukushima deck (`nuclear_and_science.md`).
 
+#### 長い (ながい) — "long" — `new`
+
+Question, class mode 2026-08-15. い-adjective, length or duration:
+髪が長いです (long hair), 長い時間 (a long time). Past/negative follow the
+regular い-adjective grid above: 長かった／長くない.
+
 #### 測る (はかる) / 高度 (こうど) — `new`
 
 From the Fukushima flight slide 2026-08-01.
@@ -460,6 +472,11 @@ Changi空港から成田空港まで行きました。**そして**、東京に�
 Neighbours: **そして** (and / and then) · **それから** (after that — explicitly
 sequential) · **また** (also, furthermore — purely additive).
 
+**まず — "first (of all)."** Question, class mode 2026-08-15. Opens a
+sequence, pairs naturally with それから: まず、〜。それから、〜。 **Not to be
+confused with まずい** ("tastes bad," い-adjective — one extra mora, unrelated
+meaning). See `reading_traps.md`.
+
 #### 〜くて — い-adjective connector — `new`
 
 From 2026-07-25. い-adjectives have their own connector: drop い, add くて —
@@ -495,6 +512,29 @@ a goal/destination.
 **Object particle shift を→が:** like 〜たい (水**が**飲みたい), potential verbs
 often prefer が: 紅茶**が**買えます. Both are heard; が is more natural.
 
+**Second way to say "can": [dictionary form] + ことができます.** Note, class
+mode 2026-08-15: たのしむことができます ("able to enjoy"). Attaches to the
+**plain dictionary form**, not the stem (unlike 可能形 above, which replaces
+the verb ending entirely). Same object-particle shift applies: 楽しむこと**が**
+できます — が marks こと, not the original object.
+
+| | Potential form (可能形) | ことができます |
+|---|---|---|
+| Attaches to | verb stem, ending replaced (買う→買える) | dictionary form, unchanged (楽しむ→楽しむこと) |
+| Register | shorter, more casual-leaning | slightly more formal/explicit |
+
+#### 誘われました (さそわれました) — passive form (受身形) — `new`
+
+Vocab, class mode 2026-08-15 (student presentations). 誘う（さそう, "to
+invite"）→ passive 誘**われ**ます／誘**われ**ました ("was invited"). Beyond
+sensei's stated frontier for regular class (see `class_raw_notes.md`), but
+coming up naturally in presentation content — log now, don't drill actively
+until sensei introduces it directly.
+
+**Formation (う-verb):** swap final -u → -areru. 誘**う** → 誘わ**れる** →
+誘われ**ます**. (Note the extra わ — う-verbs ending in う insert わ before
+れる, same as their negative form: 誘わ**ない**／誘わ**れる**.)
+
 #### に興味がある — "interested in" — `new`
 
 From 2026-07-25. **[thing]に興味があります** — 興味 is a noun that "exists" for
@@ -529,6 +569,37 @@ possible but ambiguous — see `people_and_politeness.md`.
 
 From class 2026-07-25: Nounが ほしいです。/ あたらしいくるまは ほしくないです。
 Desire takes が, not を. 欲しい is an い-adjective (ほしくない, ほしかった).
+
+**Question, class mode 2026-08-15: Nが欲しいです vs 動詞stem＋たい.** Different
+word class, not two versions of the same thing:
+
+| | Attaches to | Wants | Conjugates like |
+|---|---|---|---|
+| **Nが欲しいです** | a **noun** | to *have* the thing | い-adjective (ほしくない／ほしかった) |
+| **動詞stem＋たいです** | a **verb** (ます-stem) | to *do* the action | い-adjective too (飲みたくない／飲みたかった) |
+
+Both prefer **が** over を for the target: 水**が**飲みたいです (see the potential-
+form entry above for the same を→が shift). 車が欲しいです ("want a car") vs
+車を運転したいです ("want to drive a car") — one's a noun, the other's a verb.
+
+**Correction, class mode 2026-08-15: both are first-person only (or
+second-person in a question) by default.** ~~妹は水が飲みたいです~~ is wrong —
+たいです/欲しいです state *your own* (or, asking directly, *the listener's*)
+want. For a third party's desire, switch to the たがる／ほしがる form instead:
+
+> 妹は水を飲み**たがっています**。— "My sister wants to drink water."
+> 妹は新しいくるまを**ほしがっています**。— "My sister wants a new car."
+
+（-がる turns the raw desire into an *observed/inferred* desire about someone
+else — roughly "shows signs of wanting.") Not yet drilled — `new`.
+
+**Register note, class mode 2026-08-15: 〜たいですか as a direct question is
+fine for a subordinate/equal, but too blunt for a superior.** 何が食べ**たい
+ですか** is okay asking a junior colleague or a friend; asking your boss the
+same way reads as presumptuous — soften with something like 何に**なさいます
+か** instead. Same asymmetry as the あげる/くれる/もらう register ladder in
+`gifts_and_giving.md` — directness about someone else's internal state scales
+with how much status distance there is.
 
 ## Cultural
 

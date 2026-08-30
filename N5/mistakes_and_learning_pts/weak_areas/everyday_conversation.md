@@ -63,6 +63,19 @@ From class 2026-08-01. Both join **nouns only** — never verbs or adjectives.
 - Verbs chain with て-form; い-adjectives with 〜くて (see
   `describing_and_sentence_building.md`).
 
+#### どうして / なぜ / なんで — "why" — `new`
+
+Question, class mode 2026-08-15: "how to say why."
+
+| Word | Register |
+|---|---|
+| **どうして** | neutral, everyday spoken — the default choice |
+| **なぜ** | more formal/written, also used in accusatory-sounding questions |
+| **なんで** | very casual, friends only |
+
+Pairs with **から** for the answer (see `describing_and_sentence_building.md`
+→ から): どうして行きましたか。→ 興味がありました**から**。
+
 #### こちら / そちら / あちら / どちら — the polite こそあど — `new`
 
 From class 2026-07-25, listed among "vocab that eluded me." These are the
@@ -126,6 +139,31 @@ Ongoing states use ている instead: 知っています, 結婚しています,
 Two buckets: **just-happened change → past**; **ongoing state → ています**.
 
 Same 完了 logic as ありがとうございました (`presenting_and_formal.md`).
+
+#### ます-stem + にくい／やすい — "hard/easy to ~" — `new`
+
+Vocab, class mode 2026-08-15: わかりにくい ("hard to understand" — わかり +
+にくい). Productive pattern on any ます-stem, and it conjugates as its own
+い-adjective: わかりにくい**です**／わかりにくかった**です**. Opposite is
+やすい ("easy to ~"): わかり**やすい** ("easy to understand"), 読み**やすい**
+("easy to read").
+
+#### 探します (さがします) vs 見つけます (みつけます) — search vs find — `new`
+
+Vocab, class mode 2026-08-15. **探す** = to search/look for (the process,
+may or may not succeed) — 仕事を探しています ("I'm job-hunting"). **見つける**
+= to find (the result, succeeded) — 財布を見つけました ("I found my wallet").
+Same process/result split as 買います vs 買えます in a different family.
+
+#### 諦めます (あきらめます) — "to give up" — `new`
+
+Vocab, class mode 2026-08-15. る-verb (drop ます → 諦める). Past 諦めました,
+negative 諦めません.
+
+#### マージャン — mahjong — `new`
+
+Vocab, class mode 2026-08-15 (student presentations, hobby topic). Katakana
+loanword from Chinese 麻雀; します-verb: マージャンをします.
 
 #### アルバイト (from German *Arbeit*) — `new`
 

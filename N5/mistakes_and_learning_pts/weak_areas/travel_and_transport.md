@@ -45,6 +45,12 @@ Same frame, opposite corners of the ます grid
 Note **せんしゅう takes no particle** while びじゅつかん takes に — the
 relative-time-word rule from `numbers_time_dates.md`.
 
+**Purpose of motion: ます-stem + に + 行きます** — "go (in order) to [verb]."
+Note, class mode 2026-08-15: およぎに行きます — "go to swim" (泳ぎます,
+およぎます, drop ます → およぎ + に + 行きます). Same に as the destination
+one above, just marking a *purpose* instead of a place: 買い物**に**行きます
+("go shopping"), 見**に**行きます ("go to see").
+
 **〜館（かん）= building** — a productive suffix worth learning as a set:
 
 | Word | Reading | Meaning |
@@ -131,6 +137,31 @@ to a subset: 9 days in Japan total, そのうち 3–4 days in Fukushima.
 Also reinforced: **福島にいました** (not ありました) — います is for animate
 beings, あります for inanimate existence. 行きました ("went") vs いました ("was
 staying"). Reading: 三、四日間 (さん、よっかかん) reuses みっか/よっか.
+
+#### 上高地 (かみこうち) — place name, Nagano — `new`
+
+Note, class mode 2026-08-15. Mountain valley/hiking area in Nagano prefecture
+— ties to 登ります just above.
+
+#### ダイビング / 潜水 (せんすい) / 飛び込みます (とびこみます) — "diving" — `new`
+
+Question, class mode 2026-08-15. **ダイビング** = scuba diving (loanword,
+します-verb: ダイビングをします). **潜水（せんすい）** = diving/submerging —
+more formal/technical register than ダイビング, e.g. 潜水艦（せんすいかん,
+submarine）. **飛び込みます** = to dive/jump in (pool, sea) — う-verb, 飛ぶ
+(fly/jump) + 込む (into).
+
+**Pattern worth noting, user's own observation 2026-08-15:** loanword vs
+native-word doublets are common — the katakana loanword (ダイビング) skews
+casual/everyday, the Sino-Japanese word (潜水) skews formal/technical. Same
+split seen with アルバイト (`everyday_conversation.md`) and generally with
+katakana clippings (スーパー, パソコン — `shopping.md`).
+
+#### 登ります (のぼります) — "to climb" — `new`
+
+Vocabulary gloss, class mode 2026-08-15. う-verb/godan: past 登りました,
+negative 登りません. Takes を for the thing climbed: 山**を**登ります
+("climb a mountain").
 
 ## Cultural
 

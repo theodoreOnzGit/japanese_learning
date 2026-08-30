@@ -24,6 +24,7 @@ Status labels: `new` · `shaky` · `solid` · `mastered` — see `MAP.md`.
 | 4 | 少ない / 好き | すくない / すき | misread 少ない as ~~すきない~~ | 2026-08-01 | `shaky` |
 | 5 | 梨 / 無し | なし | "pear" vs "without/none" | 2026-08-01 | `new` |
 | 6 | 熱い / 暑い / 厚い | あつい | hot-to-touch vs hot-weather vs thick | 2026-08-01 | `new` |
+| 7 | まず / まずい | まず / まずい | "first" (adverb) vs "tastes bad" (い-adj) — one extra mora | 2026-08-15 | `new` |
 
 #### 1. 椅子 (いす) vs いつ — `shaky`
 
@@ -131,8 +132,11 @@ The counter irregularities (ひとり/ふたり) are also in `numbers_time_dates
 | 外国 | がい**こく** | foreign country |
 | 中国 | ちゅう**ごく** | China (voiced) |
 | 国語 | **こく**ご | national language |
+| 国境 | **こっ**きょう | border (sokuon this time, not voicing) |
 
-Same kun-alone / on-in-compound pattern as 人 and 金.
+Same kun-alone / on-in-compound pattern as 人 and 金. Vocab note, class mode
+2026-08-15: 国境（こっきょう, "border") — sokuon inserted in the compound
+reading, matching the counter-word sound shifts in `numbers_time_dates.md`.
 
 #### 年 — ねん vs とし — `new`
 

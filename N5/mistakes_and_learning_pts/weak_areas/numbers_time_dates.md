@@ -74,6 +74,11 @@ Rule of thumb: the sokuon (っ) appears after **1, 6, 8, 10** with certain count
 There's no single universal rule — this comes down to drilling each counter
 individually.
 
+**泊（はく）— nights of a trip, always paired with the day count.** Note,
+class mode 2026-08-15: 2泊3日 = にはくみっか — "3 days, 2 nights" (English
+says "3D2N," Japanese says nights first: N泊M日). 一泊 いっぱく (sokuon, same
+family as 本/匹/個 above), 二泊 にはく, 三泊 さんぱく.
+
 **Update (2026-08-06, ChatGPT drilling session):** the irregular/large-number
 forms looked relatively solid — correctly recalled ふたり, さんにん, ろっぴゃく.
 **本 specifically stood out as weak** — struggled with ろっぽん, はっぽん,
@@ -163,6 +168,16 @@ the 先/今/来 pattern above:
 **は is correct here** — it topicalises the time ("as for last weekend"). The
 no-particle rule logged above concerns **に** specifically; は on a time word is
 normal and common (今日**は**さむいですね).
+
+#### 一日中 (いちにちじゅう) — "all day" — `new`
+
+Sensei's example, class mode 2026-08-15: 一日中ゲームをしたかったです。("[I]
+wanted to play games all day.") 中 (じゅう) as a suffix on a time word = "the
+whole/throughout" — no particle needed, it functions adverbially on its own.
+
+Same sentence is also a clean model for the い-adjective past rule
+(`describing_and_sentence_building.md`): たい conjugates like an
+い-adjective, so its past is **したかった**, never したいでした.
 
 #### Relative year words — `new`
 

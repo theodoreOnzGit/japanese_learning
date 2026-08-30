@@ -96,6 +96,12 @@ Fuller: 日本語は自分で書きましたが、文法をチェック**して�
 すみません frames it as wrongdoing. Save it for an actual rule break. To ask
 permission instead: AIを使ってもいいですか。
 
+#### 思い出 (おもいで) — "memories" — `new`
+
+Vocab, class mode 2026-08-15 (student presentations). Noun — 楽しい思い出
+("happy memories"), 思い出になりました ("it became a memory," i.e. a
+meaningful/memorable experience).
+
 ### Stretch (N4)
 
 #### 〜と思います — marking opinion vs fact — `new`
